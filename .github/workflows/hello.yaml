@@ -10,6 +10,31 @@ jobs:
     # Set the type of machine to run on
     runs-on: ubuntu-latest
     steps:
+      # Clone Godot
+      - name: Clone Engine
+        uses: actions/checkout@v2
+        with:
+          path: 'engine'
+          repository: 'funexpected/godot'
+          ref: 'godot-3.2.3'
+          submodules: 'recursive'
+
+      # Install all packages (except scons)
+      - name: Configure dependencies
+        run: |
+          sudo apt-get install build-essential pkg-config
+      # Upload cache on completion and check it out now
+      - name: Load .scons_cache directory
+        id: linux-headless-cache
+        uses: actions/cache@v2
+        with:
+          path: ${{github.workspace}}/.scons_cache/
+          key: ${{github.job}}-${{env.GODOT_BASE_BRANCH}}-${{github.ref}}-${{github.sha}}
+          restore-keys: |
+            ${{github.job}}-${{env.GODOT_BASE_BRANCH}}-${{github.ref}}-${{github.sha}}
+            ${{github.job}}-${{env.GODOT_BASE_BRANCH}}-${{github.ref}}
+            ${{github.job}}-${{env.GODOT_BASE_BRANCH}}
+
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
         with:
