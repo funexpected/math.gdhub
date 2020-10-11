@@ -32,11 +32,6 @@ jobs:
         run: |
           sudo apt-get install build-essential pkg-config yasm libudev-dev
 
-      - name: Check cc1obj
-        run: |
-          cc1obj -v
-          execvp -v
-
       # Upload cache on completion and check it out now
       - name: Load .scons_cache directory
         id: linux-headless-cache
