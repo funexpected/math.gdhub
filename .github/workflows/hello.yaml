@@ -8,7 +8,7 @@ jobs:
     # Name the Job
     name: Build Godot Engine
     # Set the type of machine to run on
-    runs-on: ubuntu-latest
+    runs-on: "ubuntu-20.04"
     steps:
       # Clone Godot
       - name: Clone Engine
@@ -20,10 +20,17 @@ jobs:
           ssh-key: ${{ secrets.SERVICE_ACCOUNT_KEY }}
           submodules: 'recursive'
 
+      # Azure repositories are not reliable, we need to prevent azure giving us packages.
+      - name: Make apt sources.list use the default Ubuntu repositories
+        run: |
+          sudo rm -f /etc/apt/sources.list.d/*
+          sudo cp -f misc/ci/sources.list /etc/apt/sources.list
+          sudo apt-get update
+
       # Install all packages (except scons)
       - name: Configure dependencies
         run: |
-          sudo apt-get install build-essential pkg-config
+          sudo apt-get install build-essential pkg-config yasm libudev-dev
       # Upload cache on completion and check it out now
       - name: Load .scons_cache directory
         id: linux-headless-cache
