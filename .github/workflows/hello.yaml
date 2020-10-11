@@ -61,3 +61,7 @@ jobs:
         run: |
           cd engine
           scons -j8 platform=server tool=yes target=release_debug
+
+      - name: Show binaries
+        run: |
+          ls -lah engine/bin/*
