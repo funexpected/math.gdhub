@@ -30,11 +30,11 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ${{github.workspace}}/.scons_cache/
-          key: ${{github.job}}-${{env.GODOT_BASE_BRANCH}}-${{github.ref}}-${{github.sha}}
+          key: ${{github.job}}-${{github.ref}}-${{github.sha}}
           restore-keys: |
-            ${{github.job}}-${{env.GODOT_BASE_BRANCH}}-${{github.ref}}-${{github.sha}}
-            ${{github.job}}-${{env.GODOT_BASE_BRANCH}}-${{github.ref}}
-            ${{github.job}}-${{env.GODOT_BASE_BRANCH}}
+            ${{github.job}}-${{github.ref}}-${{github.sha}}
+            ${{github.job}}-${{github.ref}}
+            ${{github.job}}
 
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
@@ -47,3 +47,9 @@ jobs:
           python -m pip install scons
           python --version
           scons --version
+      - name: Compilation
+        env: 
+          SCONS_CACHE: ${{github.workspace}}/.scons_cache/
+        run: |
+          cd engine
+          scons -j8 platform=server tool=yes target=release_debug
