@@ -17,6 +17,7 @@ jobs:
           path: 'engine'
           repository: 'funexpected/godot'
           ref: 'godot-3.2.3'
+          ssh-key: ${{ secrets.SERVICE_ACCOUNT_KEY }}
           submodules: 'recursive'
 
       # Install all packages (except scons)
