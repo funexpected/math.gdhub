@@ -24,7 +24,7 @@ jobs:
       - name: Make apt sources.list use the default Ubuntu repositories
         run: |
           sudo rm -f /etc/apt/sources.list.d/*
-          sudo cp -f misc/ci/sources.list /etc/apt/sources.list
+          sudo cp -f engine/misc/ci/sources.list /etc/apt/sources.list
           sudo apt-get update
 
       # Install all packages (except scons)
