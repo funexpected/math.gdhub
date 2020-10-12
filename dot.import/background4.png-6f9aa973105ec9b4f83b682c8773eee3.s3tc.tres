@@ -1,0 +1,14 @@
+[gd_resource type="LargeTexture" load_steps=9 format=2]
+
+[ext_resource path="res://.import/background4.png-6f9aa973105ec9b4f83b682c8773eee3.s3tc-04x00.tex" type="Texture" id=1]
+[ext_resource path="res://.import/background4.png-6f9aa973105ec9b4f83b682c8773eee3.s3tc-00x00.tex" type="Texture" id=2]
+[ext_resource path="res://.import/background4.png-6f9aa973105ec9b4f83b682c8773eee3.s3tc-05x00.tex" type="Texture" id=3]
+[ext_resource path="res://.import/background4.png-6f9aa973105ec9b4f83b682c8773eee3.s3tc-01x00.tex" type="Texture" id=4]
+[ext_resource path="res://.import/background4.png-6f9aa973105ec9b4f83b682c8773eee3.s3tc-02x00.tex" type="Texture" id=5]
+[ext_resource path="res://.import/background4.png-6f9aa973105ec9b4f83b682c8773eee3.s3tc-07x00.tex" type="Texture" id=6]
+[ext_resource path="res://.import/background4.png-6f9aa973105ec9b4f83b682c8773eee3.s3tc-06x00.tex" type="Texture" id=7]
+[ext_resource path="res://.import/background4.png-6f9aa973105ec9b4f83b682c8773eee3.s3tc-03x00.tex" type="Texture" id=8]
+
+[resource]
+flags = 5
+_data = [ Vector2( 0, 0 ), ExtResource( 2 ), Vector2( 1024, 0 ), ExtResource( 4 ), Vector2( 2048, 0 ), ExtResource( 5 ), Vector2( 3072, 0 ), ExtResource( 8 ), Vector2( 4096, 0 ), ExtResource( 1 ), Vector2( 5120, 0 ), ExtResource( 3 ), Vector2( 6144, 0 ), ExtResource( 7 ), Vector2( 7168, 0 ), ExtResource( 6 ), Vector2( 9708, 1024 ) ]

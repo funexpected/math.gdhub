@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="symbols/Symbol 119" itemID="5ebae1da-00002b07" symbolType="graphic" lastModified="1589306080">
+  <timeline>
+    <DOMTimeline name="Symbol 119" currentFrame="7" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 120" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="14" y="6.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 122" symbolType="graphic" firstFrame="4" loop="loop">
+                  <matrix>
+                    <Matrix ty="23.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="6.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 124" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix tx="38.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="6.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 126" symbolType="graphic" firstFrame="5" loop="loop">
+                  <matrix>
+                    <Matrix tx="38.6" ty="23.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="6.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 128" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix tx="77.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="6.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 130" symbolType="graphic" firstFrame="6" loop="loop">
+                  <matrix>
+                    <Matrix tx="77.25" ty="23.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="6.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 132" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix tx="115.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="6.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 134" symbolType="graphic" firstFrame="7" loop="loop">
+                  <matrix>
+                    <Matrix tx="115.85" ty="23.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="6.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

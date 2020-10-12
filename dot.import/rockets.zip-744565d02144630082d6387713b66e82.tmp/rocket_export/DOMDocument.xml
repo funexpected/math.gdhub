@@ -1,0 +1,280 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" width="2000" height="2300" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Macintosh" versionInfo="Saved by Animate Macintosh 20.0 build 25487" majorVersion="20" buildNumber="25487" rulerVisible="true" viewAngle3D="124.307690650778" vanishingPoint3DX="1000" vanishingPoint3DY="1150" previewMode="fast" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="9566F5DF9DA049199D068310BDD0089F">
+     <folders>
+          <DOMFolderItem name="bitmap" itemID="5ed7ba84-00000415" isExpanded="true"/>
+          <DOMFolderItem name="files" itemID="5ed7b6ed-000002a7"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="bitmap/Bitmap 1-1.png" itemID="5eddea6b-00000a20" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 1.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="268385" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 1-1.png" bitmapDataHRef="M 47 1591601448.dat" frameRight="15240" frameBottom="11120"/>
+          <DOMBitmapItem name="bitmap/Bitmap 10.png" itemID="5ed7be6f-00000532" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 10.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="707" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 10.png" bitmapDataHRef="M 47 1591195907.dat" frameRight="360" frameBottom="7040"/>
+          <DOMBitmapItem name="bitmap/Bitmap 11.png" itemID="5ed7bdd1-000004fa" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 11.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="2461" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 11.png" bitmapDataHRef="M 48 1591195918.dat" frameRight="1240" frameBottom="1380"/>
+          <DOMBitmapItem name="bitmap/Bitmap 12" itemID="5ed7bdd1-000004fb" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 12.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="2465" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 12.png" bitmapDataHRef="M 49 1591196018.dat" frameRight="3180" frameBottom="4500"/>
+          <DOMBitmapItem name="bitmap/Bitmap 13" itemID="5ed7bdd1-000004fc" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 13.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="3266" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 13.png" bitmapDataHRef="M 50 1591196027.dat" frameRight="3340" frameBottom="4240"/>
+          <DOMBitmapItem name="bitmap/Bitmap 14" itemID="5ed7bdd1-000004fd" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 14.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="579" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 14.png" bitmapDataHRef="M 51 1591196051.dat" frameRight="1440" frameBottom="760"/>
+          <DOMBitmapItem name="bitmap/Bitmap 15" itemID="5ed7bdd1-000004fe" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 15.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="1060" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 15.png" bitmapDataHRef="M 52 1591196079.dat" frameRight="1340" frameBottom="1220"/>
+          <DOMBitmapItem name="bitmap/Bitmap 16" itemID="5ed7bdd1-000004ff" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 16.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="2256" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 16.png" bitmapDataHRef="M 53 1591196098.dat" frameRight="1660" frameBottom="1260"/>
+          <DOMBitmapItem name="bitmap/Bitmap 17" itemID="5ed7bdd1-00000500" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 17.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="2111" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 17.png" bitmapDataHRef="M 54 1591196101.dat" frameRight="1720" frameBottom="1200"/>
+          <DOMBitmapItem name="bitmap/Bitmap 18" itemID="5ed7bdd1-00000501" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 18.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="776" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 18.png" bitmapDataHRef="M 55 1591196224.dat" frameRight="940" frameBottom="960"/>
+          <DOMBitmapItem name="bitmap/Bitmap 19" itemID="5ed7bdd1-00000502" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 19.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="1472" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 19.png" bitmapDataHRef="M 56 1591196229.dat" frameRight="1680" frameBottom="2040"/>
+          <DOMBitmapItem name="bitmap/Bitmap 20" itemID="5ed7bdd1-00000505" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 20.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="3492" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 20.png" bitmapDataHRef="M 57 1591196233.dat" frameRight="2540" frameBottom="3600"/>
+          <DOMBitmapItem name="bitmap/Bitmap 21" itemID="5ed7bdd1-00000506" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 21.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="2944" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 21.png" bitmapDataHRef="M 58 1591196236.dat" frameRight="2440" frameBottom="3500"/>
+          <DOMBitmapItem name="bitmap/Bitmap 22" itemID="5ed7bdd1-00000507" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 22.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="2606" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 22.png" bitmapDataHRef="M 59 1591196239.dat" frameRight="2020" frameBottom="3640"/>
+          <DOMBitmapItem name="bitmap/Bitmap 23" itemID="5ed7bdd1-00000508" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 23.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="2757" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 23.png" bitmapDataHRef="M 60 1591196242.dat" frameRight="2160" frameBottom="3760"/>
+          <DOMBitmapItem name="bitmap/Bitmap 24" itemID="5ed7bdd1-00000509" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 24.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="2105" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 24.png" bitmapDataHRef="M 61 1591196245.dat" frameRight="2200" frameBottom="3760"/>
+          <DOMBitmapItem name="bitmap/Bitmap 25" itemID="5ed7bdd1-0000050a" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 25.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="1624" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 25.png" bitmapDataHRef="M 62 1591196248.dat" frameRight="1740" frameBottom="3860"/>
+          <DOMBitmapItem name="bitmap/Bitmap 26" itemID="5ed7bdd1-0000050b" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 26.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="1219" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 26.png" bitmapDataHRef="M 63 1591196252.dat" frameRight="1560" frameBottom="3380"/>
+          <DOMBitmapItem name="bitmap/Bitmap 27" itemID="5ed7bdd1-0000050c" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 27.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="506" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 27.png" bitmapDataHRef="M 64 1591196255.dat" frameRight="1180" frameBottom="1820"/>
+          <DOMBitmapItem name="bitmap/Bitmap 28" itemID="5ed7bdd1-0000050d" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 28.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="199" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 28.png" bitmapDataHRef="M 65 1591196258.dat" frameRight="860" frameBottom="1600"/>
+          <DOMBitmapItem name="bitmap/Bitmap 4-1-1.png" itemID="5ed7bdd1-00000511" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 4.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="65576" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 4-1-1.png" bitmapDataHRef="M 41 1591195718.dat" frameRight="13000" frameBottom="20440"/>
+          <DOMBitmapItem name="bitmap/Bitmap 5-1-1.png" itemID="5ede1d6d-00005d0a" sourceExternalFilepath="../rocket_export/LIBRARY/Bitmap 5.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="240390" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 5-1-1.png" bitmapDataHRef="M 49 1591614595.dat" frameRight="15240" frameBottom="11120"/>
+          <DOMBitmapItem name="bitmap/Bitmap 6-1-1-1.png" itemID="5ede1d6d-00005d0b" sourceExternalFilepath="../rocket_export/LIBRARY/Bitmap 6.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="251345" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 6-1-1-1.png" bitmapDataHRef="M 48 1591614595.dat" frameRight="15240" frameBottom="11120"/>
+          <DOMBitmapItem name="bitmap/Bitmap 7-1-1.png" itemID="5ed7bdd1-00000513" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 7.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="1288" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 7-1-1.png" bitmapDataHRef="M 44 1591195796.dat" frameRight="1220" frameBottom="2000"/>
+          <DOMBitmapItem name="bitmap/Bitmap 8-1-1.png" itemID="5ed7bdd1-00000514" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 8.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="663" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 8-1-1.png" bitmapDataHRef="M 45 1591195823.dat" frameRight="1880" frameBottom="1100"/>
+          <DOMBitmapItem name="bitmap/Bitmap 9-1-1.png" itemID="5ed7bdd1-00000515" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/Bitmap 9.png" sourceLastImported="1592471685" sourcePlatform="macintosh" externalFileSize="538" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/Bitmap 9-1-1.png" bitmapDataHRef="M 46 1591195893.dat" frameRight="620" frameBottom="700"/>
+          <DOMBitmapItem name="bitmap/ffBitmap 1.png" itemID="5ed7ca4d-00000149" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ffBitmap 1.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="172345" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ffBitmap 1.png" bitmapDataHRef="M 45 1591199646.dat" frameRight="11940" frameBottom="11940"/>
+          <DOMBitmapItem name="bitmap/ffBitmap 2.png" itemID="5ed7ca4d-0000014a" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ffBitmap 2.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="160499" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ffBitmap 2.png" bitmapDataHRef="M 46 1591199654.dat" frameRight="11940" frameBottom="11940"/>
+          <DOMBitmapItem name="bitmap/ffBitmap 3.png" itemID="5ed7ca14-0000013b" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ffBitmap 3.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="169615" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ffBitmap 3.png" bitmapDataHRef="M 47 1591199658.dat" frameRight="11940" frameBottom="11940"/>
+          <DOMBitmapItem name="bitmap/rBitmap 1.png" itemID="5ed7ca14-0000013f" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/rBitmap 1.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="621" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/rBitmap 1.png" bitmapDataHRef="M 39 1591199036.dat" frameRight="1000" frameBottom="840"/>
+          <DOMBitmapItem name="bitmap/rBitmap 3" itemID="5ed7ca14-00000140" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/rBitmap 3.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="495" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/rBitmap 3.png" bitmapDataHRef="M 41 1591199044.dat" frameRight="1220" frameBottom="420"/>
+          <DOMBitmapItem name="bitmap/rBitmap 4" itemID="5ed7ca14-00000141" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/rBitmap 4.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="418" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/rBitmap 4.png" bitmapDataHRef="M 42 1591199049.dat" frameRight="1380" frameBottom="160"/>
+          <DOMBitmapItem name="bitmap/rBitmap 5" itemID="5ed7ca14-00000142" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/rBitmap 5.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="574" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/rBitmap 5.png" bitmapDataHRef="M 43 1591199052.dat" frameRight="1300" frameBottom="340"/>
+          <DOMBitmapItem name="bitmap/rBitmap 7" itemID="5ed7ca14-00000143" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/rBitmap 7.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="4923" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/rBitmap 7.png" bitmapDataHRef="M 45 1591199198.dat" frameRight="6640" frameBottom="6460"/>
+          <DOMBitmapItem name="bitmap/ship_blue_2.png" itemID="5ed7bdd1-00000516" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_blue_2.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="161552" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_blue_2.png" bitmapDataHRef="M 36 1591189567.dat" frameRight="12460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_blue_4.png" itemID="5ed7bdd1-00000517" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_blue_4.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="99834" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_blue_4.png" bitmapDataHRef="M 34 1591189567.dat" frameRight="12460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_blue_5.png" itemID="5ed7bdd1-00000518" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_blue_5.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="166064" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_blue_5.png" bitmapDataHRef="M 30 1591189566.dat" frameRight="15460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_blue_6.png" itemID="5ed7be6f-00000534" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_blue_6.png" sourceLastImported="1592471686" sourcePlatform="macintosh" externalFileSize="101633" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_blue_6.png" bitmapDataHRef="M 27 1591189566.dat" frameRight="15460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_red_2.png" itemID="5ed7be6f-00000535" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_red_2.png" sourceLastImported="1592471687" sourcePlatform="macintosh" externalFileSize="154423" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_red_2.png" bitmapDataHRef="M 26 1591189566.dat" frameRight="12460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_red_4.png" itemID="5ed7bdd1-0000051b" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_red_4.png" sourceLastImported="1592471687" sourcePlatform="macintosh" externalFileSize="97119" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_red_4.png" bitmapDataHRef="M 33 1591189567.dat" frameRight="12460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_red_5.png" itemID="5ed7be6f-00000536" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_red_5.png" sourceLastImported="1592471687" sourcePlatform="macintosh" externalFileSize="171135" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_red_5.png" bitmapDataHRef="M 32 1591189567.dat" frameRight="15460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_red_6.png" itemID="5ed7be6f-00000537" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_red_6.png" sourceLastImported="1592471687" sourcePlatform="macintosh" externalFileSize="100479" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_red_6.png" bitmapDataHRef="M 29 1591189566.dat" frameRight="15460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_yellow_2.png" itemID="5ed7be6f-00000538" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_yellow_2.png" sourceLastImported="1592471687" sourcePlatform="macintosh" externalFileSize="135957" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_yellow_2.png" bitmapDataHRef="M 37 1591189567.dat" frameRight="12460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_yellow_4.png" itemID="5ed7be6f-00000539" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_yellow_4.png" sourceLastImported="1592471687" sourcePlatform="macintosh" externalFileSize="84938" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_yellow_4.png" bitmapDataHRef="M 35 1591189567.dat" frameRight="12460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_yellow_5.png" itemID="5ed7bdd1-00000520" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_yellow_5.png" sourceLastImported="1592471687" sourcePlatform="macintosh" externalFileSize="152817" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_yellow_5.png" bitmapDataHRef="M 31 1591189567.dat" frameRight="15460" frameBottom="15460"/>
+          <DOMBitmapItem name="bitmap/ship_yellow_6.png" itemID="5ed7be6f-0000053a" sourceExternalFilepath="../rocket_export/LIBRARY/bitmap/ship_yellow_6.png" sourceLastImported="1592471687" sourcePlatform="macintosh" externalFileSize="87888" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap/ship_yellow_6.png" bitmapDataHRef="M 28 1591189566.dat" frameRight="15460" frameBottom="15460"/>
+     </media>
+     <symbols>
+          <Include href="files/dddd666.xml" itemIcon="1" loadImmediate="false" itemID="5ed8af8a-0000005c" lastModified="1591259663"/>
+          <Include href="files/ffff44.xml" itemIcon="1" loadImmediate="false" itemID="5ed8af8f-0000005d" lastModified="1591259663"/>
+          <Include href="files/rockets.xml" itemIcon="1" loadImmediate="false" itemID="5ed7b937-00000398" lastModified="1591614612"/>
+          <Include href="files/sss33.xml" itemIcon="1" loadImmediate="false" itemID="5ed8af87-0000005b" lastModified="1591259663"/>
+          <Include href="files/Symbol_16_r1r.xml" itemIcon="1" loadImmediate="false" itemID="5ee8a5ce-00000225" lastModified="1592305102"/>
+          <Include href="files/Symbol 1.xml" itemIcon="1" loadImmediate="false" itemID="5edf8da3-00006226" lastModified="1591709091"/>
+          <Include href="files/Symbol 2.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a07b-00000434" lastModified="1591259663"/>
+          <Include href="files/Symbol 3.xml" itemIcon="1" loadImmediate="false" itemID="5ed76829-00001610" lastModified="1591259663"/>
+          <Include href="files/Symbol 4.xml" itemIcon="1" loadImmediate="false" itemID="5ed768a2-00001617" lastModified="1591259663"/>
+          <Include href="files/Symbol 4 copy.xml" itemIcon="1" loadImmediate="false" itemID="5ed7baca-0000041c" lastModified="1591259663"/>
+          <Include href="files/Symbol 5.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a07f-00000439" lastModified="1591259663"/>
+          <Include href="files/Symbol 6.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a082-0000043e" lastModified="1591259663"/>
+          <Include href="files/Symbol 7.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a085-00000443" lastModified="1591259663"/>
+          <Include href="files/Symbol 8.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a088-00000448" lastModified="1591259663"/>
+          <Include href="files/Symbol 9.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a08c-0000044d" lastModified="1591259663"/>
+          <Include href="files/Symbol 10.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a08e-00000452" lastModified="1591259663"/>
+          <Include href="files/Symbol 11.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a092-00000457" lastModified="1591259663"/>
+          <Include href="files/Symbol 12.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a094-0000045c" lastModified="1591259663"/>
+          <Include href="files/Symbol 13.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a098-00000461" lastModified="1591259663"/>
+          <Include href="files/Symbol 14.xml" itemIcon="1" loadImmediate="false" itemID="5ed7a09b-00000466" lastModified="1591259663"/>
+          <Include href="files/Symbol 16.xml" itemIcon="1" loadImmediate="false" itemID="5e9603eb-00000604" lastModified="1591600339"/>
+          <Include href="files/Symbol 16  r1r copy.xml" itemIcon="1" loadImmediate="false" itemID="5ee9ccf9-000008ea" lastModified="1592380672"/>
+          <Include href="files/Symbol 16  r1y.xml" itemIcon="1" loadImmediate="false" itemID="5ede163f-00004eca" lastModified="1591612999"/>
+          <Include href="files/Symbol 16 copy.xml" itemIcon="1" loadImmediate="false" itemID="5ee9cc84-000006f8" lastModified="1592380561"/>
+          <Include href="files/Symbol 16 copy 2.xml" itemIcon="1" loadImmediate="false" itemID="5eb9628b-0000084a" lastModified="1591600153"/>
+          <Include href="files/Symbol 16 copy 2_r2.xml" itemIcon="1" loadImmediate="false" itemID="5edde53e-0000303f" lastModified="1591601005"/>
+          <Include href="files/Symbol 16 copy 2_r2 2.xml" itemIcon="1" loadImmediate="false" itemID="5edde7e8-00000510" lastModified="1591601138"/>
+          <Include href="files/Symbol 16 copy 2_r2 red.xml" itemIcon="1" loadImmediate="false" itemID="5ede107e-00002f93" lastModified="1591611536"/>
+          <Include href="files/Symbol 16 copy 2_r2 yell.xml" itemIcon="1" loadImmediate="false" itemID="5ede1b4f-00005932" lastModified="1591614303"/>
+          <Include href="files/Symbol 16 copy 2_r3.xml" itemIcon="1" loadImmediate="false" itemID="5edde9e3-00000956" lastModified="1591601646"/>
+          <Include href="files/Symbol 16 copy 2_r3_red.xml" itemIcon="1" loadImmediate="false" itemID="5ede125f-00003205" lastModified="1591612007"/>
+          <Include href="files/Symbol 16 copy 2_r3_yell.xml" itemIcon="1" loadImmediate="false" itemID="5ede1b77-00005a89" lastModified="1591614335"/>
+          <Include href="files/Symbol 16 copy 2_r3 2.xml" itemIcon="1" loadImmediate="false" itemID="5eddea49-00000a1f" lastModified="1591601745"/>
+          <Include href="files/Symbol 16 copy 2_r4.xml" itemIcon="1" loadImmediate="false" itemID="5eddeaf5-00000dfc" lastModified="1591601919"/>
+          <Include href="files/Symbol 16 copy 2_r4_red.xml" itemIcon="1" loadImmediate="false" itemID="5ede12e9-00003415" lastModified="1591612168"/>
+          <Include href="files/Symbol 16 copy 2_r4_yell.xml" itemIcon="1" loadImmediate="false" itemID="5ede1b92-00005b58" lastModified="1591614364"/>
+          <Include href="files/Symbol 16 copy 2_r4 2.xml" itemIcon="1" loadImmediate="false" itemID="5eddeb3a-00000f17" lastModified="1591601988"/>
+          <Include href="files/Symbol 16 copy 2_r5.xml" itemIcon="1" loadImmediate="false" itemID="5eddf8e2-000014df" lastModified="1591605487"/>
+          <Include href="files/Symbol 16 copy 2_r5 2.xml" itemIcon="1" loadImmediate="false" itemID="5eddf939-0000166e" lastModified="1591605570"/>
+          <Include href="files/Symbol 16 copy 2_r5 red.xml" itemIcon="1" loadImmediate="false" itemID="5ede13e5-0000369b" lastModified="1591612406"/>
+          <Include href="files/Symbol 16 copy 2_r5 yell.xml" itemIcon="1" loadImmediate="false" itemID="5ede1baf-00005c21" lastModified="1591614394"/>
+          <Include href="files/Symbol 16 copy 2_r6.xml" itemIcon="1" loadImmediate="false" itemID="5eddfbab-00001891" lastModified="1591606205"/>
+          <Include href="files/Symbol 16 copy 2_r6 2.xml" itemIcon="1" loadImmediate="false" itemID="5eddfc54-000019e4" lastModified="1591606381"/>
+          <Include href="files/Symbol 16 copy 2_r6 red.xml" itemIcon="1" loadImmediate="false" itemID="5ede147c-000038bc" lastModified="1591612554"/>
+          <Include href="files/Symbol 16 copy 2_r6 yell.xml" itemIcon="1" loadImmediate="false" itemID="5ede1bee-00005ceb" lastModified="1591614455"/>
+          <Include href="files/Symbol 16 copy 2red.xml" itemIcon="1" loadImmediate="false" itemID="5ede0fc2-00002d92" lastModified="1592305148"/>
+          <Include href="files/Symbol 16 copy 2yell.xml" itemIcon="1" loadImmediate="false" itemID="5ede1b31-0000586c" lastModified="1591614266"/>
+          <Include href="files/Symbol 16 r2.xml" itemIcon="1" loadImmediate="false" itemID="5edde4f6-00002fac" lastModified="1591600418"/>
+          <Include href="files/Symbol 16 r2 red.xml" itemIcon="1" loadImmediate="false" itemID="5ede1026-00002e8e" lastModified="1591611473"/>
+          <Include href="files/Symbol 16 r2 yell.xml" itemIcon="1" loadImmediate="false" itemID="5ede16cc-0000500c" lastModified="1591613159"/>
+          <Include href="files/Symbol 16 r3.xml" itemIcon="1" loadImmediate="false" itemID="5edde862-000007d2" lastModified="1591601273"/>
+          <Include href="files/Symbol 16 r3 red.xml" itemIcon="1" loadImmediate="false" itemID="5ede10e1-00003093" lastModified="1591611630"/>
+          <Include href="files/Symbol 16 r3 yellow.xml" itemIcon="1" loadImmediate="false" itemID="5ede1752-000051da" lastModified="1591614636"/>
+          <Include href="files/Symbol 16 r4.xml" itemIcon="1" loadImmediate="false" itemID="5eddeabb-00000d11" lastModified="1591601887"/>
+          <Include href="files/Symbol 16 r4 red.xml" itemIcon="1" loadImmediate="false" itemID="5ede12bc-00003373" lastModified="1591612192"/>
+          <Include href="files/Symbol 16 r4 yell.xml" itemIcon="1" loadImmediate="false" itemID="5ede19b9-000052df" lastModified="1591613889"/>
+          <Include href="files/Symbol 16 r5.xml" itemIcon="1" loadImmediate="false" itemID="5eddebc9-00001461" lastModified="1591602138"/>
+          <Include href="files/Symbol 16 r5 red.xml" itemIcon="1" loadImmediate="false" itemID="5ede1385-0000358a" lastModified="1591612307"/>
+          <Include href="files/Symbol 16 r5 yell.xml" itemIcon="1" loadImmediate="false" itemID="5ede1a79-000054b3" lastModified="1591614081"/>
+          <Include href="files/Symbol 16 r6 copy.xml" itemIcon="1" loadImmediate="false" itemID="5eddf95b-000016e7" lastModified="1591606144"/>
+          <Include href="files/Symbol 16 r6 copy red.xml" itemIcon="1" loadImmediate="false" itemID="5ede142c-000037a7" lastModified="1591612469"/>
+          <Include href="files/Symbol 16 r6 copy yell.xml" itemIcon="1" loadImmediate="false" itemID="5ede1ac5-000055fd" lastModified="1591614156"/>
+          <Include href="files/Symbol 21.xml" itemIcon="1" loadImmediate="false" itemID="5e960b76-00000739" lastModified="1591259663"/>
+          <Include href="files/Symbol 22.xml" itemIcon="1" loadImmediate="false" itemID="5e960b79-00000740" lastModified="1591355370"/>
+          <Include href="files/Symbol 23.xml" itemIcon="1" loadImmediate="false" itemID="5e960c72-00000747" lastModified="1591259663"/>
+          <Include href="files/Symbol 24.xml" itemIcon="1" loadImmediate="false" itemID="5e960d7c-0000074e" lastModified="1591259663"/>
+          <Include href="files/Symbol 25.xml" itemIcon="1" loadImmediate="false" itemID="5e960d82-00000752" lastModified="1591259663"/>
+          <Include href="files/Symbol 27.xml" itemIcon="1" loadImmediate="false" itemID="5e961ee5-0000087e" lastModified="1591787036"/>
+          <Include href="files/Symbol 27 copy.xml" itemIcon="1" loadImmediate="false" itemID="5ed78f15-000002d6" lastModified="1591259663"/>
+          <Include href="files/Symbol 27 copy 2.xml" itemIcon="1" loadImmediate="false" itemID="5eba80dc-00001f27" lastModified="1591259663"/>
+          <Include href="files/Symbol 27 copy 3.xml" itemIcon="1" loadImmediate="false" itemID="5eba80e3-0000202d" lastModified="1591259663"/>
+          <Include href="files/Symbol 28.xml" itemIcon="1" loadImmediate="false" itemID="5e96205c-000008d9" lastModified="1591259663"/>
+          <Include href="files/Symbol 30.xml" itemIcon="1" loadImmediate="false" itemID="5e9620c3-000008dd" lastModified="1591259663"/>
+          <Include href="files/Symbol 32.xml" itemIcon="1" loadImmediate="false" itemID="5e965718-000011a3" lastModified="1591259663"/>
+          <Include href="files/Symbol 33.xml" itemIcon="1" loadImmediate="false" itemID="5e96583f-000011be" lastModified="1591259663"/>
+          <Include href="files/Symbol 155.xml" itemIcon="1" loadImmediate="false" itemID="5ebb8e8c-000031b6" lastModified="1591259663"/>
+          <Include href="r1b_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ed7be20-00000528" lastModified="1591709048"/>
+          <Include href="r1b_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ed7be1d-00000527" lastModified="1591721527"/>
+          <Include href="r1b_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ed7be19-00000526" lastModified="1591796284"/>
+          <Include href="r1b_start.xml" itemIcon="1" loadImmediate="false" itemID="5ed7be13-00000525" lastModified="1591600141"/>
+          <Include href="r1r_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ee9cc23-000003af" lastModified="1592380578"/>
+          <Include href="r1r_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ee9cc4b-00000479" lastModified="1592380604"/>
+          <Include href="r1r_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ee9cc77-0000062c" lastModified="1592380697"/>
+          <Include href="r1r_start.xml" itemIcon="1" loadImmediate="false" itemID="5ee9cc5b-00000559" lastModified="1592380665"/>
+          <Include href="r1y_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede1515-00003bf5" lastModified="1591614257"/>
+          <Include href="r1y_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede1528-00003d51" lastModified="1591613018"/>
+          <Include href="r1y_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede151f-00003ca6" lastModified="1591787087"/>
+          <Include href="r1y_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede1506-00003b40" lastModified="1591612990"/>
+          <Include href="r2b_boost.xml" itemIcon="1" loadImmediate="false" itemID="5edde470-00002e81" lastModified="1591721618"/>
+          <Include href="r2b_idle.xml" itemIcon="1" loadImmediate="false" itemID="5edde483-00002f4f" lastModified="1591608517"/>
+          <Include href="r2b_menu.xml" itemIcon="1" loadImmediate="false" itemID="5edde47a-00002eeb" lastModified="1591789214"/>
+          <Include href="r2b_start.xml" itemIcon="1" loadImmediate="false" itemID="5edf8f23-0000622c" lastModified="1591709475"/>
+          <Include href="r2r_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede0c4c-00001fc9" lastModified="1591611518"/>
+          <Include href="r2r_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede0c60-000020f4" lastModified="1591611547"/>
+          <Include href="r2r_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede0c42-00001f34" lastModified="1591789095"/>
+          <Include href="r2r_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede0c58-00002068" lastModified="1591611490"/>
+          <Include href="r2y_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede153b-00003ebe" lastModified="1591614287"/>
+          <Include href="r2y_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede154e-00004038" lastModified="1591613029"/>
+          <Include href="r2y_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede1532-00003e05" lastModified="1591791647"/>
+          <Include href="r2y_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede1543-00003f81" lastModified="1591614203"/>
+          <Include href="r3b_boost.xml" itemIcon="1" loadImmediate="false" itemID="5edde835-0000065d" lastModified="1591601657"/>
+          <Include href="r3b_idle.xml" itemIcon="1" loadImmediate="false" itemID="5edde84a-0000073a" lastModified="1591609406"/>
+          <Include href="r3b_menu.xml" itemIcon="1" loadImmediate="false" itemID="5edde83f-000006ce" lastModified="1592903142"/>
+          <Include href="r3b_start.xml" itemIcon="1" loadImmediate="false" itemID="5edf8f2e-0000622d" lastModified="1591709486"/>
+          <Include href="r3r_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede0c77-0000222e" lastModified="1591612025"/>
+          <Include href="r3r_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede0c8d-00002353" lastModified="1591612063"/>
+          <Include href="r3r_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede0c82-000022c3" lastModified="1592903156"/>
+          <Include href="r3r_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede0c6b-00002195" lastModified="1591611617"/>
+          <Include href="r3y_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede1564-000041ba" lastModified="1591614327"/>
+          <Include href="r3y_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede1586-000043a2" lastModified="1591613038"/>
+          <Include href="r3y_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede1571-00004273" lastModified="1591794121"/>
+          <Include href="r3y_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede1558-000040fd" lastModified="1591613266"/>
+          <Include href="r4b_boost.xml" itemIcon="1" loadImmediate="false" itemID="5eddea8e-00000b79" lastModified="1591608718"/>
+          <Include href="r4b_idle.xml" itemIcon="1" loadImmediate="false" itemID="5eddeaa5-00000ca6" lastModified="1591608741"/>
+          <Include href="r4b_menu.xml" itemIcon="1" loadImmediate="false" itemID="5eddea9a-00000c33" lastModified="1591792951"/>
+          <Include href="r4b_start.xml" itemIcon="1" loadImmediate="false" itemID="5eddea82-00000afd" lastModified="1591609234"/>
+          <Include href="r4r_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede0ca8-00002495" lastModified="1591612137"/>
+          <Include href="r4r_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede0cc7-000025c2" lastModified="1591612254"/>
+          <Include href="r4r_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede0cbb-0000252e" lastModified="1591792882"/>
+          <Include href="r4r_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede0c9a-000023f8" lastModified="1591612177"/>
+          <Include href="r4y_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede15b9-00004672" lastModified="1591614354"/>
+          <Include href="r4y_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede15ce-000047e6" lastModified="1591613042"/>
+          <Include href="r4y_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede15c4-0000472f" lastModified="1591792434"/>
+          <Include href="r4y_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede15a7-000045b1" lastModified="1591613881"/>
+          <Include href="r5b_boost.xml" itemIcon="1" loadImmediate="false" itemID="5eddeb76-000010d9" lastModified="1591608890"/>
+          <Include href="r5b_idle.xml" itemIcon="1" loadImmediate="false" itemID="5eddeb8a-000011d3" lastModified="1591608915"/>
+          <Include href="r5b_menu.xml" itemIcon="1" loadImmediate="false" itemID="5eddeb7f-00001159" lastModified="1591795976"/>
+          <Include href="r5b_start.xml" itemIcon="1" loadImmediate="false" itemID="5eddeb6b-00001056" lastModified="1591608946"/>
+          <Include href="r5r_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede0d56-0000270c" lastModified="1591612389"/>
+          <Include href="r5r_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede0d83-00002841" lastModified="1591612430"/>
+          <Include href="r5r_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede0d6f-000027a9" lastModified="1591796189"/>
+          <Include href="r5r_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede0cd2-0000266b" lastModified="1591612293"/>
+          <Include href="r5y_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede15e2-00004978" lastModified="1591614382"/>
+          <Include href="r5y_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede15fa-00004af4" lastModified="1591613046"/>
+          <Include href="r5y_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede15ee-00004a39" lastModified="1591804814"/>
+          <Include href="r5y_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede15d9-000048b3" lastModified="1591614073"/>
+          <Include href="r6b_boost.xml" itemIcon="1" loadImmediate="false" itemID="5eddeb9c-000012e9" lastModified="1591606217"/>
+          <Include href="r6b_idle.xml" itemIcon="1" loadImmediate="false" itemID="5eddebb2-000013eb" lastModified="1591609373"/>
+          <Include href="r6b_menu.xml" itemIcon="1" loadImmediate="false" itemID="5eddeba7-0000136d" lastModified="1591795875"/>
+          <Include href="r6b_start.xml" itemIcon="1" loadImmediate="false" itemID="5eddeb95-00001262" lastModified="1591609344"/>
+          <Include href="r6r_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede0da0-00002993" lastModified="1591612539"/>
+          <Include href="r6r_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede0dcd-00002ad0" lastModified="1591612581"/>
+          <Include href="r6r_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede0dad-00002a34" lastModified="1591795169"/>
+          <Include href="r6r_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede0d96-000028ee" lastModified="1591612460"/>
+          <Include href="r6y_boost.xml" itemIcon="1" loadImmediate="false" itemID="5ede160c-00004c8e" lastModified="1591614446"/>
+          <Include href="r6y_idle.xml" itemIcon="1" loadImmediate="false" itemID="5ede1621-00004e12" lastModified="1591613050"/>
+          <Include href="r6y_menu.xml" itemIcon="1" loadImmediate="false" itemID="5ede1616-00004d53" lastModified="1591795212"/>
+          <Include href="r6y_start.xml" itemIcon="1" loadImmediate="false" itemID="5ede1605-00004bc5" lastModified="1591614149"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;3565&lt;/guideline&gt;&lt;guideline direction="v"&gt;697&lt;/guideline&gt;&lt;guideline direction="v"&gt;1338&lt;/guideline&gt;&lt;/guidelines&gt;' layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="393506" publishTime="1591709611"/>
+          <PublishItem publishSize="298869" publishTime="1591709596"/>
+     </publishHistory>
+     <SaveCustomEase name="My Ease 1">
+          <Point/>
+          <Point x="0.769"/>
+          <Point x="0.7855" y="1"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="My Ease 12">
+          <Point/>
+          <Point x="0.4527" y="0.1"/>
+          <Point x="0.6" y="1"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="My Ease 17">
+          <Point/>
+          <Point x="0.0839" y="0.5388"/>
+          <Point x="0.7829" y="0.8258"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="My Ease 18">
+          <Point/>
+          <Point x="0.3724"/>
+          <Point x="0.8256" y="0.4838"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="My Ease 26_Copy">
+          <Point/>
+          <Point x="0.3878"/>
+          <Point x="0.7098" y="1"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="My Ease 3">
+          <Point/>
+          <Point x="0.3722"/>
+          <Point x="0.6379" y="1"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="My Ease 4">
+          <Point/>
+          <Point x="0.1364" y="0.8678"/>
+          <Point x="0.6511" y="0.9258"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="My Ease 5">
+          <Point/>
+          <Point x="0.1458" y="0.1458"/>
+          <Point x="0.3042" y="0.1898"/>
+          <Point x="0.45" y="0.3356"/>
+          <Point x="0.5427" y="0.4283"/>
+          <Point x="0.5737" y="0.7091"/>
+          <Point x="0.6633" y="0.8269"/>
+          <Point x="0.7146" y="0.8945"/>
+          <Point x="0.8034" y="0.8452"/>
+          <Point x="0.8715" y="0.8633"/>
+          <Point x="0.925" y="0.8774"/>
+          <Point x="0.9583" y="0.9583"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+</DOMDocument>

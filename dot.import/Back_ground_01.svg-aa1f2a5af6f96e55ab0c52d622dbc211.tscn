@@ -1,0 +1,127 @@
+[gd_scene format=2]
+
+[node name="" type="Node2D"]
+
+[node name="back" type="Polygon2D" parent="."]
+color = Color( 0.0705882, 0.670588, 0.843137, 1 )
+polygon = PoolVector2Array( 0.49, 0.49, 2339.49, 0.49, 2339.49, 959.81, 0.49, 959.81 )
+
+[node name="back2" type="Polygon2D" parent="."]
+color = Color( 0.0352941, 0.270588, 0.568627, 1 )
+polygon = PoolVector2Array( 0.49, 889.62, 2339.49, 889.62, 2339.49, 1440.49, 0.49, 1440.49 )
+
+[node name="back3" type="Polygon2D" parent="."]
+color = Color( 0.180392, 0.533333, 0.823529, 1 )
+polygon = PoolVector2Array( 2026.13, 752.11, 1834.32, 734.42, 1733.05, 751.66, 1546.4, 795.71, 1400.19, 787.15, 998.47, 883.78, 856.03, 1130.64, 2141.65, 1112.32, 2141.65, 820.29 )
+
+[node name="back4" type="Polygon2D" parent="."]
+color = Color( 0.698039, 0.94902, 0.976471, 1 )
+polygon = PoolVector2Array( 1883.91, 514.5, 1865.14, 514.5, 1868.48, 572.14, 1890.33, 572.14 )
+
+[node name="back5" type="Polygon2D" parent="."]
+color = Color( 0.921569, 0.996078, 1, 1 )
+polygon = PoolVector2Array( 1815.17, 514.5, 1808.75, 572.14, 1868.48, 572.14, 1865.14, 514.5 )
+
+[node name="back6" type="Polygon2D" parent="."]
+color = Color( 0.94902, 0.592157, 0.721569, 1 )
+polygon = PoolVector2Array( 1808.75, 572.14, 1800.7, 644.46, 1872.68, 644.46, 1868.48, 572.14 )
+
+[node name="back7" type="Polygon2D" parent="."]
+color = Color( 0.909804, 0.337255, 0.517647, 1 )
+polygon = PoolVector2Array( 1898.38, 644.46, 1890.33, 572.14, 1868.48, 572.14, 1872.68, 644.46 )
+
+[node name="back8" type="Polygon2D" parent="."]
+color = Color( 0.698039, 0.94902, 0.976471, 1 )
+polygon = PoolVector2Array( 1907.78, 728.91, 1898.38, 644.46, 1872.68, 644.46, 1877.57, 728.91 )
+
+[node name="back9" type="Polygon2D" parent="."]
+color = Color( 0.921569, 0.996078, 1, 1 )
+polygon = PoolVector2Array( 1800.7, 644.46, 1791.29, 728.91, 1877.57, 728.91, 1872.68, 644.46 )
+
+[node name="back10" type="Polygon2D" parent="."]
+color = Color( 0.94902, 0.592157, 0.721569, 1 )
+polygon = PoolVector2Array( 1788.76, 751.66, 1878.89, 751.66, 1877.57, 728.91, 1791.29, 728.91 )
+
+[node name="back11" type="Polygon2D" parent="."]
+color = Color( 0.909804, 0.337255, 0.517647, 1 )
+polygon = PoolVector2Array( 1877.57, 728.91, 1878.89, 751.66, 1910.31, 751.66, 1907.78, 728.91 )
+
+[node name="back12" type="Polygon2D" parent="."]
+color = Color( 0.0235294, 0.368627, 0.54902, 1 )
+polygon = PoolVector2Array( 1840.11, 541.43, 1840.11, 555.16, 1858.97, 555.16, 1858.97, 541.43, 1849.54, 532 )
+
+[node name="back13" type="Polygon2D" parent="."]
+color = Color( 0.0235294, 0.368627, 0.54902, 1 )
+polygon = PoolVector2Array( 1840.11, 606.24, 1840.11, 619.97, 1858.97, 619.97, 1858.97, 606.24, 1849.54, 596.81 )
+
+[node name="back14" type="Polygon2D" parent="."]
+color = Color( 0.0235294, 0.368627, 0.54902, 1 )
+polygon = PoolVector2Array( 1849.54, 682.21, 1834.32, 689.4, 1834.32, 751.66, 1864.76, 751.66, 1864.76, 689.4 )
+
+[node name="back15" type="Polygon2D" parent="."]
+color = Color( 0.94902, 0.592157, 0.721569, 1 )
+polygon = PoolVector2Array( 1793.79, 460.6, 1905.28, 460.6, 1905.28, 491.4, 1793.79, 491.4 )
+
+[node name="back16" type="Polygon2D" parent="."]
+color = Color( 0.909804, 0.337255, 0.517647, 1 )
+polygon = PoolVector2Array( 1815.17, 514.5, 1883.91, 514.5, 1905.28, 491.4, 1793.79, 491.4 )
+
+[node name="back17" type="Polygon2D" parent="."]
+color = Color( 0.94902, 0.592157, 0.721569, 1 )
+polygon = PoolVector2Array( 1803.86, 430.36, 1894.73, 430.36, 1849.3, 396.64 )
+
+[node name="back18" type="Polygon2D" parent="."]
+color = Color( 0.94902, 0.592157, 0.721569, 1 )
+polygon = PoolVector2Array( 1841.14, 393.247, 1849.29, 385.094, 1857.45, 393.247, 1849.29, 401.4 )
+
+[node name="back19" type="Polygon2D" parent="."]
+color = Color( 0.0235294, 0.368627, 0.54902, 1 )
+polygon = PoolVector2Array( 1815.17, 430.36, 1883.43, 430.36, 1883.43, 460.6, 1815.17, 460.6 )
+
+[node name="back20" type="Polygon2D" parent="."]
+color = Color( 0.156863, 0.882353, 0.976471, 1 )
+polygon = PoolVector2Array( 1894.73, 682.26, 1894.73, 752.15, 1992.58, 752.15, 1992.58, 700.9, 1913.37, 700.9 )
+
+[node name="back21" type="Polygon2D" parent="."]
+color = Color( 0.0156863, 0.0117647, 0, 1 )
+polygon = PoolVector2Array( 1973.94, 682.26, 1894.73, 682.26, 1913.37, 700.9, 1992.58, 700.9 )
+
+[node name="back22" type="Polygon2D" parent="."]
+color = Color( 0.0235294, 0.368627, 0.54902, 1 )
+polygon = PoolVector2Array( 1958.8, 709.05, 1984.42, 709.05, 1984.42, 725.36, 1958.8, 725.36 )
+
+[node name="back23" type="Polygon2D" parent="."]
+color = Color( 0.0235294, 0.368627, 0.54902, 1 )
+polygon = PoolVector2Array( 1923.85, 709.05, 1935.5, 709.05, 1935.5, 725.36, 1923.85, 725.36 )
+
+[node name="back24" type="Polygon2D" parent="."]
+color = Color( 0.411765, 0.854902, 0.956863, 1 )
+polygon = PoolVector2Array( 1815.17, 445.47, 0.49, 129.25, 0.49, 761.71 )
+
+[node name="back25" type="Polygon2D" parent="."]
+color = Color( 0.141176, 0.72549, 0.929412, 1 )
+polygon = PoolVector2Array( 810.11, 1069.88, 1148.45, 1097.21, 1529.34, 952.57, 1635.95, 941.37, 1777.04, 984.15, 1971.61, 789.15, 2339.49, 810.11, 2339.49, 1440.49, 0.49, 1440.49, 0.49, 1228.01 )
+
+[node name="back26" type="Polygon2D" parent="."]
+color = Color( 0.192157, 0.858824, 0.94902, 1 )
+polygon = PoolVector2Array( 1358.34, 1017.5, 1808.75, 1017.5, 2054.35, 821.2, 2339.49, 859.01, 2339.49, 810.11, 2129.99, 728.75, 1971.61, 789.15, 1777.04, 984.15, 1635.95, 941.37, 1530.15, 935.57 )
+
+[node name="front" type="Polygon2D" parent="."]
+color = Color( 0.0431373, 0.886275, 1, 1 )
+polygon = PoolVector2Array( 128.36, 879.68, 182.05, 856.89, 325.05, 973.89, 259.76, 823.99, 273.64, 748.59, 403.27, 722.16, 585.49, 989.39, 623.86, 997.99, 780.91, 1440.49, 0.49, 1440.49, 0.49, 838.68 )
+
+[node name="front2" type="Polygon2D" parent="."]
+color = Color( 0.501961, 1, 0.976471, 1 )
+polygon = PoolVector2Array( 182.05, 856.89, 259.72, 824.03, 325.01, 973.93 )
+
+[node name="front3" type="Polygon2D" parent="."]
+color = Color( 0.501961, 1, 0.976471, 1 )
+polygon = PoolVector2Array( 400.72, 637.07, 442, 653.2, 481.35, 615.79, 585.47, 989.39, 403.24, 722.21, 273.6, 748.63 )
+
+[node name="front4" type="Polygon2D" parent="."]
+color = Color( 0, 0, 0, 0 )
+polygon = PoolVector2Array( 0.49, 0.49, 2339.49, 0.49, 2339.49, 1440.49, 0.49, 1440.49 )
+
+[node name="front5" type="Polygon2D" parent="."]
+color = Color( 0.501961, 1, 0.976471, 1 )
+polygon = PoolVector2Array( 128.37, 879.68, 143.05, 961.71, 0.49, 932.53, 0.49, 824.03 )

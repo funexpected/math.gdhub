@@ -1,0 +1,7 @@
+[gd_resource type="LargeTexture" load_steps=2 format=2]
+
+[ext_resource path="res://.import/welcome_0.png-194aa4c77d5c1bc8d9d1981fbbc55ec0.etc2-00x00.tex" type="Texture" id=1]
+
+[resource]
+flags = 5
+_data = [ Vector2( 0, 0 ), ExtResource( 1 ), Vector2( 935, 1080 ) ]

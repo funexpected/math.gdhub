@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="symbols/Symbol 102" itemID="5ebadf3f-0000297f" lastModified="1589305179" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 102" currentFrame="4" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 103">
+                  <transformationPoint>
+                    <Point x="7.05" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 103" centerPoint3DX="7.05" centerPoint3DY="7.05">
+                  <transformationPoint>
+                    <Point x="7.05" y="7.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.98046875" blueMultiplier="0.71875" greenMultiplier="0.890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 103" centerPoint3DX="7.05" centerPoint3DY="7.05">
+                  <transformationPoint>
+                    <Point x="7.05" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

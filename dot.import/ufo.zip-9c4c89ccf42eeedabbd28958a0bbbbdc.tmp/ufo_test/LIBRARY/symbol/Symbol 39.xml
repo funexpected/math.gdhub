@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="symbol/Symbol 39" itemID="5f1fba63-0000035b" symbolType="graphic" lastModified="1595914851">
+  <timeline>
+    <DOMTimeline name="Symbol 39" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/&amp;#060Path&amp;#062 copy 2" selected="true" centerPoint3DX="105.5" centerPoint3DY="106.5">
+                  <transformationPoint>
+                    <Point x="105.5" y="106.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

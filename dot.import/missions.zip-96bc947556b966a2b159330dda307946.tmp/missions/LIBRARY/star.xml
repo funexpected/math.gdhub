@@ -1,0 +1,160 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="star" itemID="5f4920c6-00000639" symbolType="graphic" lastModified="1599039101">
+  <timeline>
+    <DOMTimeline name="star" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" name="star1_blue" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="star1_green" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="star1_orange" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" name="star1_red" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" name="star2_blue" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" name="star2_green" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" name="star2_orange" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" name="star2_red" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" name="star3_blue" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" name="star3_green" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" name="star3_orange" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" name="star3_red" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/star1_blue.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/star1_green.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/star1_orange.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="files/png_meteor_rain/star1_red.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="files/png_meteor_rain/star2_blue.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/star2_green.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/star2_orange.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/star2_red.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/star3_blue.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/star3_green.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/star3_orange.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/star3_red.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

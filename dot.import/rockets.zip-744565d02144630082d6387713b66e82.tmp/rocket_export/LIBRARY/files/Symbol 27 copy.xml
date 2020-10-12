@@ -1,0 +1,129 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/Symbol 27 copy" itemID="5ed78f15-000002d6" symbolType="graphic" lastModified="1591259663" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 27 copy" currentFrame="44" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="31" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 21" centerPoint3DX="46.95" centerPoint3DY="27.3">
+                  <transformationPoint>
+                    <Point x="48" y="9.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 21" centerPoint3DX="46.95" centerPoint3DY="27.3">
+                  <transformationPoint>
+                    <Point x="48" y="9.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 22" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="16.7" ty="-48.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.25" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 22" symbolType="graphic" centerPoint3DX="46.95" centerPoint3DY="35" loop="single frame">
+                  <matrix>
+                    <Matrix tx="16.7" ty="-15.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.25" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 22" symbolType="graphic" centerPoint3DX="46.95" centerPoint3DY="98.9" loop="single frame">
+                  <matrix>
+                    <Matrix d="1.2994384765625" tx="16.7" ty="46.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.25" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 22" selected="true" symbolType="graphic" centerPoint3DX="46.95" centerPoint3DY="89.95" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.26304626464844" d="0.896820068359375" tx="8.8" ty="40.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.35" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 22" symbolType="graphic" centerPoint3DX="46.95" centerPoint3DY="98.9" loop="loop">
+                  <matrix>
+                    <Matrix tx="16.7" ty="48.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.25" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 22" symbolType="graphic" centerPoint3DX="46.95" centerPoint3DY="98.9" loop="loop">
+                  <matrix>
+                    <Matrix tx="16.7" ty="48.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.25" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

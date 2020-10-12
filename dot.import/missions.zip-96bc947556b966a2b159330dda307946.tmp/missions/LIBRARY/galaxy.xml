@@ -1,0 +1,328 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="galaxy" itemID="5f50d0e1-0000066b" symbolType="graphic" lastModified="1599141380">
+  <timeline>
+    <DOMTimeline name="galaxy" currentFrame="421" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-796&lt;/guideline&gt;&lt;/guidelines&gt;' layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="24" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="75" name="loop" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="99" duration="200" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="299" duration="146" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_8_copy_5" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="36" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="48" centerPoint3DX="1094.5" centerPoint3DY="876.5" loop="loop">
+                  <matrix>
+                    <Matrix a="1.410400390625" b="-2.44284057617188" c="2.44284057617188" d="1.410400390625" tx="1066.25" ty="889.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05859375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="385" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="6" centerPoint3DX="1094.5" centerPoint3DY="876.5" loop="loop">
+                  <matrix>
+                    <Matrix a="1.410400390625" b="-2.44284057617188" c="2.44284057617188" d="1.410400390625" tx="1066.25" ty="889.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="429" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 8 copy 5" symbolType="graphic" firstFrame="41" centerPoint3DX="1094.5" centerPoint3DY="876.5" loop="loop">
+                  <matrix>
+                    <Matrix a="1.410400390625" b="-2.44284057617188" c="2.44284057617188" d="1.410400390625" tx="1066.25" ty="889.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="437" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 8 copy 5" symbolType="graphic" firstFrame="49" centerPoint3DX="1094.5" centerPoint3DY="876.5" loop="loop">
+                  <matrix>
+                    <Matrix a="1.410400390625" b="-2.44284057617188" c="2.44284057617188" d="1.410400390625" tx="1066.25" ty="889.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="438" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_8_copy_5" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="48" centerPoint3DX="818.25" centerPoint3DY="816.3" loop="loop">
+                  <matrix>
+                    <Matrix a="7.62939453125e-05" b="-2.82080078125" c="2.82080078125" d="7.62939453125e-05" tx="800.45" ty="842"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05859375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="382" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="6" centerPoint3DX="818.25" centerPoint3DY="816.3" loop="loop">
+                  <matrix>
+                    <Matrix a="7.62939453125e-05" b="-2.82080078125" c="2.82080078125" d="7.62939453125e-05" tx="800.45" ty="842"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="419" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 8 copy 5" symbolType="graphic" firstFrame="38" centerPoint3DX="818.25" centerPoint3DY="816.3" loop="loop">
+                  <matrix>
+                    <Matrix a="7.62939453125e-05" b="-2.82080078125" c="2.82080078125" d="7.62939453125e-05" tx="800.45" ty="842"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="430" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 8 copy 5" symbolType="graphic" firstFrame="49" centerPoint3DX="818.25" centerPoint3DY="816.3" loop="loop">
+                  <matrix>
+                    <Matrix a="7.62939453125e-05" b="-2.82080078125" c="2.82080078125" d="7.62939453125e-05" tx="800.45" ty="842"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="431" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_8_copy_5" color="#009999" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="24" centerPoint3DX="893.6" centerPoint3DY="1204.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.0001068115234375" b="-3.5966796875" c="3.5966796875" d="0.0001068115234375" tx="875.45" ty="1229.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05859375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="377" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="32" centerPoint3DX="893.6" centerPoint3DY="1204.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.0001068115234375" b="-3.5966796875" c="3.5966796875" d="0.0001068115234375" tx="875.45" ty="1229.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="409" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 8 copy 5" selected="true" symbolType="graphic" firstFrame="9" centerPoint3DX="893.6" centerPoint3DY="1204.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.0001068115234375" b="-3.5966796875" c="3.5966796875" d="0.0001068115234375" tx="875.45" ty="1229.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="420" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 8 copy 5" selected="true" symbolType="graphic" firstFrame="20" centerPoint3DX="893.6" centerPoint3DY="1204.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.0001068115234375" b="-3.5966796875" c="3.5966796875" d="0.0001068115234375" tx="875.45" ty="1229.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="421" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/galaxy_g" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="260.8" ty="260.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.85" y="690.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="75" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/galaxy_g" selected="true" symbolType="graphic" firstFrame="24" centerPoint3DX="951.2" centerPoint3DY="951.05" loop="play once">
+                  <matrix>
+                    <Matrix tx="260.8" ty="260.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.85" y="690.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" duration="100" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/galaxy_g" symbolType="graphic" firstFrame="99" centerPoint3DX="951.2" centerPoint3DY="951.05" loop="play once">
+                  <matrix>
+                    <Matrix tx="260.8" ty="260.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.85" y="690.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="199" duration="100" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/galaxy_g" symbolType="graphic" firstFrame="199" centerPoint3DX="951.2" centerPoint3DY="951.05" loop="play once">
+                  <matrix>
+                    <Matrix a="0.8975830078125" d="0.8975830078125" tx="331.6" ty="331.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.85" y="690.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="299" duration="101" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/galaxy_g" symbolType="graphic" firstFrame="299" centerPoint3DX="951.2" centerPoint3DY="951.05" loop="play once">
+                  <matrix>
+                    <Matrix a="1.1224365234375" d="1.1224365234375" tx="176.25" ty="176.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.85" y="690.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="400" duration="44" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/galaxy_g" symbolType="graphic" firstFrame="400" centerPoint3DX="951.15" centerPoint3DY="951.05" loop="play once">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.8499755859375" tx="364.45" ty="364.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.9" y="690.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="444" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/galaxy_g" symbolType="graphic" firstFrame="444" centerPoint3DX="951.2" centerPoint3DY="951.05" loop="play once">
+                  <matrix>
+                    <Matrix tx="260.8" ty="260.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.85" y="690.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,851 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="meteor_rain" itemID="5f49193f-00000d43" symbolType="graphic" lastModified="1599039113" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="meteor_rain" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-1929&lt;/guideline&gt;&lt;guideline direction="v"&gt;193&lt;/guideline&gt;&lt;guideline direction="v"&gt;20&lt;/guideline&gt;&lt;/guidelines&gt;' layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_10" color="#9933CC" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 63" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix tx="58" ty="60"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="7.1" y="210.5"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Path_78" centerPoint3DX="283.85" centerPoint3DY="137">
+                      <matrix>
+                        <Matrix tx="53.35"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="12.9" y="266.6"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 62" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix tx="58" ty="129"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="0.4" y="133.6"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/star_n" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix ty="196.9"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="63.5" y="63.5"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" name="f" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_11" color="#FF800A" outline="true" useOutlineView="true" autoNamed="false" visible="false" transparent="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FF0000"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!7269 3483[7109 3503 6825 3550!6825 3550[6508 3605 6381 3623!6381 3623[6271 3637 6010 3668!6010 3668[5773 3696 5639 3716!5639 3716[5299 3767 4877 3872!4877 3872[4591 3943 4113 4079!4113 4079[3528 4246 3056 4392!3056 4392[2665 4514 2351
+ 4621!2351 4621[#846.8A #125C.73 1888 4785.5!1888 4785.5|1888 4814.5!1888 4814.5[#325.56 #1462.68 -185 5841!-185 5841[-1378 6591 -2346 7598!-2346 7598[-2230 7412 -2051 7222!-2051 7222[-1915 7079 -1701 6893!-1701 6893[-773 6083 310 5479
+!310 5479[#433.26 #13BC.44 1886.5 4745.5!1886.5 4745.5|1887 4744!1887 4744[2244 4612 2606 4492!2606 4492[2824 4419 3066 4344!3066 4344[3254 4286 3454 4226!3454 4226[3814 4120 4307 3983!4307 3983[4703 3872 4938 3814!4938 3814[5288 3729
+ 5569 3685!5569 3685[5719 3661 5994 3631!5994 3631[6286 3597 6418 3577!6418 3577[6543 3559 6875 3499!6875 3499[7167 3448 7332 3427!7332 3427[7852 3358 8139 3443!8139 3443[7719 3425 7269 3483"/>
+                            <Edge cubics="!1888 4815(;296,5409 -1165,6368 -2346,7598q1888 4815Q805 5218q-185 5841Q-1378 6591q-2346 7598);"/>
+                            <Edge cubics="!-2346 7598(;-2177,7325 -1942,7103 -1701,6893q-2346 7598Q-2230 7412q-2051 7222Q-1915 7079q-1701 6893);"/>
+                            <Edge cubics="!7269 3483(;6974,3519 6675,3580 6381,3623q7269 3483Q7109 3503q6825 3550Q6508 3605q6381 3623);"/>
+                            <Edge cubics="!6381 3623(;6132,3657 5888,3678 5639,3716q6381 3623Q6271 3637q6010 3668Q5773 3696q5639 3716);"/>
+                            <Edge cubics="!5639 3716(;5134,3793 4621,3935 4113,4079q5639 3716Q5299 3767q4877 3872Q4591 3943q4113 4079);"/>
+                            <Edge cubics="!4113 4079(;3763,4180 3412,4282 3056,4392q4113 4079Q3528 4246q3056 4392);"/>
+                            <Edge cubics="!3056 4392(;2825,4463 2587,4539 2351,4621q3056 4392Q2665 4514q2351 4621);"/>
+                            <Edge cubics="!1887 4744(;2124,4656 2364,4571 2606,4492q1887 4744Q2244 4612q2606 4492);"/>
+                            <Edge cubics="!2606 4492(;2761,4440 2915,4391 3066,4344q2606 4492 3066 4344);"/>
+                            <Edge cubics="!3066 4344(;3479,4215 3892,4098 4307,3983q3066 4344 3454 4226 4307 3983);"/>
+                            <Edge cubics="!4307 3983(;4727,3865 5150,3752 5569,3685q4307 3983Q4703 3872q4938 3814Q5288 3729q5569 3685);"/>
+                            <Edge cubics="!5569 3685(;5854,3641 6134,3619 6418,3577q5569 3685Q5719 3661q5994 3631Q6286 3597q6418 3577);"/>
+                            <Edge cubics="!6418 3577(;7014,3488 7685,3308 8139,3443q6418 3577Q6543 3559q6875 3499Q7167 3448q7332 3427Q7852 3358q8139 3443);"/>
+                            <Edge cubics="!8139 3443(;7861,3431 7569,3445 7269,3483q8139 3443Q7719 3425q7269 3483);"/>
+                            <Edge cubics="!1887 4746(;1887,4746 1887,4744 1887,4744q1887 4746 1887 4744);"/>
+                            <Edge cubics="!2351 4621(;2196,4674 2042,4729 1888,4786q2351 4621Q2119 4700q1888 4786);"/>
+                            <Edge cubics="!1888 4815(;1888,4815 1888,4786 1888,4786q1888 4815 1888 4786);"/>
+                            <Edge cubics="!310 5479(;820,5194 1346,4950 1887,4746q310 5479Q1075 5052q1887 4746);"/>
+                            <Edge cubics="!-1701 6893(;-1082,6353 -412,5882 310,5479q-1701 6893Q-773 6083q310 5479);"/>
+                          </edges>
+                        </DOMShape>
+                        <DOMShape isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FF0000"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!-2631 7689[-2607 7665 -2590 7673!-2590 7673[-2574 7680 -2580 7702!-2580 7702[-2584 7722 -2600 7737!-2600 7737[-3036 8178 -3411 8686!-3411 8686[-3567 8897 -3849 9319!-3849 9319[-4138 9750 -4286 9952!-4286 9952|-4328 9929!-4328 9929|-4072
+ 9546!-4072 9546[-3635 8892 -3400 8577!-3400 8577[-3007 8052 -2631 7689"/>
+                            <Edge cubics="!-2631 7689(;-2620,7678 -2604,7666 -2590,7673q-2631 7689Q-2607 7665q-2590 7673);"/>
+                            <Edge cubics="!-2590 7673(;-2567,7683 -2582,7719 -2600,7737q-2590 7673Q-2574 7680q-2580 7702Q-2584 7722q-2600 7737);"/>
+                            <Edge cubics="!-2600 7737(;-2893,8033 -3164,8351 -3411,8686q-2600 7737Q-3036 8178q-3411 8686);"/>
+                            <Edge cubics="!-3411 8686(;-3716,9099 -3983,9538 -4286,9952q-3411 8686Q-3567 8897q-3849 9319Q-4138 9750q-4286 9952);"/>
+                            <Edge cubics="!-4286 9952(;-4300,9944 -4314,9936 -4328,9929q-4286 9952 -4328 9929);"/>
+                            <Edge cubics="!-4328 9929(;-4242,9801 -4157,9673 -4072,9546q-4328 9929 -4072 9546);"/>
+                            <Edge cubics="!-4072 9546(;-3636,8893 -3196,8234 -2631,7689q-4072 9546Q-3635 8892q-3400 8577Q-3007 8052q-2631 7689);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.962249755859375" b="0.272003173828125" c="-0.272003173828125" d="0.962249755859375" tx="128.8" ty="-28.35"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FF0000"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1341 6067[1320 6068 1307 6031!1307 6031|1180 5665!1180 5665[1130 5523 1110 5450!1110 5450[1091 5379 1081 5343!1081 5343[1063 5281 1044 5239!1044 5239[1030 5207 990 5140!990 5140[953 5077 938 5041!938 5041[923 5004 906 4941!906 4941[886
+ 4864 878 4840!878 4840[862 4790 808 4672!808 4672[691 4415 608 4151!608 4151[598 4117 612 4104!612 4104[620 4098 632 4099!632 4099[643 4101 651 4109!651 4109[662 4120 670 4147!670 4147[748 4400 858 4643!858 4643[919 4777 937 4828!937
+ 4828[946 4853 965 4919!965 4919[981 4977 994 5009!994 5009[1009 5048 1037 5103!1037 5103[1052 5134 1083 5195!1083 5195[1126 5287 1188 5479!1188 5479|1359 6004!1359 6004[1366 6025 1363 6044!1363 6044[1359 6066 1341 6067"/>
+                        <Edge cubics="!1341 6067(;1323,6068 1313,6048 1307,6031q1341 6067Q1320 6068q1307 6031);"/>
+                        <Edge cubics="!1307 6031(;1264,5909 1222,5787 1180,5665q1307 6031 1180 5665);"/>
+                        <Edge cubics="!1180 5665(;1155,5594 1130,5523 1110,5450q1180 5665Q1130 5523q1110 5450);"/>
+                        <Edge cubics="!1110 5450(;1090,5379 1075,5306 1044,5239q1110 5450Q1091 5379q1081 5343Q1063 5281q1044 5239);"/>
+                        <Edge cubics="!1044 5239(;1013,5171 967,5110 938,5041q1044 5239Q1030 5207q990 5140Q953 5077q938 5041);"/>
+                        <Edge cubics="!938 5041(;911,4976 900,4906 878,4840q938 5041Q923 5004q906 4941Q886 4864q878 4840);"/>
+                        <Edge cubics="!878 4840(;859,4782 833,4727 808,4672q878 4840Q862 4790q808 4672);"/>
+                        <Edge cubics="!808 4672(;731,4502 664,4328 608,4151q808 4672Q691 4415q608 4151);"/>
+                        <Edge cubics="!608 4151(;603,4135 600,4115 612,4104q608 4151Q598 4117q612 4104);"/>
+                        <Edge cubics="!612 4104(;623,4095 641,4099 651,4109q612 4104Q620 4098q632 4099Q643 4101q651 4109);"/>
+                        <Edge cubics="!651 4109(;661,4119 666,4133 670,4147q651 4109Q662 4120q670 4147);"/>
+                        <Edge cubics="!670 4147(;722,4316 785,4482 858,4643q670 4147Q748 4400q858 4643);"/>
+                        <Edge cubics="!858 4643(;886,4704 915,4764 937,4828q858 4643Q919 4777q937 4828);"/>
+                        <Edge cubics="!937 4828(;958,4888 971,4950 994,5009q937 4828Q946 4853q965 4919Q981 4977q994 5009);"/>
+                        <Edge cubics="!994 5009(;1019,5073 1053,5133 1083,5195q994 5009Q1009 5048q1037 5103Q1052 5134q1083 5195);"/>
+                        <Edge cubics="!1083 5195(;1126,5287 1157,5383 1188,5479q1083 5195Q1126 5287q1188 5479);"/>
+                        <Edge cubics="!1188 5479(;1245,5654 1302,5829 1359,6004q1188 5479 1359 6004);"/>
+                        <Edge cubics="!1359 6004(;1367,6028 1367,6066 1341,6067q1359 6004Q1366 6025q1363 6044Q1359 6066q1341 6067);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.9901123046875" b="0.140060424804688" c="-0.140060424804688" d="0.9901123046875" tx="105.55" ty="54.5"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FF0000"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!-3702 6087[-3686 6081 -3666 6106!-3666 6106[-3190 6677 -2737 7288!-2737 7288[-2718 7315 -2718 7331!-2718 7331[-2718 7344 -2728 7353!-2728 7353[-2738 7362 -2749 7358!-2749 7358|-3699 6145!-3699 6145[-3711 6129 -3714 6112!-3714 6112[-3717
+ 6093 -3702 6087"/>
+                        <Edge cubics="!-3702 6087(;-3689,6082 -3675,6095 -3666,6106q-3702 6087Q-3686 6081q-3666 6106);"/>
+                        <Edge cubics="!-3666 6106(;-3345,6491 -3035,6886 -2737,7288q-3666 6106Q-3190 6677q-2737 7288);"/>
+                        <Edge cubics="!-2737 7288(;-2728,7301 -2718,7315 -2718,7331q-2737 7288Q-2718 7315q-2718 7331);"/>
+                        <Edge cubics="!-2718 7331(;-2718,7347 -2734,7364 -2749,7358q-2718 7331Q-2718 7344q-2728 7353Q-2738 7362q-2749 7358);"/>
+                        <Edge cubics="!-2749 7358(;-3066,6954 -3382,6549 -3699,6145q-2749 7358 -3699 6145);"/>
+                        <Edge cubics="!-3699 6145(;-3713,6127 -3724,6095 -3702,6087q-3699 6145Q-3711 6129q-3714 6112Q-3717 6093q-3702 6087);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.927490234375" b="-0.37371826171875" c="0.37371826171875" d="0.927490234375" tx="-28.4" ty="82"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FF0000"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!6310 5702[6261 5767 6221 5785!6221 5785[6203 5767 6213 5738!6213 5738[6221 5715 6243 5690!6243 5690[6417 5484 6594 5195!6594 5195[6698 5025 6895 4667!6895 4667|7285 3957!7285 3957[7304 3923 7317 3907!7317 3907[7337 3881 7362 3872!7362
+ 3872[7390 3886 7364 3936!7364 3936[7055 4503 6707 5117!6707 5117[6621 5271 6556 5371!6556 5371[6486 5479 6310 5702"/>
+                        <Edge cubics="!6310 5702(;6285,5735 6258,5768 6221,5785q6310 5702Q6261 5767q6221 5785);"/>
+                        <Edge cubics="!6221 5785(;6195,5759 6219,5717 6243,5690q6221 5785Q6203 5767q6213 5738Q6221 5715q6243 5690);"/>
+                        <Edge cubics="!6243 5690(;6504,5380 6700,5022 6895,4667q6243 5690Q6417 5484q6594 5195Q6698 5025q6895 4667);"/>
+                        <Edge cubics="!6895 4667(;7025,4430 7155,4194 7285,3957q6895 4667 7285 3957);"/>
+                        <Edge cubics="!7285 3957(;7304,3923 7325,3886 7362,3872q7285 3957Q7304 3923q7317 3907Q7337 3881q7362 3872);"/>
+                        <Edge cubics="!7362 3872(;7384,3883 7375,3915 7364,3936q7362 3872Q7390 3886q7364 3936);"/>
+                        <Edge cubics="!7364 3936(;7148,4332 6929,4725 6707,5117q7364 3936Q7055 4503q6707 5117);"/>
+                        <Edge cubics="!6707 5117(;6659,5203 6610,5288 6556,5371q6707 5117Q6621 5271q6556 5371);"/>
+                        <Edge cubics="!6556 5371(;6481,5486 6395,5594 6310,5702q6556 5371Q6486 5479q6310 5702);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.992645263671875" b="-0.120956420898438" c="0.120956420898438" d="0.992645263671875" tx="10.35" ty="-11.5"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FF0000"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4062 5428[4085 5346 4091 5215!4091 5215[4100 5021 4102 4999!4102 4999[4117 4889 4121 4833!4121 4833[4125 4789 4124 4723!4124 4723[4122 4649 4122 4612!4122 4612[4123 4499 4140 4347!4140 4347[4162 4171 4173 4083!4173 4083[4192 3932 4187
+ 3847!4187 3847[4183 3802 4188 3784!4188 3784[4193 3767 4204 3756!4204 3756[4217 3744 4232 3743!4232 3743[4254 3800 4254 3876!4254 3876[4254 3922 4243 4012!4243 4012[4215 4235 4205 4335!4205 4335[4188 4516 4187 4660!4187 4660[4187 4828
+ 4184 4869!4184 4869[4182 4895 4167 5025!4167 5025[4159 5102 4150 5256!4150 5256[4140 5394 4118 5484!4118 5484[4101 5554 4059 5557!4059 5557[4043 5533 4047 5495!4047 5495[4049 5476 4062 5428"/>
+                        <Edge cubics="!4062 5428(;4100,5289 4087,5142 4102,4999q4062 5428Q4085 5346q4091 5215Q4100 5021q4102 4999);"/>
+                        <Edge cubics="!4102 4999(;4108,4944 4117,4889 4121,4833q4102 4999Q4117 4889q4121 4833);"/>
+                        <Edge cubics="!4121 4833(;4127,4760 4122,4686 4122,4612q4121 4833Q4125 4789q4124 4723Q4122 4649q4122 4612);"/>
+                        <Edge cubics="!4122 4612(;4123,4435 4151,4259 4173,4083q4122 4612Q4123 4499q4140 4347Q4162 4171q4173 4083);"/>
+                        <Edge cubics="!4173 4083(;4183,4005 4192,3926 4187,3847q4173 4083Q4192 3932q4187 3847);"/>
+                        <Edge cubics="!4187 3847(;4185,3826 4182,3804 4188,3784q4187 3847Q4183 3802q4188 3784);"/>
+                        <Edge cubics="!4188 3784(;4194,3763 4211,3744 4232,3743q4188 3784Q4193 3767q4204 3756Q4217 3744q4232 3743);"/>
+                        <Edge cubics="!4232 3743(;4265,3828 4254,3922 4243,4012q4232 3743Q4254 3800q4254 3876Q4254 3922q4243 4012);"/>
+                        <Edge cubics="!4243 4012(;4216,4227 4188,4443 4187,4660q4243 4012Q4215 4235q4205 4335Q4188 4516q4187 4660);"/>
+                        <Edge cubics="!4187 4660(;4187,4730 4189,4800 4184,4869q4187 4660Q4187 4828q4184 4869);"/>
+                        <Edge cubics="!4184 4869(;4180,4921 4173,4973 4167,5025q4184 4869Q4182 4895q4167 5025);"/>
+                        <Edge cubics="!4167 5025(;4151,5178 4154,5335 4118,5484q4167 5025Q4159 5102q4150 5256Q4140 5394q4118 5484);"/>
+                        <Edge cubics="!4118 5484(;4110,5517 4092,5555 4059,5557q4118 5484Q4101 5554q4059 5557);"/>
+                        <Edge cubics="!4059 5557(;4034,5520 4050,5471 4062,5428q4059 5557Q4043 5533q4047 5495Q4049 5476q4062 5428);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.92010498046875" b="0.391525268554688" c="-0.391525268554688" d="0.92010498046875" tx="155.8" ty="48.35"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FF0000"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!-790 6641[-805 6639 -818 6612!-818 6612|-961 6299!-961 6299[-1007 6199 -1030 6158!-1030 6158[-1093 6057 -1122 6005!-1122 6005[-1137 5977 -1158 5931!-1158 5931[-1186 5870 -1193 5857!-1193 5857[-1221 5803 -1300 5679!-1300 5679[-1427 5483
+ -1473 5408!-1473 5408[-1567 5254 -1627 5126!-1627 5126[-1639 5100 -1637 5085!-1637 5085[-1635 5074 -1627 5066!-1627 5066[-1619 5058 -1608 5059!-1608 5059[-1595 5062 -1583 5085!-1583 5085[-1464 5318 -1319 5542!-1319 5542[-1287 5591 -1224
+ 5688!-1224 5688[-1171 5772 -1138 5839!-1138 5839[-1130 5855 -1105 5909!-1105 5909[-1085 5953 -1071 5979!-1071 5979[-1046 6025 -990 6112!-990 6112[-953 6173 -899 6293!-899 6293|-772 6571!-772 6571[-760 6597 -761 6613!-761 6613[-763 6625
+ -771 6633!-771 6633[-780 6642 -790 6641"/>
+                        <Edge cubics="!-790 6641(;-804,6639 -812,6624 -818,6612q-790 6641Q-805 6639q-818 6612);"/>
+                        <Edge cubics="!-818 6612(;-866,6507 -913,6403 -961,6299q-818 6612 -961 6299);"/>
+                        <Edge cubics="!-961 6299(;-983,6251 -1004,6204 -1030,6158q-961 6299Q-1007 6199q-1030 6158);"/>
+                        <Edge cubics="!-1030 6158(;-1059,6106 -1093,6057 -1122,6005q-1030 6158Q-1093 6057q-1122 6005);"/>
+                        <Edge cubics="!-1122 6005(;-1148,5957 -1169,5906 -1193,5857q-1122 6005Q-1137 5977q-1158 5931Q-1186 5870q-1193 5857);"/>
+                        <Edge cubics="!-1193 5857(;-1225,5795 -1263,5737 -1300,5679q-1193 5857Q-1221 5803q-1300 5679);"/>
+                        <Edge cubics="!-1300 5679(;-1417,5499 -1536,5320 -1627,5126q-1300 5679Q-1427 5483q-1473 5408Q-1567 5254q-1627 5126);"/>
+                        <Edge cubics="!-1627 5126(;-1633,5113 -1639,5099 -1637,5085q-1627 5126Q-1639 5100q-1637 5085);"/>
+                        <Edge cubics="!-1637 5085(;-1635,5071 -1623,5057 -1608,5059q-1637 5085Q-1635 5074q-1627 5066Q-1619 5058q-1608 5059);"/>
+                        <Edge cubics="!-1608 5059(;-1596,5062 -1589,5074 -1583,5085q-1608 5059Q-1595 5062q-1583 5085);"/>
+                        <Edge cubics="!-1583 5085(;-1503,5242 -1415,5394 -1319,5542q-1583 5085Q-1464 5318q-1319 5542);"/>
+                        <Edge cubics="!-1319 5542(;-1256,5639 -1189,5735 -1138,5839q-1319 5542Q-1287 5591q-1224 5688Q-1171 5772q-1138 5839);"/>
+                        <Edge cubics="!-1138 5839(;-1115,5885 -1096,5934 -1071,5979q-1138 5839Q-1130 5855q-1105 5909Q-1085 5953q-1071 5979);"/>
+                        <Edge cubics="!-1071 5979(;-1046,6025 -1016,6067 -990,6112q-1071 5979Q-1046 6025q-990 6112);"/>
+                        <Edge cubics="!-990 6112(;-955,6170 -927,6231 -899,6293q-990 6112Q-953 6173q-899 6293);"/>
+                        <Edge cubics="!-899 6293(;-857,6385 -815,6478 -772,6571q-899 6293 -772 6571);"/>
+                        <Edge cubics="!-772 6571(;-766,6584 -760,6598 -761,6613q-772 6571Q-760 6597q-761 6613);"/>
+                        <Edge cubics="!-761 6613(;-763,6628 -776,6643 -790,6641q-761 6613Q-763 6625q-771 6633Q-780 6642q-790 6641);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_5" color="#009999" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="6.103515625e-05" b="-1.80400085449219" c="1.80400085449219" d="6.103515625e-05" tx="246.95" ty="212.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="2" centerPoint3DX="204.9" centerPoint3DY="199" loop="play once">
+                  <matrix>
+                    <Matrix a="6.103515625e-05" b="-1.80400085449219" c="1.80400085449219" d="6.103515625e-05" tx="186.95" ty="224.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="6" centerPoint3DX="138.9" centerPoint3DY="219" loop="play once">
+                  <matrix>
+                    <Matrix a="6.103515625e-05" b="-1.80400085449219" c="1.80400085449219" d="6.103515625e-05" tx="120.95" ty="244.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="10" centerPoint3DX="92.9" centerPoint3DY="241" loop="play once">
+                  <matrix>
+                    <Matrix a="6.103515625e-05" b="-1.80400085449219" c="1.80400085449219" d="6.103515625e-05" tx="74.95" ty="266.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="14" centerPoint3DX="12.9" centerPoint3DY="301" loop="play once">
+                  <matrix>
+                    <Matrix a="6.103515625e-05" b="-1.80400085449219" c="1.80400085449219" d="6.103515625e-05" tx="-5.05" ty="326.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_12" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="19" loop="play once">
+                  <matrix>
+                    <Matrix a="6.103515625e-05" b="-1.80400085449219" c="1.80400085449219" d="6.103515625e-05" tx="50.4" ty="280.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="24" centerPoint3DX="36.35" centerPoint3DY="270.35" loop="play once">
+                  <matrix>
+                    <Matrix a="6.103515625e-05" b="-1.80400085449219" c="1.80400085449219" d="6.103515625e-05" tx="18.4" ty="296.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="29" centerPoint3DX="-63.65" centerPoint3DY="346.35" loop="play once">
+                  <matrix>
+                    <Matrix a="6.103515625e-05" b="-1.80400085449219" c="1.80400085449219" d="6.103515625e-05" tx="-81.6" ty="372.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fx" symbolType="graphic" firstFrame="34" centerPoint3DX="-157.65" centerPoint3DY="412.35" loop="play once">
+                  <matrix>
+                    <Matrix a="6.103515625e-05" b="-1.80400085449219" c="1.80400085449219" d="6.103515625e-05" tx="-175.6" ty="438.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="star" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/star_n" selected="true" symbolType="graphic" centerPoint3DX="391.6" centerPoint3DY="171.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999908447265625" d="0.999908447265625" tx="330.25" ty="108.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.85" y="63.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/star_n" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.945892333984375" b="0.324386596679688" c="-0.324386596679688" d="0.945892333984375" tx="207.25" ty="110.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.65" y="63.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/star_n" symbolType="graphic" firstFrame="6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.99664306640625" b="0.0812835693359375" c="-0.0812835693359375" d="0.99664306640625" tx="57.1" ty="162.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.65" y="63.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/star_n" symbolType="graphic" firstFrame="10" loop="loop">
+                  <matrix>
+                    <Matrix a="0.988037109375" b="-0.1539306640625" c="0.1539306640625" d="0.988037109375" tx="-87.35" ty="236.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.35" y="63.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/star_n" symbolType="graphic" firstFrame="14" centerPoint3DX="-107.35" centerPoint3DY="361.3" loop="loop">
+                  <matrix>
+                    <Matrix a="1.52281188964844" b="-0.713897705078125" c="0.713897705078125" d="1.52281188964844" tx="-249.25" ty="309.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.25" y="63.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/star_n" symbolType="graphic" firstFrame="19" centerPoint3DX="-190.3" centerPoint3DY="455.1" loop="loop">
+                  <matrix>
+                    <Matrix a="1.0548095703125" b="-0.781494140625" c="0.781494140625" d="1.0548095703125" tx="-306.7" ty="437.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.25" y="63.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/star_n" symbolType="graphic" firstFrame="24" centerPoint3DX="-232.4" centerPoint3DY="530.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.4127197265625" b="-0.44610595703125" c="0.44610595703125" d="0.4127197265625" tx="-286.85" ty="532.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.25" y="63.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="_Path__79" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 65" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.178741455078125" b="0.0587005615234375" c="-0.312042236328125" d="0.949951171875" tx="424.45" ty="43.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="126.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 65" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.278106689453125" b="-0.001434326171875" c="0.0051727294921875" d="0.999908447265625" tx="237.65" ty="59.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="126.65"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 65" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.6343994140625" b="-0.08331298828125" c="0.130218505859375" d="0.99139404296875" tx="90.55" ty="102.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="126.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 65" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.958099365234375" b="-0.2861328125" c="0.2861328125" d="0.958099365234375" tx="-58.75" ty="165.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="126.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 65" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.036865234375" b="-0.487045288085938" c="0.42510986328125" d="0.905029296875" tx="-166.1" ty="244.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="126.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 65" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.465545654296875" b="-0.3013916015625" c="0.66339111328125" d="0.7481689453125" tx="-282.65" ty="361.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.85" y="126.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 65" symbolType="graphic" centerPoint3DX="-209.05" centerPoint3DY="505.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.012969970703125" b="-0.012359619140625" c="0.158187866210938" d="0.122467041015625" tx="-257.4" ty="516.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.75" y="126.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="_Path__78" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 66" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.144393920898438" b="0.009979248046875" c="-0.0688934326171875" d="0.997482299804688" tx="407.65" ty="-67.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.2" y="241.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 66" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.190536499023438" b="-0.04937744140625" c="0.2508544921875" d="0.9678955078125" tx="185.8" ty="-40.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.15" y="241.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 66" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.439422607421875" b="-0.175018310546875" c="0.369979858398438" d="0.928924560546875" tx="22.95" ty="11.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.1" y="241.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 66" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.858306884765625" b="-0.512924194335938" c="0.512924194335938" d="0.858306884765625" tx="-146.55" ty="90.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.05" y="241.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 66" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.926254272460938" b="-0.523040771484375" c="0.491668701171875" d="0.87066650390625" tx="-231.5" ty="157.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="241.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 66" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.379989624023438" b="-0.387664794921875" c="0.71405029296875" d="0.699951171875" tx="-364.2" ty="291.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.8" y="241.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 66" symbolType="graphic" centerPoint3DX="-209.95" centerPoint3DY="483.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.0069580078125" b="-0.0160064697265625" c="0.43719482421875" d="0.190185546875" tx="-335.75" ty="483.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.9" y="241.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="_Path__80" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 67" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.129257202148438" b="0.0164947509765625" c="-0.232177734375" d="0.972579956054688" tx="407" ty="119.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.05" y="57.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 67" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.345626831054688" b="-0.068511962890625" c="0.08807373046875" d="0.99603271484375" tx="241.2" ty="138.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.85" y="57.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 67" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.682357788085938" b="-0.226974487304688" c="0.21197509765625" d="0.977203369140625" tx="97.35" ty="182.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.85" y="57.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 67" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.891693115234375" b="-0.465087890625" c="0.364593505859375" d="0.93109130859375" tx="-44.25" ty="245.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.7" y="57.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 67" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.00018310546875" b="-0.5567626953125" c="0.389755249023438" d="0.92083740234375" tx="-136.8" ty="317.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.45" y="57.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 67" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.503280639648438" b="-0.44561767578125" c="0.57867431640625" d="0.815475463867188" tx="-225.1" ty="414.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.1" y="57.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/meteor_rain_symbol/Symbol 67" symbolType="graphic" centerPoint3DX="-212.2" centerPoint3DY="497.25" loop="loop">
+                  <matrix>
+                    <Matrix a="0.0133819580078125" b="-0.026458740234375" c="0.286041259765625" d="0.1856689453125" tx="-244.7" ty="518.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.9" y="57.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

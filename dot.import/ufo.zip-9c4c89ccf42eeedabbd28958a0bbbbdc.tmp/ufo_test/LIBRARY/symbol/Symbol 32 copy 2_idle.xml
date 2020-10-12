@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="symbol/Symbol 32 copy 2_idle" itemID="5f5f6e2a-000007b3" symbolType="graphic" lastModified="1601473618">
+  <timeline>
+    <DOMTimeline name="Symbol 32 copy 2_idle" currentFrame="49" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="24" name="полет" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="74" duration="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="24" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17 copy 2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-112.1" ty="-58.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112" y="17.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="25" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17 copy 2" symbolType="graphic" firstFrame="24" centerPoint3DX="6.15" centerPoint3DY="-80.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.988449096679688" b="0.15155029296875" c="-0.15155029296875" d="0.988449096679688" tx="-108.1" ty="-75.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112" y="17.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="25" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17 copy 2" selected="true" symbolType="graphic" firstFrame="49" centerPoint3DY="-81.2" loop="loop">
+                  <matrix>
+                    <Matrix tx="-112.1" ty="-58.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112" y="17.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" duration="25" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17 copy 2" symbolType="graphic" firstFrame="74" centerPoint3DX="-5.1" centerPoint3DY="-80.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.992111206054688" b="-0.125350952148438" c="0.125350952148438" d="0.992111206054688" tx="-113.4" ty="-44.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112" y="17.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17 copy 2" symbolType="graphic" firstFrame="99" centerPoint3DY="-81.2" loop="loop">
+                  <matrix>
+                    <Matrix tx="-112.1" ty="-58.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112" y="17.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

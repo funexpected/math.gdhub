@@ -1,0 +1,99 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="r1b_idle" itemID="5ed7be1d-00000527" symbolType="graphic" lastModified="1591721527" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="r1b_idle" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;38&lt;/guideline&gt;&lt;guideline direction="h"&gt;46&lt;/guideline&gt;&lt;/guidelines&gt;' layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_5" color="#009999" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/rockets" symbolType="graphic" centerPoint3DX="571.3" centerPoint3DY="-266.9" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.66064453125" d="0.66064453125" tx="374.05" ty="-464.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Clip_Group__4" color="#FF0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/ffff44" symbolType="graphic" firstFrame="36" centerPoint3DX="571.3" centerPoint3DY="-228.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.66064453125" d="0.66064453125" tx="494.95" ty="-338"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.55" y="189.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_7" color="#669900" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/rBitmap 7">
+                  <matrix>
+                    <Matrix a="0" b="0.590423583984375" c="-0.590423583984375" d="0" tx="667.7" ty="-344"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 27 copy 3" centerPoint3DX="357.2" centerPoint3DY="-257.5">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="384.5" ty="-304.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46.45" y="-21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 27 copy 2" symbolType="graphic" firstFrame="27" centerPoint3DX="281.1" centerPoint3DY="-258.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="282.25" ty="-304.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46.45" y="-21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

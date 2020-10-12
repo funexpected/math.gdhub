@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/galaxy_symbol/Symbol 4" itemID="5f2b8a29-0000074d" symbolType="graphic" lastModified="1599141487" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 4" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_galaxy/galaxy12.png">
+                  <matrix>
+                    <Matrix tx="36.25" ty="150.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

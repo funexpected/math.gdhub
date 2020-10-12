@@ -1,0 +1,111 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/dddd666" itemID="5ed8af8a-0000005c" symbolType="graphic" lastModified="1591259663">
+  <timeline>
+    <DOMTimeline name="dddd666" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_5" color="#009999">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/rBitmap 5">
+                  <matrix>
+                    <Matrix tx="80" ty="141"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="bitmap/rBitmap 3">
+                  <matrix>
+                    <Matrix tx="82" ty="139"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="bitmap/rBitmap 4">
+                  <matrix>
+                    <Matrix tx="78" ty="147"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/rBitmap 5">
+                  <matrix>
+                    <Matrix tx="80" ty="141"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/rBitmap 3">
+                  <matrix>
+                    <Matrix tx="82" ty="139"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/rBitmap 4">
+                  <matrix>
+                    <Matrix tx="78" ty="147"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="18" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="bitmap/rBitmap 5">
+                  <matrix>
+                    <Matrix tx="80" ty="141"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="37" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/rBitmap 1.png">
+                  <matrix>
+                    <Matrix tx="78" ty="160"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="37" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 4">
+                  <matrix>
+                    <Matrix tx="32" ty="42.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.65" y="112.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="37" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

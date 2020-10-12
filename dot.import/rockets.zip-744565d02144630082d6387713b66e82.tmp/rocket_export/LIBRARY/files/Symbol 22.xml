@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/Symbol 22" itemID="5e960b79-00000740" symbolType="graphic" lastModified="1591355370" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 22" currentFrame="16" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 30" symbolType="graphic" firstFrame="7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.68829345703125" c="-0.063232421875" d="0.5625" tx="30.25" ty="0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.75" y="10.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.84" tintColor="#FA9D57"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="files/Symbol 30" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.587020874023438" b="0.0430908203125" c="0.0095367431640625" d="0.6829833984375" tx="34.65" ty="1.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.4" y="10.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.84" tintColor="#FA9D57"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 30" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.68829345703125" c="-0.063232421875" d="0.5625" tx="30.25" ty="0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.75" y="10.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.84" tintColor="#FA9D57"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="files/Symbol 30" symbolType="graphic" firstFrame="17" loop="loop">
+                  <matrix>
+                    <Matrix a="1.01622009277344" b="-0.0291290283203125" c="-0.0063323974609375" d="1.08110046386719" tx="31.5" ty="-5.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.05" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

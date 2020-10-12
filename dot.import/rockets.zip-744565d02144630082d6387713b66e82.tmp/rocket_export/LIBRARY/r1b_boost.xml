@@ -1,0 +1,196 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="r1b_boost" itemID="5ed7be20-00000528" symbolType="graphic" lastModified="1591709048" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="r1b_boost" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;38&lt;/guideline&gt;&lt;guideline direction="h"&gt;46&lt;/guideline&gt;&lt;/guidelines&gt;' layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_5" color="#009999">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 16 copy 2" symbolType="graphic" firstFrame="112" centerPoint3DX="571.35" centerPoint3DY="-256.5" loop="play once">
+                  <matrix>
+                    <Matrix a="0" b="0.66064453125" c="-0.66064453125" d="0" tx="768.5" ty="-1150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1352.45" y="460.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 16 copy 2" symbolType="graphic" firstFrame="43" centerPoint3DX="571.35" centerPoint3DY="-256.5" loop="play once">
+                  <matrix>
+                    <Matrix a="0" b="0.66064453125" c="-0.66064453125" d="0" tx="768.5" ty="-1150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1352.45" y="460.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 155" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.5025634765625" tx="61.25" ty="13.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-42" y="-304.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 155" symbolType="graphic" firstFrame="11" centerPoint3DX="140.85" centerPoint3DY="-257.7" loop="play once">
+                  <matrix>
+                    <Matrix tx="-393.85" ty="13.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-42" y="-304.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 27 copy 3" centerPoint3DX="357.2" centerPoint3DY="-257.5">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="384.5" ty="-304.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46.45" y="-21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="11" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="all" name="My Ease 4">
+                  <Point/>
+                  <Point x="0.1364" y="0.8678"/>
+                  <Point x="0.6511" y="0.9258"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 27 copy 3" centerPoint3DX="356.1" centerPoint3DY="-257.5">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="383.4" ty="-304.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46.45" y="-21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 27 copy 3">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="384.5" ty="-304.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46.45" y="-21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 27 copy 2" symbolType="graphic" centerPoint3DX="281.1" centerPoint3DY="-258.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="282.25" ty="-304.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46.45" y="-21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="5" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.159011191717356" y="0.560593225890958"/>
+                  <Point x="0.551712478203837" y="0.843984289605669"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 27 copy 2" symbolType="graphic" firstFrame="2" centerPoint3DX="273.2" centerPoint3DY="-258.65" loop="loop">
+                  <matrix>
+                    <Matrix a="9.1552734375e-05" b="1.2999267578125" c="-1.2999267578125" d="9.1552734375e-05" tx="274.65" ty="-318.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46.4" y="-21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="6" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.33141999725913" y="0.631741089184088"/>
+                  <Point x="0.699297976479628" y="0.805910117591357"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 27 copy 2" symbolType="graphic" firstFrame="7" centerPoint3DX="250.6" centerPoint3DY="-258.65" loop="loop">
+                  <matrix>
+                    <Matrix a="3.0517578125e-05" b="1.1312255859375" c="-2.36277770996094" d="4.57763671875e-05" tx="223.25" ty="-310.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46.15" y="-21.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 27 copy 2" symbolType="graphic" firstFrame="13" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="282.25" ty="-304.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46.45" y="-21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

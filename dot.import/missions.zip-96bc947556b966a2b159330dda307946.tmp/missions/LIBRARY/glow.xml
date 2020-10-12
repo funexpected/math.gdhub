@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="glow" itemID="5f490766-00000a96" symbolType="graphic" lastModified="1599039116">
+  <timeline>
+    <DOMTimeline name="glow" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" name="glow_blue" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="glow_green" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="glow_orange" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" name="glow_red" labelType="anchor" bookmark="true" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/glow_blue.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/glow_green.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/glow_orange.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="files/png_meteor_rain/glow_red.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

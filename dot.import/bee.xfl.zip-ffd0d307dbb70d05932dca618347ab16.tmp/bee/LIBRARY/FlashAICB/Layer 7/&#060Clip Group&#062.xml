@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="FlashAICB/Layer 7/&amp;#060Clip Group&amp;#062" itemID="5a818378-000007a6" lastModified="1518602357">
+  <timeline>
+    <DOMTimeline name="&amp;#060Clip Group&amp;#062">
+      <layers>
+        <DOMLayer name="Layer_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A" parentLayerIndex="1" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1C1C1C"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!487 751[#1E6.EA #3CD.C8 599.5 1150!599.5 1150[#27D.AE #483.2B 678 1158.5!678 1158.5[#223.18 #3D5.BA 547 751!547 751[#223.23 #1D1.A3 749 262.5!749 262.5|749.5 262!749.5 262[#308.2E #EB.7F 804.5 212.5!804.5 212.5[#2F3.DD #D5.7F 710 217
+!710 217[#2C4.6 #DA.22 707 219.5!707 219.5|707 220!707 220|706.5 220!706.5 220[#1E6.DE #1B8.B6 487 751!247 751[#F6.EE #3A3.87 321 1081.5!321 1081.5[#169.4D #449.8D 405.5 1110.5!405.5 1110.5[#133.15 #3B6.FF 307 751!307 751[#133.23 #1D1.A3
+ 509 262.5!509 262.5|509.5 262!509.5 262[#208.FF #FA.94 533 240!533 240[#1DB.D6 #FA.ED 423.5 266.5!423.5 266.5[#F6.E2 #1D8.B6 247 751"/>
+                    <Edge cubics="!678 1159(;654,1157 630,1154 600,1150q678 1159 600 1150);"/>
+                    <Edge cubics="!406 1111(;379,1103 353,1094 321,1082q406 1111 321 1082);"/>
+                    <Edge cubics="!424 267(;459,257 496,248 533,240q424 267 533 240);"/>
+                    <Edge cubics="!710 217(;744,215 776,214 805,213q710 217 805 213);"/>
+                    <Edge cubics="!710 217(;709,218 708,219 707,220q710 217Q708 218q707 220);"/>
+                    <Edge cubics="!509 263(;509,263 510,262 510,262q509 263 510 262);"/>
+                    <Edge cubics="!749 263(;749,263 750,262 750,262q749 263 750 262);"/>
+                    <Edge cubics="!750 262(;767,244 786,228 805,213q750 262Q776 235q805 213);"/>
+                    <Edge cubics="!510 262(;517,255 525,247 533,240q510 262Q521 251q533 240);"/>
+                    <Edge cubics="!424 267(;306,404 247,566 247,751q424 267Q247 473q247 751);"/>
+                    <Edge cubics="!547 751(;547,561 614,398 749,263q547 751Q547 466q749 263);"/>
+                    <Edge cubics="!707 220(;560,367 487,544 487,751q707 220Q487 441q487 751);"/>
+                    <Edge cubics="!307 751(;307,561 374,398 509,263q307 751Q307 466q509 263);"/>
+                    <Edge cubics="!247 751(;247,872 272,982 321,1082q247 751Q247 932q321 1082);"/>
+                    <Edge cubics="!487 751(;487,900 525,1033 600,1150q487 751Q487 974q600 1150);"/>
+                    <Edge cubics="!678 1159(;591,1041 547,905 547,751q678 1159Q547 982q547 751);"/>
+                    <Edge cubics="!406 1111(;340,1004 307,884 307,751q406 1111Q307 951q307 751);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

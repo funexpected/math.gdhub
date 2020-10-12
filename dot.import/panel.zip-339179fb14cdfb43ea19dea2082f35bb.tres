@@ -1,0 +1,2059 @@
+[gd_resource type="FlashDocument" load_steps=387 format=2]
+
+[ext_resource path="res://.import/panel.zip-339179fb14cdfb43ea19dea2082f35bb.atlas.ftex" type="Texture" id=1]
+
+[sub_resource type="AtlasTexture" id=1]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 148, 0, 64, 64 )
+
+[sub_resource type="FlashBitmapItem" id=2]
+texture = SubResource( 1 )
+
+[sub_resource type="AtlasTexture" id=3]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 128, 64, 32, 17 )
+
+[sub_resource type="FlashBitmapItem" id=4]
+eid = 1
+texture = SubResource( 3 )
+
+[sub_resource type="AtlasTexture" id=5]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 128, 81, 32, 17 )
+
+[sub_resource type="FlashBitmapItem" id=6]
+eid = 2
+texture = SubResource( 5 )
+
+[sub_resource type="AtlasTexture" id=7]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 128, 98, 32, 17 )
+
+[sub_resource type="FlashBitmapItem" id=8]
+eid = 3
+texture = SubResource( 7 )
+
+[sub_resource type="AtlasTexture" id=9]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 128, 115, 32, 17 )
+
+[sub_resource type="FlashBitmapItem" id=10]
+eid = 4
+texture = SubResource( 9 )
+
+[sub_resource type="AtlasTexture" id=11]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 160, 64, 32, 17 )
+
+[sub_resource type="FlashBitmapItem" id=12]
+eid = 5
+texture = SubResource( 11 )
+
+[sub_resource type="AtlasTexture" id=13]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 160, 81, 32, 17 )
+
+[sub_resource type="FlashBitmapItem" id=14]
+eid = 6
+texture = SubResource( 13 )
+
+[sub_resource type="AtlasTexture" id=15]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 160, 98, 32, 17 )
+
+[sub_resource type="FlashBitmapItem" id=16]
+eid = 7
+texture = SubResource( 15 )
+
+[sub_resource type="AtlasTexture" id=17]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 160, 115, 32, 17 )
+
+[sub_resource type="FlashBitmapItem" id=18]
+eid = 8
+texture = SubResource( 17 )
+
+[sub_resource type="AtlasTexture" id=19]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 0, 0, 148, 28 )
+
+[sub_resource type="FlashBitmapItem" id=20]
+eid = 9
+texture = SubResource( 19 )
+
+[sub_resource type="AtlasTexture" id=21]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 192, 118, 18, 18 )
+
+[sub_resource type="FlashBitmapItem" id=22]
+eid = 10
+texture = SubResource( 21 )
+
+[sub_resource type="AtlasTexture" id=23]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 0, 56, 64, 64 )
+
+[sub_resource type="FlashBitmapItem" id=24]
+eid = 11
+texture = SubResource( 23 )
+
+[sub_resource type="AtlasTexture" id=25]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 192, 100, 18, 18 )
+
+[sub_resource type="FlashBitmapItem" id=26]
+eid = 12
+texture = SubResource( 25 )
+
+[sub_resource type="AtlasTexture" id=27]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 192, 82, 18, 18 )
+
+[sub_resource type="FlashBitmapItem" id=28]
+eid = 13
+texture = SubResource( 27 )
+
+[sub_resource type="AtlasTexture" id=29]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 192, 64, 18, 18 )
+
+[sub_resource type="FlashBitmapItem" id=30]
+eid = 14
+texture = SubResource( 29 )
+
+[sub_resource type="AtlasTexture" id=31]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 64, 108, 64, 52 )
+
+[sub_resource type="FlashBitmapItem" id=32]
+eid = 15
+texture = SubResource( 31 )
+
+[sub_resource type="AtlasTexture" id=33]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 64, 56, 64, 52 )
+
+[sub_resource type="FlashBitmapItem" id=34]
+eid = 16
+texture = SubResource( 33 )
+
+[sub_resource type="AtlasTexture" id=35]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 0, 28, 148, 28 )
+
+[sub_resource type="FlashBitmapItem" id=36]
+eid = 17
+texture = SubResource( 35 )
+
+[sub_resource type="AtlasTexture" id=37]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 210, 64, 4, 4 )
+
+[sub_resource type="FlashBitmapItem" id=38]
+eid = 18
+texture = SubResource( 37 )
+
+[sub_resource type="AtlasTexture" id=39]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 210, 68, 4, 4 )
+
+[sub_resource type="FlashBitmapItem" id=40]
+eid = 19
+texture = SubResource( 39 )
+
+[sub_resource type="AtlasTexture" id=41]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 210, 72, 4, 4 )
+
+[sub_resource type="FlashBitmapItem" id=42]
+eid = 20
+texture = SubResource( 41 )
+
+[sub_resource type="AtlasTexture" id=43]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 210, 76, 4, 4 )
+
+[sub_resource type="FlashBitmapItem" id=44]
+eid = 21
+texture = SubResource( 43 )
+
+[sub_resource type="AtlasTexture" id=45]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 210, 80, 4, 4 )
+
+[sub_resource type="FlashBitmapItem" id=46]
+eid = 22
+texture = SubResource( 45 )
+
+[sub_resource type="AtlasTexture" id=47]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 210, 84, 4, 4 )
+
+[sub_resource type="FlashBitmapItem" id=48]
+eid = 23
+texture = SubResource( 47 )
+
+[sub_resource type="AtlasTexture" id=49]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 210, 88, 4, 4 )
+
+[sub_resource type="FlashBitmapItem" id=50]
+eid = 24
+texture = SubResource( 49 )
+
+[sub_resource type="FlashInstance" id=51]
+eid = 28
+transform = Transform2D( 1, 0, 0, 1, 1.95, 0 )
+library_item_name = "symbols/Symbol 112"
+
+[sub_resource type="FlashInstance" id=52]
+eid = 29
+transform = Transform2D( 1, 0, 0, 1, 83.55, 59.1 )
+library_item_name = "symbols/Symbol 116"
+
+[sub_resource type="FlashInstance" id=53]
+eid = 30
+transform = Transform2D( 1, 0, 0, 1, 0.55, 58.45 )
+library_item_name = "symbols/Symbol 117"
+
+[sub_resource type="FlashInstance" id=54]
+eid = 31
+transform = Transform2D( 1, 0, 0, 1, 0, 143.4 )
+library_item_name = "symbols/Symbol 119"
+
+[sub_resource type="FlashFrame" id=55]
+eid = 27
+duration = 10
+elements = [ SubResource( 51 ), SubResource( 52 ), SubResource( 53 ), SubResource( 54 ) ]
+
+[sub_resource type="FlashLayer" id=56]
+eid = 26
+duration = 10
+frames = [ SubResource( 55 ) ]
+
+[sub_resource type="FlashTimeline" id=57]
+eid = 25
+layers = [ SubResource( 56 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashFrame" id=58]
+eid = 34
+duration = 10
+
+[sub_resource type="FlashLayer" id=59]
+eid = 33
+duration = 10
+frames = [ SubResource( 58 ) ]
+
+[sub_resource type="FlashInstance" id=60]
+eid = 37
+transform = Transform2D( 1, 0, 0, 1, 129.85, 48.35 )
+first_frame = 4
+library_item_name = "symbols/Symbol 97"
+
+[sub_resource type="FlashFrame" id=61]
+eid = 36
+duration = 10
+elements = [ SubResource( 60 ) ]
+
+[sub_resource type="FlashLayer" id=62]
+eid = 35
+duration = 10
+frames = [ SubResource( 61 ) ]
+
+[sub_resource type="FlashFrame" id=63]
+eid = 39
+duration = 10
+
+[sub_resource type="FlashLayer" id=64]
+eid = 38
+duration = 10
+frames = [ SubResource( 63 ) ]
+
+[sub_resource type="FlashInstance" id=65]
+eid = 42
+transform = Transform2D( 1, 0, 0, 1, 66.55, 48.25 )
+first_frame = 2
+library_item_name = "symbols/Symbol 95"
+
+[sub_resource type="FlashFrame" id=66]
+eid = 41
+duration = 10
+elements = [ SubResource( 65 ) ]
+
+[sub_resource type="FlashLayer" id=67]
+eid = 40
+duration = 10
+frames = [ SubResource( 66 ) ]
+
+[sub_resource type="FlashFrame" id=68]
+eid = 44
+duration = 10
+
+[sub_resource type="FlashLayer" id=69]
+eid = 43
+duration = 10
+frames = [ SubResource( 68 ) ]
+
+[sub_resource type="FlashInstance" id=70]
+eid = 47
+transform = Transform2D( 1, 0, 0, 1, 0, 48.35 )
+library_item_name = "symbols/Symbol 93"
+
+[sub_resource type="FlashInstance" id=71]
+eid = 48
+transform = Transform2D( 1, 0, 0, 1, 98.2, 48.35 )
+first_frame = 3
+library_item_name = "symbols/Symbol 93"
+
+[sub_resource type="FlashFrame" id=72]
+eid = 46
+duration = 10
+elements = [ SubResource( 70 ), SubResource( 71 ) ]
+
+[sub_resource type="FlashLayer" id=73]
+eid = 45
+duration = 10
+frames = [ SubResource( 72 ) ]
+
+[sub_resource type="FlashFrame" id=74]
+eid = 50
+duration = 10
+
+[sub_resource type="FlashLayer" id=75]
+eid = 49
+duration = 10
+frames = [ SubResource( 74 ) ]
+
+[sub_resource type="FlashInstance" id=76]
+eid = 53
+transform = Transform2D( 1, 0, 0, 1, 33.3, 48.35 )
+first_frame = 1
+library_item_name = "symbols/Symbol 102"
+
+[sub_resource type="FlashInstance" id=77]
+eid = 54
+first_frame = 4
+library_item_name = "symbols/Symbol 104"
+
+[sub_resource type="FlashInstance" id=78]
+eid = 55
+transform = Transform2D( 1, 0, 0, 1, 0, 87.4 )
+first_frame = 1
+library_item_name = "symbols/Symbol 105"
+
+[sub_resource type="FlashInstance" id=79]
+eid = 56
+transform = Transform2D( 1, 0, 0, 1, 84.1, 87.4 )
+library_item_name = "symbols/Symbol 106"
+
+[sub_resource type="FlashInstance" id=80]
+eid = 57
+transform = Transform2D( 1, 0, 0, 1, 0, 157.6 )
+first_frame = 2
+library_item_name = "symbols/Symbol 107"
+
+[sub_resource type="FlashFrame" id=81]
+eid = 52
+duration = 10
+elements = [ SubResource( 76 ), SubResource( 77 ), SubResource( 78 ), SubResource( 79 ), SubResource( 80 ) ]
+
+[sub_resource type="FlashLayer" id=82]
+eid = 51
+duration = 10
+frames = [ SubResource( 81 ) ]
+
+[sub_resource type="FlashTimeline" id=83]
+eid = 32
+layers = [ SubResource( 59 ), SubResource( 62 ), SubResource( 64 ), SubResource( 67 ), SubResource( 69 ), SubResource( 73 ), SubResource( 75 ), SubResource( 82 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashInstance" id=84]
+eid = 61
+library_item_name = "symbols/Symbol 98"
+
+[sub_resource type="FlashTween" id=85]
+eid = 62
+
+[sub_resource type="FlashFrame" id=86]
+eid = 60
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 84 ) ]
+tweens = [ SubResource( 85 ) ]
+
+[sub_resource type="FlashInstance" id=87]
+eid = 64
+color_effect = PoolColorArray( 0, 0, 0, 0, 1, 0.820312, 1, 1 )
+library_item_name = "symbols/Symbol 98"
+
+[sub_resource type="FlashTween" id=88]
+eid = 65
+
+[sub_resource type="FlashFrame" id=89]
+eid = 63
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 87 ) ]
+tweens = [ SubResource( 88 ) ]
+
+[sub_resource type="FlashInstance" id=90]
+eid = 67
+library_item_name = "symbols/Symbol 98"
+
+[sub_resource type="FlashFrame" id=91]
+eid = 66
+index = 9
+elements = [ SubResource( 90 ) ]
+
+[sub_resource type="FlashLayer" id=92]
+eid = 59
+duration = 10
+frames = [ SubResource( 86 ), SubResource( 89 ), SubResource( 91 ) ]
+
+[sub_resource type="FlashTimeline" id=93]
+eid = 58
+layers = [ SubResource( 92 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashInstance" id=94]
+eid = 71
+library_item_name = "symbols/Symbol 100"
+
+[sub_resource type="FlashTween" id=95]
+eid = 72
+
+[sub_resource type="FlashFrame" id=96]
+eid = 70
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 94 ) ]
+tweens = [ SubResource( 95 ) ]
+
+[sub_resource type="FlashInstance" id=97]
+eid = 74
+color_effect = PoolColorArray( 0, 0, 0, 0, 0.96875, 1, 1, 0.378906 )
+library_item_name = "symbols/Symbol 100"
+
+[sub_resource type="FlashTween" id=98]
+eid = 75
+
+[sub_resource type="FlashFrame" id=99]
+eid = 73
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 97 ) ]
+tweens = [ SubResource( 98 ) ]
+
+[sub_resource type="FlashInstance" id=100]
+eid = 77
+library_item_name = "symbols/Symbol 100"
+
+[sub_resource type="FlashFrame" id=101]
+eid = 76
+index = 9
+elements = [ SubResource( 100 ) ]
+
+[sub_resource type="FlashLayer" id=102]
+eid = 69
+duration = 10
+frames = [ SubResource( 96 ), SubResource( 99 ), SubResource( 101 ) ]
+
+[sub_resource type="FlashTimeline" id=103]
+eid = 68
+layers = [ SubResource( 102 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashInstance" id=104]
+eid = 81
+library_item_name = "symbols/Symbol 101"
+
+[sub_resource type="FlashTween" id=105]
+eid = 82
+
+[sub_resource type="FlashFrame" id=106]
+eid = 80
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 104 ) ]
+tweens = [ SubResource( 105 ) ]
+
+[sub_resource type="FlashInstance" id=107]
+eid = 84
+color_effect = PoolColorArray( 0, 0, 0, 0, 1, 0.648438, 1, 1 )
+library_item_name = "symbols/Symbol 101"
+
+[sub_resource type="FlashTween" id=108]
+eid = 85
+
+[sub_resource type="FlashFrame" id=109]
+eid = 83
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 107 ) ]
+tweens = [ SubResource( 108 ) ]
+
+[sub_resource type="FlashInstance" id=110]
+eid = 87
+library_item_name = "symbols/Symbol 101"
+
+[sub_resource type="FlashFrame" id=111]
+eid = 86
+index = 9
+elements = [ SubResource( 110 ) ]
+
+[sub_resource type="FlashLayer" id=112]
+eid = 79
+duration = 10
+frames = [ SubResource( 106 ), SubResource( 109 ), SubResource( 111 ) ]
+
+[sub_resource type="FlashTimeline" id=113]
+eid = 78
+layers = [ SubResource( 112 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=114]
+eid = 91
+library_item_name = "bitmap/Bitmap 19"
+
+[sub_resource type="FlashFrame" id=115]
+eid = 90
+elements = [ SubResource( 114 ) ]
+
+[sub_resource type="FlashLayer" id=116]
+eid = 89
+duration = 1
+frames = [ SubResource( 115 ) ]
+
+[sub_resource type="FlashTimeline" id=117]
+eid = 88
+layers = [ SubResource( 116 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashBitmapInstance" id=118]
+eid = 95
+library_item_name = "bitmap/Bitmap 21"
+
+[sub_resource type="FlashFrame" id=119]
+eid = 94
+elements = [ SubResource( 118 ) ]
+
+[sub_resource type="FlashLayer" id=120]
+eid = 93
+duration = 1
+frames = [ SubResource( 119 ) ]
+
+[sub_resource type="FlashTimeline" id=121]
+eid = 92
+layers = [ SubResource( 120 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashBitmapInstance" id=122]
+eid = 99
+library_item_name = "bitmap/Bitmap 22"
+
+[sub_resource type="FlashFrame" id=123]
+eid = 98
+elements = [ SubResource( 122 ) ]
+
+[sub_resource type="FlashLayer" id=124]
+eid = 97
+duration = 1
+frames = [ SubResource( 123 ) ]
+
+[sub_resource type="FlashTimeline" id=125]
+eid = 96
+layers = [ SubResource( 124 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=126]
+eid = 103
+library_item_name = "symbols/Symbol 103"
+
+[sub_resource type="FlashTween" id=127]
+eid = 104
+
+[sub_resource type="FlashFrame" id=128]
+eid = 102
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 126 ) ]
+tweens = [ SubResource( 127 ) ]
+
+[sub_resource type="FlashInstance" id=129]
+eid = 106
+color_effect = PoolColorArray( 0, 0, 0, 0, 0.980469, 0.890625, 0.71875, 1 )
+library_item_name = "symbols/Symbol 103"
+
+[sub_resource type="FlashTween" id=130]
+eid = 107
+
+[sub_resource type="FlashFrame" id=131]
+eid = 105
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 129 ) ]
+tweens = [ SubResource( 130 ) ]
+
+[sub_resource type="FlashInstance" id=132]
+eid = 109
+library_item_name = "symbols/Symbol 103"
+
+[sub_resource type="FlashFrame" id=133]
+eid = 108
+index = 9
+elements = [ SubResource( 132 ) ]
+
+[sub_resource type="FlashLayer" id=134]
+eid = 101
+duration = 10
+frames = [ SubResource( 128 ), SubResource( 131 ), SubResource( 133 ) ]
+
+[sub_resource type="FlashTimeline" id=135]
+eid = 100
+layers = [ SubResource( 134 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=136]
+eid = 113
+library_item_name = "bitmap/Bitmap 20"
+
+[sub_resource type="FlashFrame" id=137]
+eid = 112
+elements = [ SubResource( 136 ) ]
+
+[sub_resource type="FlashLayer" id=138]
+eid = 111
+duration = 1
+frames = [ SubResource( 137 ) ]
+
+[sub_resource type="FlashTimeline" id=139]
+eid = 110
+layers = [ SubResource( 138 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=140]
+eid = 117
+library_item_name = "symbols/Symbol 108"
+
+[sub_resource type="FlashTween" id=141]
+eid = 118
+
+[sub_resource type="FlashFrame" id=142]
+eid = 116
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 140 ) ]
+tweens = [ SubResource( 141 ) ]
+
+[sub_resource type="FlashInstance" id=143]
+eid = 120
+color_effect = PoolColorArray( 0.0338824, 0.180706, 0.220235, 0, 0.28, 0.28, 0.28, 1 )
+library_item_name = "symbols/Symbol 108"
+
+[sub_resource type="FlashTween" id=144]
+eid = 121
+
+[sub_resource type="FlashFrame" id=145]
+eid = 119
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 143 ) ]
+tweens = [ SubResource( 144 ) ]
+
+[sub_resource type="FlashInstance" id=146]
+eid = 123
+library_item_name = "symbols/Symbol 108"
+
+[sub_resource type="FlashFrame" id=147]
+eid = 122
+index = 9
+elements = [ SubResource( 146 ) ]
+
+[sub_resource type="FlashLayer" id=148]
+eid = 115
+duration = 10
+frames = [ SubResource( 142 ), SubResource( 145 ), SubResource( 147 ) ]
+
+[sub_resource type="FlashTimeline" id=149]
+eid = 114
+layers = [ SubResource( 148 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashInstance" id=150]
+eid = 127
+library_item_name = "symbols/Symbol 109"
+
+[sub_resource type="FlashTween" id=151]
+eid = 128
+
+[sub_resource type="FlashFrame" id=152]
+eid = 126
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 150 ) ]
+tweens = [ SubResource( 151 ) ]
+
+[sub_resource type="FlashInstance" id=153]
+eid = 130
+color_effect = PoolColorArray( 0.0338824, 0.180706, 0.220235, 0, 0.28, 0.28, 0.28, 1 )
+library_item_name = "symbols/Symbol 109"
+
+[sub_resource type="FlashTween" id=154]
+eid = 131
+
+[sub_resource type="FlashFrame" id=155]
+eid = 129
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 153 ) ]
+tweens = [ SubResource( 154 ) ]
+
+[sub_resource type="FlashInstance" id=156]
+eid = 133
+library_item_name = "symbols/Symbol 109"
+
+[sub_resource type="FlashFrame" id=157]
+eid = 132
+index = 9
+elements = [ SubResource( 156 ) ]
+
+[sub_resource type="FlashLayer" id=158]
+eid = 125
+duration = 10
+frames = [ SubResource( 152 ), SubResource( 155 ), SubResource( 157 ) ]
+
+[sub_resource type="FlashTimeline" id=159]
+eid = 124
+layers = [ SubResource( 158 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashInstance" id=160]
+eid = 137
+library_item_name = "symbols/Symbol 110"
+
+[sub_resource type="FlashTween" id=161]
+eid = 138
+
+[sub_resource type="FlashFrame" id=162]
+eid = 136
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 160 ) ]
+tweens = [ SubResource( 161 ) ]
+
+[sub_resource type="FlashInstance" id=163]
+eid = 140
+color_effect = PoolColorArray( 0.0338824, 0.180706, 0.220235, 0, 0.28, 0.28, 0.28, 1 )
+library_item_name = "symbols/Symbol 110"
+
+[sub_resource type="FlashTween" id=164]
+eid = 141
+
+[sub_resource type="FlashFrame" id=165]
+eid = 139
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 163 ) ]
+tweens = [ SubResource( 164 ) ]
+
+[sub_resource type="FlashInstance" id=166]
+eid = 143
+library_item_name = "symbols/Symbol 110"
+
+[sub_resource type="FlashFrame" id=167]
+eid = 142
+index = 9
+elements = [ SubResource( 166 ) ]
+
+[sub_resource type="FlashLayer" id=168]
+eid = 135
+duration = 10
+frames = [ SubResource( 162 ), SubResource( 165 ), SubResource( 167 ) ]
+
+[sub_resource type="FlashTimeline" id=169]
+eid = 134
+layers = [ SubResource( 168 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashInstance" id=170]
+eid = 147
+library_item_name = "symbols/Symbol 111"
+
+[sub_resource type="FlashTween" id=171]
+eid = 148
+
+[sub_resource type="FlashFrame" id=172]
+eid = 146
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 170 ) ]
+tweens = [ SubResource( 171 ) ]
+
+[sub_resource type="FlashInstance" id=173]
+eid = 150
+color_effect = PoolColorArray( 0.0338824, 0.180706, 0.220235, 0, 0.28, 0.28, 0.28, 1 )
+library_item_name = "symbols/Symbol 111"
+
+[sub_resource type="FlashTween" id=174]
+eid = 151
+
+[sub_resource type="FlashFrame" id=175]
+eid = 149
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 173 ) ]
+tweens = [ SubResource( 174 ) ]
+
+[sub_resource type="FlashInstance" id=176]
+eid = 153
+library_item_name = "symbols/Symbol 111"
+
+[sub_resource type="FlashFrame" id=177]
+eid = 152
+index = 9
+elements = [ SubResource( 176 ) ]
+
+[sub_resource type="FlashLayer" id=178]
+eid = 145
+duration = 10
+frames = [ SubResource( 172 ), SubResource( 175 ), SubResource( 177 ) ]
+
+[sub_resource type="FlashTimeline" id=179]
+eid = 144
+layers = [ SubResource( 178 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=180]
+eid = 157
+library_item_name = "bitmap/Bitmap 18"
+
+[sub_resource type="FlashFrame" id=181]
+eid = 156
+elements = [ SubResource( 180 ) ]
+
+[sub_resource type="FlashLayer" id=182]
+eid = 155
+duration = 1
+frames = [ SubResource( 181 ) ]
+
+[sub_resource type="FlashTimeline" id=183]
+eid = 154
+layers = [ SubResource( 182 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashBitmapInstance" id=184]
+eid = 161
+library_item_name = "bitmap/Bitmap 23"
+
+[sub_resource type="FlashFrame" id=185]
+eid = 160
+elements = [ SubResource( 184 ) ]
+
+[sub_resource type="FlashLayer" id=186]
+eid = 159
+duration = 1
+frames = [ SubResource( 185 ) ]
+
+[sub_resource type="FlashTimeline" id=187]
+eid = 158
+layers = [ SubResource( 186 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashBitmapInstance" id=188]
+eid = 165
+library_item_name = "bitmap/Bitmap 24"
+
+[sub_resource type="FlashFrame" id=189]
+eid = 164
+elements = [ SubResource( 188 ) ]
+
+[sub_resource type="FlashLayer" id=190]
+eid = 163
+duration = 1
+frames = [ SubResource( 189 ) ]
+
+[sub_resource type="FlashTimeline" id=191]
+eid = 162
+layers = [ SubResource( 190 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashBitmapInstance" id=192]
+eid = 169
+library_item_name = "bitmap/Bitmap 25"
+
+[sub_resource type="FlashFrame" id=193]
+eid = 168
+elements = [ SubResource( 192 ) ]
+
+[sub_resource type="FlashLayer" id=194]
+eid = 167
+duration = 1
+frames = [ SubResource( 193 ) ]
+
+[sub_resource type="FlashTimeline" id=195]
+eid = 166
+layers = [ SubResource( 194 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=196]
+eid = 173
+library_item_name = "symbols/Symbol 114"
+
+[sub_resource type="FlashInstance" id=197]
+eid = 174
+transform = Transform2D( 1, 0, 0, 1, 28.05, 0 )
+first_frame = 1
+library_item_name = "symbols/Symbol 114"
+
+[sub_resource type="FlashInstance" id=198]
+eid = 175
+transform = Transform2D( 1, 0, 0, 1, 56.15, 0 )
+first_frame = 2
+library_item_name = "symbols/Symbol 114"
+
+[sub_resource type="FlashInstance" id=199]
+eid = 176
+transform = Transform2D( 1, 0, 0, 1, 84.2, 0 )
+first_frame = 3
+library_item_name = "symbols/Symbol 114"
+
+[sub_resource type="FlashInstance" id=200]
+eid = 177
+transform = Transform2D( 1, 0, 0, 1, 111.8, 0 )
+first_frame = 4
+library_item_name = "symbols/Symbol 114"
+
+[sub_resource type="FlashInstance" id=201]
+eid = 178
+transform = Transform2D( 1, 0, 0, 1, 140.15, 0 )
+first_frame = 5
+library_item_name = "symbols/Symbol 114"
+
+[sub_resource type="FlashFrame" id=202]
+eid = 172
+duration = 10
+elements = [ SubResource( 196 ), SubResource( 197 ), SubResource( 198 ), SubResource( 199 ), SubResource( 200 ), SubResource( 201 ) ]
+
+[sub_resource type="FlashLayer" id=203]
+eid = 171
+duration = 10
+frames = [ SubResource( 202 ) ]
+
+[sub_resource type="FlashBitmapInstance" id=204]
+eid = 182
+transform = Transform2D( 1, 0, 0, 1, 110, -2 )
+library_item_name = "bitmap/Bitmap 8"
+
+[sub_resource type="FlashGroup" id=205]
+eid = 181
+members = [ SubResource( 204 ) ]
+
+[sub_resource type="FlashBitmapInstance" id=206]
+eid = 184
+transform = Transform2D( 1, 0, 0, 1, 138, -2 )
+library_item_name = "bitmap/Bitmap 9"
+
+[sub_resource type="FlashGroup" id=207]
+eid = 183
+members = [ SubResource( 206 ) ]
+
+[sub_resource type="FlashBitmapInstance" id=208]
+eid = 185
+transform = Transform2D( 1, 0, 0, 1, -2, 0 )
+library_item_name = "bitmap/Bitmap 4"
+
+[sub_resource type="FlashBitmapInstance" id=209]
+eid = 186
+transform = Transform2D( 1, 0, 0, 1, 26, -2 )
+library_item_name = "bitmap/Bitmap 5"
+
+[sub_resource type="FlashBitmapInstance" id=210]
+eid = 187
+transform = Transform2D( 1, 0, 0, 1, 54, -2 )
+library_item_name = "bitmap/Bitmap 6"
+
+[sub_resource type="FlashBitmapInstance" id=211]
+eid = 188
+transform = Transform2D( 1, 0, 0, 1, 82, -2 )
+library_item_name = "bitmap/Bitmap 7"
+
+[sub_resource type="FlashFrame" id=212]
+eid = 180
+duration = 10
+elements = [ SubResource( 205 ), SubResource( 207 ), SubResource( 208 ), SubResource( 209 ), SubResource( 210 ), SubResource( 211 ) ]
+
+[sub_resource type="FlashLayer" id=213]
+eid = 179
+duration = 10
+frames = [ SubResource( 212 ) ]
+
+[sub_resource type="FlashTimeline" id=214]
+eid = 170
+layers = [ SubResource( 203 ), SubResource( 213 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=215]
+eid = 192
+transform = Transform2D( 1, 0, 0, 1, -2, -2 )
+library_item_name = "bitmap/Bitmap 3"
+
+[sub_resource type="FlashFrame" id=216]
+eid = 191
+elements = [ SubResource( 215 ) ]
+
+[sub_resource type="FlashLayer" id=217]
+eid = 190
+duration = 1
+frames = [ SubResource( 216 ) ]
+
+[sub_resource type="FlashTimeline" id=218]
+eid = 189
+layers = [ SubResource( 217 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=219]
+eid = 196
+library_item_name = "symbols/Symbol 113"
+
+[sub_resource type="FlashTween" id=220]
+eid = 197
+
+[sub_resource type="FlashFrame" id=221]
+eid = 195
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 219 ) ]
+tweens = [ SubResource( 220 ) ]
+
+[sub_resource type="FlashInstance" id=222]
+eid = 199
+color_effect = PoolColorArray( 0.627451, 0.529412, 0.0470588, 0, 0, 0, 0, 1 )
+library_item_name = "symbols/Symbol 113"
+
+[sub_resource type="FlashTween" id=223]
+eid = 200
+
+[sub_resource type="FlashFrame" id=224]
+eid = 198
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 222 ) ]
+tweens = [ SubResource( 223 ) ]
+
+[sub_resource type="FlashInstance" id=225]
+eid = 202
+library_item_name = "symbols/Symbol 113"
+
+[sub_resource type="FlashFrame" id=226]
+eid = 201
+index = 9
+elements = [ SubResource( 225 ) ]
+
+[sub_resource type="FlashLayer" id=227]
+eid = 194
+duration = 10
+frames = [ SubResource( 221 ), SubResource( 224 ), SubResource( 226 ) ]
+
+[sub_resource type="FlashTimeline" id=228]
+eid = 193
+layers = [ SubResource( 227 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=229]
+eid = 206
+library_item_name = "bitmap/Bitmap 1"
+
+[sub_resource type="FlashFrame" id=230]
+eid = 205
+elements = [ SubResource( 229 ) ]
+
+[sub_resource type="FlashLayer" id=231]
+eid = 204
+duration = 1
+frames = [ SubResource( 230 ) ]
+
+[sub_resource type="FlashTimeline" id=232]
+eid = 203
+layers = [ SubResource( 231 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=233]
+eid = 210
+library_item_name = "symbols/Symbol 118"
+
+[sub_resource type="FlashTween" id=234]
+eid = 211
+
+[sub_resource type="FlashFrame" id=235]
+eid = 209
+duration = 3
+tween_type = "motion"
+elements = [ SubResource( 233 ) ]
+tweens = [ SubResource( 234 ) ]
+
+[sub_resource type="FlashInstance" id=236]
+eid = 213
+transform = Transform2D( 0.866028, 0.499985, -0.499985, 0.866028, 19.15, -11.05 )
+library_item_name = "symbols/Symbol 118"
+
+[sub_resource type="FlashTween" id=237]
+eid = 214
+
+[sub_resource type="FlashFrame" id=238]
+eid = 212
+index = 3
+duration = 3
+tween_type = "motion"
+elements = [ SubResource( 236 ) ]
+tweens = [ SubResource( 237 ) ]
+
+[sub_resource type="FlashInstance" id=239]
+eid = 216
+transform = Transform2D( 0.707092, 0.707077, -0.707077, 0.707092, 30.2, -12.5 )
+library_item_name = "symbols/Symbol 118"
+
+[sub_resource type="FlashTween" id=240]
+eid = 217
+
+[sub_resource type="FlashFrame" id=241]
+eid = 215
+index = 6
+duration = 3
+tween_type = "motion"
+elements = [ SubResource( 239 ) ]
+tweens = [ SubResource( 240 ) ]
+
+[sub_resource type="FlashInstance" id=242]
+eid = 219
+library_item_name = "symbols/Symbol 118"
+
+[sub_resource type="FlashFrame" id=243]
+eid = 218
+index = 9
+elements = [ SubResource( 242 ) ]
+
+[sub_resource type="FlashLayer" id=244]
+eid = 208
+duration = 10
+frames = [ SubResource( 235 ), SubResource( 238 ), SubResource( 241 ), SubResource( 243 ) ]
+
+[sub_resource type="FlashTimeline" id=245]
+eid = 207
+layers = [ SubResource( 244 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashInstance" id=246]
+eid = 223
+library_item_name = "symbols/Symbol 115"
+
+[sub_resource type="FlashTween" id=247]
+eid = 224
+
+[sub_resource type="FlashFrame" id=248]
+eid = 222
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 246 ) ]
+tweens = [ SubResource( 247 ) ]
+
+[sub_resource type="FlashInstance" id=249]
+eid = 226
+transform = Transform2D( 0.866028, -0.499985, 0.499985, 0.866028, -11, 19.15 )
+library_item_name = "symbols/Symbol 115"
+
+[sub_resource type="FlashTween" id=250]
+eid = 227
+
+[sub_resource type="FlashFrame" id=251]
+eid = 225
+index = 5
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 249 ) ]
+tweens = [ SubResource( 250 ) ]
+
+[sub_resource type="FlashInstance" id=252]
+eid = 229
+library_item_name = "symbols/Symbol 115"
+
+[sub_resource type="FlashFrame" id=253]
+eid = 228
+index = 9
+elements = [ SubResource( 252 ) ]
+
+[sub_resource type="FlashLayer" id=254]
+eid = 221
+duration = 10
+frames = [ SubResource( 248 ), SubResource( 251 ), SubResource( 253 ) ]
+
+[sub_resource type="FlashTimeline" id=255]
+eid = 220
+layers = [ SubResource( 254 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=256]
+eid = 233
+library_item_name = "bitmap/Bitmap 2"
+
+[sub_resource type="FlashFrame" id=257]
+eid = 232
+elements = [ SubResource( 256 ) ]
+
+[sub_resource type="FlashLayer" id=258]
+eid = 231
+duration = 1
+frames = [ SubResource( 257 ) ]
+
+[sub_resource type="FlashTimeline" id=259]
+eid = 230
+layers = [ SubResource( 258 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=260]
+eid = 237
+library_item_name = "symbols/Symbol 120"
+
+[sub_resource type="FlashInstance" id=261]
+eid = 238
+transform = Transform2D( 1, 0, 0, 1, 0, 23.75 )
+first_frame = 4
+library_item_name = "symbols/Symbol 122"
+
+[sub_resource type="FlashInstance" id=262]
+eid = 239
+transform = Transform2D( 1, 0, 0, 1, 38.6, 0 )
+first_frame = 1
+library_item_name = "symbols/Symbol 124"
+
+[sub_resource type="FlashInstance" id=263]
+eid = 240
+transform = Transform2D( 1, 0, 0, 1, 38.6, 23.75 )
+first_frame = 5
+library_item_name = "symbols/Symbol 126"
+
+[sub_resource type="FlashInstance" id=264]
+eid = 241
+transform = Transform2D( 1, 0, 0, 1, 77.25, 0 )
+first_frame = 2
+library_item_name = "symbols/Symbol 128"
+
+[sub_resource type="FlashInstance" id=265]
+eid = 242
+transform = Transform2D( 1, 0, 0, 1, 77.25, 23.75 )
+first_frame = 6
+library_item_name = "symbols/Symbol 130"
+
+[sub_resource type="FlashInstance" id=266]
+eid = 243
+transform = Transform2D( 1, 0, 0, 1, 115.85, 0 )
+first_frame = 3
+library_item_name = "symbols/Symbol 132"
+
+[sub_resource type="FlashInstance" id=267]
+eid = 244
+transform = Transform2D( 1, 0, 0, 1, 115.85, 23.75 )
+first_frame = 7
+library_item_name = "symbols/Symbol 134"
+
+[sub_resource type="FlashFrame" id=268]
+eid = 236
+duration = 10
+elements = [ SubResource( 260 ), SubResource( 261 ), SubResource( 262 ), SubResource( 263 ), SubResource( 264 ), SubResource( 265 ), SubResource( 266 ), SubResource( 267 ) ]
+
+[sub_resource type="FlashLayer" id=269]
+eid = 235
+duration = 10
+frames = [ SubResource( 268 ) ]
+
+[sub_resource type="FlashTimeline" id=270]
+eid = 234
+layers = [ SubResource( 269 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashInstance" id=271]
+eid = 248
+library_item_name = "symbols/Symbol 121"
+
+[sub_resource type="FlashTween" id=272]
+eid = 249
+
+[sub_resource type="FlashFrame" id=273]
+eid = 247
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 271 ) ]
+tweens = [ SubResource( 272 ) ]
+
+[sub_resource type="FlashInstance" id=274]
+eid = 251
+color_effect = PoolColorArray( 0, 0, 0, 0, 0.64, 0.64, 0.64, 1 )
+library_item_name = "symbols/Symbol 121"
+
+[sub_resource type="FlashTween" id=275]
+eid = 252
+
+[sub_resource type="FlashFrame" id=276]
+eid = 250
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 274 ) ]
+tweens = [ SubResource( 275 ) ]
+
+[sub_resource type="FlashInstance" id=277]
+eid = 254
+library_item_name = "symbols/Symbol 121"
+
+[sub_resource type="FlashFrame" id=278]
+eid = 253
+index = 9
+elements = [ SubResource( 277 ) ]
+
+[sub_resource type="FlashLayer" id=279]
+eid = 246
+duration = 10
+frames = [ SubResource( 273 ), SubResource( 276 ), SubResource( 278 ) ]
+
+[sub_resource type="FlashTimeline" id=280]
+eid = 245
+layers = [ SubResource( 279 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=281]
+eid = 258
+library_item_name = "bitmap/Bitmap 10"
+
+[sub_resource type="FlashFrame" id=282]
+eid = 257
+elements = [ SubResource( 281 ) ]
+
+[sub_resource type="FlashLayer" id=283]
+eid = 256
+duration = 1
+frames = [ SubResource( 282 ) ]
+
+[sub_resource type="FlashTimeline" id=284]
+eid = 255
+layers = [ SubResource( 283 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=285]
+eid = 262
+library_item_name = "symbols/Symbol 123"
+
+[sub_resource type="FlashTween" id=286]
+eid = 263
+
+[sub_resource type="FlashFrame" id=287]
+eid = 261
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 285 ) ]
+tweens = [ SubResource( 286 ) ]
+
+[sub_resource type="FlashInstance" id=288]
+eid = 265
+color_effect = PoolColorArray( 0, 0, 0, 0, 0.64, 0.64, 0.64, 1 )
+library_item_name = "symbols/Symbol 123"
+
+[sub_resource type="FlashTween" id=289]
+eid = 266
+
+[sub_resource type="FlashFrame" id=290]
+eid = 264
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 288 ) ]
+tweens = [ SubResource( 289 ) ]
+
+[sub_resource type="FlashInstance" id=291]
+eid = 268
+library_item_name = "symbols/Symbol 123"
+
+[sub_resource type="FlashFrame" id=292]
+eid = 267
+index = 9
+elements = [ SubResource( 291 ) ]
+
+[sub_resource type="FlashLayer" id=293]
+eid = 260
+duration = 10
+frames = [ SubResource( 287 ), SubResource( 290 ), SubResource( 292 ) ]
+
+[sub_resource type="FlashTimeline" id=294]
+eid = 259
+layers = [ SubResource( 293 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=295]
+eid = 272
+library_item_name = "bitmap/Bitmap 11"
+
+[sub_resource type="FlashFrame" id=296]
+eid = 271
+elements = [ SubResource( 295 ) ]
+
+[sub_resource type="FlashLayer" id=297]
+eid = 270
+duration = 1
+frames = [ SubResource( 296 ) ]
+
+[sub_resource type="FlashTimeline" id=298]
+eid = 269
+layers = [ SubResource( 297 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=299]
+eid = 276
+library_item_name = "symbols/Symbol 125"
+
+[sub_resource type="FlashTween" id=300]
+eid = 277
+
+[sub_resource type="FlashFrame" id=301]
+eid = 275
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 299 ) ]
+tweens = [ SubResource( 300 ) ]
+
+[sub_resource type="FlashInstance" id=302]
+eid = 279
+color_effect = PoolColorArray( 0, 0, 0, 0, 0.64, 0.64, 0.64, 1 )
+library_item_name = "symbols/Symbol 125"
+
+[sub_resource type="FlashTween" id=303]
+eid = 280
+
+[sub_resource type="FlashFrame" id=304]
+eid = 278
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 302 ) ]
+tweens = [ SubResource( 303 ) ]
+
+[sub_resource type="FlashInstance" id=305]
+eid = 282
+library_item_name = "symbols/Symbol 125"
+
+[sub_resource type="FlashFrame" id=306]
+eid = 281
+index = 9
+elements = [ SubResource( 305 ) ]
+
+[sub_resource type="FlashLayer" id=307]
+eid = 274
+duration = 10
+frames = [ SubResource( 301 ), SubResource( 304 ), SubResource( 306 ) ]
+
+[sub_resource type="FlashTimeline" id=308]
+eid = 273
+layers = [ SubResource( 307 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=309]
+eid = 286
+library_item_name = "bitmap/Bitmap 12"
+
+[sub_resource type="FlashFrame" id=310]
+eid = 285
+elements = [ SubResource( 309 ) ]
+
+[sub_resource type="FlashLayer" id=311]
+eid = 284
+duration = 1
+frames = [ SubResource( 310 ) ]
+
+[sub_resource type="FlashTimeline" id=312]
+eid = 283
+layers = [ SubResource( 311 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=313]
+eid = 290
+library_item_name = "symbols/Symbol 127"
+
+[sub_resource type="FlashTween" id=314]
+eid = 291
+
+[sub_resource type="FlashFrame" id=315]
+eid = 289
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 313 ) ]
+tweens = [ SubResource( 314 ) ]
+
+[sub_resource type="FlashInstance" id=316]
+eid = 293
+color_effect = PoolColorArray( 0, 0, 0, 0, 0.64, 0.64, 0.64, 1 )
+library_item_name = "symbols/Symbol 127"
+
+[sub_resource type="FlashTween" id=317]
+eid = 294
+
+[sub_resource type="FlashFrame" id=318]
+eid = 292
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 316 ) ]
+tweens = [ SubResource( 317 ) ]
+
+[sub_resource type="FlashInstance" id=319]
+eid = 296
+library_item_name = "symbols/Symbol 127"
+
+[sub_resource type="FlashFrame" id=320]
+eid = 295
+index = 9
+elements = [ SubResource( 319 ) ]
+
+[sub_resource type="FlashLayer" id=321]
+eid = 288
+duration = 10
+frames = [ SubResource( 315 ), SubResource( 318 ), SubResource( 320 ) ]
+
+[sub_resource type="FlashTimeline" id=322]
+eid = 287
+layers = [ SubResource( 321 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=323]
+eid = 300
+library_item_name = "bitmap/Bitmap 13"
+
+[sub_resource type="FlashFrame" id=324]
+eid = 299
+elements = [ SubResource( 323 ) ]
+
+[sub_resource type="FlashLayer" id=325]
+eid = 298
+duration = 1
+frames = [ SubResource( 324 ) ]
+
+[sub_resource type="FlashTimeline" id=326]
+eid = 297
+layers = [ SubResource( 325 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=327]
+eid = 304
+library_item_name = "symbols/Symbol 129"
+
+[sub_resource type="FlashTween" id=328]
+eid = 305
+
+[sub_resource type="FlashFrame" id=329]
+eid = 303
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 327 ) ]
+tweens = [ SubResource( 328 ) ]
+
+[sub_resource type="FlashInstance" id=330]
+eid = 307
+color_effect = PoolColorArray( 0, 0, 0, 0, 0.64, 0.64, 0.64, 1 )
+library_item_name = "symbols/Symbol 129"
+
+[sub_resource type="FlashTween" id=331]
+eid = 308
+
+[sub_resource type="FlashFrame" id=332]
+eid = 306
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 330 ) ]
+tweens = [ SubResource( 331 ) ]
+
+[sub_resource type="FlashInstance" id=333]
+eid = 310
+library_item_name = "symbols/Symbol 129"
+
+[sub_resource type="FlashFrame" id=334]
+eid = 309
+index = 9
+elements = [ SubResource( 333 ) ]
+
+[sub_resource type="FlashLayer" id=335]
+eid = 302
+duration = 10
+frames = [ SubResource( 329 ), SubResource( 332 ), SubResource( 334 ) ]
+
+[sub_resource type="FlashTimeline" id=336]
+eid = 301
+layers = [ SubResource( 335 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=337]
+eid = 314
+library_item_name = "bitmap/Bitmap 14"
+
+[sub_resource type="FlashFrame" id=338]
+eid = 313
+elements = [ SubResource( 337 ) ]
+
+[sub_resource type="FlashLayer" id=339]
+eid = 312
+duration = 1
+frames = [ SubResource( 338 ) ]
+
+[sub_resource type="FlashTimeline" id=340]
+eid = 311
+layers = [ SubResource( 339 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=341]
+eid = 318
+library_item_name = "symbols/Symbol 131"
+
+[sub_resource type="FlashTween" id=342]
+eid = 319
+
+[sub_resource type="FlashFrame" id=343]
+eid = 317
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 341 ) ]
+tweens = [ SubResource( 342 ) ]
+
+[sub_resource type="FlashInstance" id=344]
+eid = 321
+color_effect = PoolColorArray( 0, 0, 0, 0, 0.64, 0.64, 0.64, 1 )
+library_item_name = "symbols/Symbol 131"
+
+[sub_resource type="FlashTween" id=345]
+eid = 322
+
+[sub_resource type="FlashFrame" id=346]
+eid = 320
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 344 ) ]
+tweens = [ SubResource( 345 ) ]
+
+[sub_resource type="FlashInstance" id=347]
+eid = 324
+library_item_name = "symbols/Symbol 131"
+
+[sub_resource type="FlashFrame" id=348]
+eid = 323
+index = 9
+elements = [ SubResource( 347 ) ]
+
+[sub_resource type="FlashLayer" id=349]
+eid = 316
+duration = 10
+frames = [ SubResource( 343 ), SubResource( 346 ), SubResource( 348 ) ]
+
+[sub_resource type="FlashTimeline" id=350]
+eid = 315
+layers = [ SubResource( 349 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=351]
+eid = 328
+library_item_name = "bitmap/Bitmap 15"
+
+[sub_resource type="FlashFrame" id=352]
+eid = 327
+elements = [ SubResource( 351 ) ]
+
+[sub_resource type="FlashLayer" id=353]
+eid = 326
+duration = 1
+frames = [ SubResource( 352 ) ]
+
+[sub_resource type="FlashTimeline" id=354]
+eid = 325
+layers = [ SubResource( 353 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=355]
+eid = 332
+library_item_name = "symbols/Symbol 133"
+
+[sub_resource type="FlashTween" id=356]
+eid = 333
+
+[sub_resource type="FlashFrame" id=357]
+eid = 331
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 355 ) ]
+tweens = [ SubResource( 356 ) ]
+
+[sub_resource type="FlashInstance" id=358]
+eid = 335
+color_effect = PoolColorArray( 0, 0, 0, 0, 0.64, 0.64, 0.64, 1 )
+library_item_name = "symbols/Symbol 133"
+
+[sub_resource type="FlashTween" id=359]
+eid = 336
+
+[sub_resource type="FlashFrame" id=360]
+eid = 334
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 358 ) ]
+tweens = [ SubResource( 359 ) ]
+
+[sub_resource type="FlashInstance" id=361]
+eid = 338
+library_item_name = "symbols/Symbol 133"
+
+[sub_resource type="FlashFrame" id=362]
+eid = 337
+index = 9
+elements = [ SubResource( 361 ) ]
+
+[sub_resource type="FlashLayer" id=363]
+eid = 330
+duration = 10
+frames = [ SubResource( 357 ), SubResource( 360 ), SubResource( 362 ) ]
+
+[sub_resource type="FlashTimeline" id=364]
+eid = 329
+layers = [ SubResource( 363 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=365]
+eid = 342
+library_item_name = "bitmap/Bitmap 16"
+
+[sub_resource type="FlashFrame" id=366]
+eid = 341
+elements = [ SubResource( 365 ) ]
+
+[sub_resource type="FlashLayer" id=367]
+eid = 340
+duration = 1
+frames = [ SubResource( 366 ) ]
+
+[sub_resource type="FlashTimeline" id=368]
+eid = 339
+layers = [ SubResource( 367 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashInstance" id=369]
+eid = 346
+library_item_name = "symbols/Symbol 135"
+
+[sub_resource type="FlashTween" id=370]
+eid = 347
+
+[sub_resource type="FlashFrame" id=371]
+eid = 345
+duration = 4
+tween_type = "motion"
+elements = [ SubResource( 369 ) ]
+tweens = [ SubResource( 370 ) ]
+
+[sub_resource type="FlashInstance" id=372]
+eid = 349
+color_effect = PoolColorArray( 0, 0, 0, 0, 0.64, 0.64, 0.64, 1 )
+library_item_name = "symbols/Symbol 135"
+
+[sub_resource type="FlashTween" id=373]
+eid = 350
+
+[sub_resource type="FlashFrame" id=374]
+eid = 348
+index = 4
+duration = 5
+tween_type = "motion"
+elements = [ SubResource( 372 ) ]
+tweens = [ SubResource( 373 ) ]
+
+[sub_resource type="FlashInstance" id=375]
+eid = 352
+library_item_name = "symbols/Symbol 135"
+
+[sub_resource type="FlashFrame" id=376]
+eid = 351
+index = 9
+elements = [ SubResource( 375 ) ]
+
+[sub_resource type="FlashLayer" id=377]
+eid = 344
+duration = 10
+frames = [ SubResource( 371 ), SubResource( 374 ), SubResource( 376 ) ]
+
+[sub_resource type="FlashTimeline" id=378]
+eid = 343
+layers = [ SubResource( 377 ) ]
+labels = {
+
+}
+duration = 10
+
+[sub_resource type="FlashBitmapInstance" id=379]
+eid = 356
+library_item_name = "bitmap/Bitmap 17"
+
+[sub_resource type="FlashFrame" id=380]
+eid = 355
+elements = [ SubResource( 379 ) ]
+
+[sub_resource type="FlashLayer" id=381]
+eid = 354
+duration = 1
+frames = [ SubResource( 380 ) ]
+
+[sub_resource type="FlashTimeline" id=382]
+eid = 353
+layers = [ SubResource( 381 ) ]
+labels = {
+
+}
+duration = 1
+
+[sub_resource type="FlashFrame" id=383]
+eid = 359
+
+[sub_resource type="FlashLayer" id=384]
+eid = 358
+duration = 1
+frames = [ SubResource( 383 ) ]
+
+[sub_resource type="FlashTimeline" id=385]
+eid = 357
+layers = [ SubResource( 384 ) ]
+labels = {
+
+}
+duration = 1
+
+[resource]
+eid = 52
+symbols = {
+"p1": SubResource( 57 ),
+"p2": SubResource( 83 ),
+"symbols/Symbol 100": SubResource( 121 ),
+"symbols/Symbol 101": SubResource( 125 ),
+"symbols/Symbol 102": SubResource( 135 ),
+"symbols/Symbol 103": SubResource( 139 ),
+"symbols/Symbol 104": SubResource( 149 ),
+"symbols/Symbol 105": SubResource( 159 ),
+"symbols/Symbol 106": SubResource( 169 ),
+"symbols/Symbol 107": SubResource( 179 ),
+"symbols/Symbol 108": SubResource( 183 ),
+"symbols/Symbol 109": SubResource( 187 ),
+"symbols/Symbol 110": SubResource( 191 ),
+"symbols/Symbol 111": SubResource( 195 ),
+"symbols/Symbol 112": SubResource( 214 ),
+"symbols/Symbol 113": SubResource( 218 ),
+"symbols/Symbol 114": SubResource( 228 ),
+"symbols/Symbol 115": SubResource( 232 ),
+"symbols/Symbol 116": SubResource( 245 ),
+"symbols/Symbol 117": SubResource( 255 ),
+"symbols/Symbol 118": SubResource( 259 ),
+"symbols/Symbol 119": SubResource( 270 ),
+"symbols/Symbol 120": SubResource( 280 ),
+"symbols/Symbol 121": SubResource( 284 ),
+"symbols/Symbol 122": SubResource( 294 ),
+"symbols/Symbol 123": SubResource( 298 ),
+"symbols/Symbol 124": SubResource( 308 ),
+"symbols/Symbol 125": SubResource( 312 ),
+"symbols/Symbol 126": SubResource( 322 ),
+"symbols/Symbol 127": SubResource( 326 ),
+"symbols/Symbol 128": SubResource( 336 ),
+"symbols/Symbol 129": SubResource( 340 ),
+"symbols/Symbol 130": SubResource( 350 ),
+"symbols/Symbol 131": SubResource( 354 ),
+"symbols/Symbol 132": SubResource( 364 ),
+"symbols/Symbol 133": SubResource( 368 ),
+"symbols/Symbol 134": SubResource( 378 ),
+"symbols/Symbol 135": SubResource( 382 ),
+"symbols/Symbol 93": SubResource( 93 ),
+"symbols/Symbol 95": SubResource( 103 ),
+"symbols/Symbol 97": SubResource( 113 ),
+"symbols/Symbol 98": SubResource( 117 )
+}
+bitmaps = {
+"bitmap/Bitmap 1": SubResource( 2 ),
+"bitmap/Bitmap 10": SubResource( 4 ),
+"bitmap/Bitmap 11": SubResource( 6 ),
+"bitmap/Bitmap 12": SubResource( 8 ),
+"bitmap/Bitmap 13": SubResource( 10 ),
+"bitmap/Bitmap 14": SubResource( 12 ),
+"bitmap/Bitmap 15": SubResource( 14 ),
+"bitmap/Bitmap 16": SubResource( 16 ),
+"bitmap/Bitmap 17": SubResource( 18 ),
+"bitmap/Bitmap 18": SubResource( 20 ),
+"bitmap/Bitmap 19": SubResource( 22 ),
+"bitmap/Bitmap 2": SubResource( 24 ),
+"bitmap/Bitmap 20": SubResource( 26 ),
+"bitmap/Bitmap 21": SubResource( 28 ),
+"bitmap/Bitmap 22": SubResource( 30 ),
+"bitmap/Bitmap 23": SubResource( 32 ),
+"bitmap/Bitmap 24": SubResource( 34 ),
+"bitmap/Bitmap 25": SubResource( 36 ),
+"bitmap/Bitmap 3": SubResource( 38 ),
+"bitmap/Bitmap 4": SubResource( 40 ),
+"bitmap/Bitmap 5": SubResource( 42 ),
+"bitmap/Bitmap 6": SubResource( 44 ),
+"bitmap/Bitmap 7": SubResource( 46 ),
+"bitmap/Bitmap 8": SubResource( 48 ),
+"bitmap/Bitmap 9": SubResource( 50 )
+}
+timelines = [ SubResource( 385 ) ]

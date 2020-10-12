@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/Symbol 16 copy 2_r4 2" itemID="5eddeb3a-00000f17" symbolType="graphic" lastModified="1591601988" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Symbol 16 copy 2_r4 2" currentFrame="112" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_5" color="#009999" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="72" duration="41" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="113" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/rockets" symbolType="graphic" firstFrame="9" centerPoint3DX="1354.4" centerPoint3DY="289.85" loop="single frame">
+                  <matrix>
+                    <Matrix tx="1055.9" ty="-8.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="298.5" y="380.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

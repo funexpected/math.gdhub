@@ -1,0 +1,142 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="symbol/Symbol 21" itemID="5f1c7c72-0000026b" symbolType="graphic" lastModified="1598614015">
+  <timeline>
+    <DOMTimeline name="Symbol 21" currentFrame="1" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="50" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" outline="true" useOutlineView="true" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 7-1-1-1-1.png">
+                  <matrix>
+                    <Matrix ty="14"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 7-1-1-1-1.png">
+                  <matrix>
+                    <Matrix tx="21" ty="6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/Bitmap 7-1-1-1-1.png">
+                  <matrix>
+                    <Matrix a="0.988388061523438" b="0.151947021484375" c="-0.151947021484375" d="0.988388061523438" tx="43.55" ty="1.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/Bitmap 7-1-1-1-1.png">
+                  <matrix>
+                    <Matrix a="0.988388061523438" b="0.151947021484375" c="-0.151947021484375" d="0.988388061523438" tx="65.55" ty="-0.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 7-1-1-1-1.png">
+                  <matrix>
+                    <Matrix a="0.99920654296875" b="0.0392608642578125" c="-0.0392608642578125" d="0.99920654296875" tx="87.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/Bitmap 7-1-1-1-1.png">
+                  <matrix>
+                    <Matrix a="0.99920654296875" b="0.0392608642578125" c="-0.0392608642578125" d="0.99920654296875" tx="109.65" ty="1.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/Bitmap 7-1-1-1-1.png">
+                  <matrix>
+                    <Matrix a="0.99920654296875" b="0.0392608642578125" c="-0.0392608642578125" d="0.99920654296875" tx="131.6" ty="5.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 7-1-1-1-1.png">
+                  <matrix>
+                    <Matrix a="0.979095458984375" b="0.203277587890625" c="-0.203277587890625" d="0.979095458984375" tx="153.4" ty="13.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" outline="true" current="true" isSelected="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="50" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 8-1-1-1.png">
+                  <matrix>
+                    <Matrix ty="14"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 9-1-1-1.png">
+                  <matrix>
+                    <Matrix tx="21" ty="6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 10-1.png">
+                  <matrix>
+                    <Matrix tx="43" ty="2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 11-1-1.png">
+                  <matrix>
+                    <Matrix tx="65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 12.png">
+                  <matrix>
+                    <Matrix tx="88"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 13.png">
+                  <matrix>
+                    <Matrix tx="110" ty="2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 14-1-1.png">
+                  <matrix>
+                    <Matrix tx="132" ty="6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="png/Bitmap 15-1-1.png">
+                  <matrix>
+                    <Matrix tx="153" ty="14"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

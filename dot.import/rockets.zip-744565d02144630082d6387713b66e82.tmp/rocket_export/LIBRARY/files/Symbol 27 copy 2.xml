@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/Symbol 27 copy 2" itemID="5eba80dc-00001f27" symbolType="graphic" lastModified="1591259663" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 27 copy 2" currentFrame="22" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 22" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="16.7" ty="-48.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.25" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

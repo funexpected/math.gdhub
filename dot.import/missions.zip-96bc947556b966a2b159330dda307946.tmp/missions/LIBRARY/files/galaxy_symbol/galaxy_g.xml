@@ -1,0 +1,95 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/galaxy_symbol/galaxy_g" itemID="5f50e09e-00000b88" lastModified="1599141709">
+  <timeline>
+    <DOMTimeline name="galaxy_g" currentFrame="421" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="445" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="24" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 3" symbolType="graphic" firstFrame="395" centerPoint3DX="690.9" centerPoint3DY="690.5" loop="play once">
+                  <matrix>
+                    <Matrix a="0.689971923828125" d="0.689971923828125" tx="214.15" ty="214"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.6" y="690.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="420" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 3" selected="true" symbolType="graphic" centerPoint3DX="690.6" centerPoint3DY="690.55" loop="play once">
+                  <matrix>
+                    <Matrix a="0.52960205078125" b="-0.848190307617188" c="0.848190307617188" d="0.52960205078125" tx="-260.8" ty="910.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.5" y="690.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="444" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 3" symbolType="graphic" firstFrame="419" centerPoint3DX="690.5" centerPoint3DY="690.5" loop="play once">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="1381"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.5" y="690.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="10" tweenType="motion" motionTweenRotate="none" motionTweenSnap="true" keyMode="20993">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 3 copy" symbolType="graphic" firstFrame="410" centerPoint3DX="690.55" centerPoint3DY="690.55" loop="play once">
+                  <matrix>
+                    <Matrix a="0.956390380859375" b="0.292037963867188" c="-0.292037963867188" d="0.956390380859375" tx="231.8" ty="-171.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.5" y="690.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05859375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="421" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 3 copy" symbolType="graphic" centerPoint3DX="690.55" centerPoint3DY="690.55" loop="play once">
+                  <matrix>
+                    <Matrix a="0.956390380859375" b="0.292037963867188" c="-0.292037963867188" d="0.956390380859375" tx="231.8" ty="-171.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="690.5" y="690.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

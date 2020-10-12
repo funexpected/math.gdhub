@@ -1,0 +1,114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/Symbol 4 copy" itemID="5ed7baca-0000041c" symbolType="graphic" lastModified="1591259663" lastUniqueIdentifier="18">
+  <timeline>
+    <DOMTimeline name="Symbol 4 copy" currentFrame="7" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1_copy" color="#003366" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 18">
+                  <matrix>
+                    <Matrix tx="30"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 19">
+                  <matrix>
+                    <Matrix tx="-19" ty="-18"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 20">
+                  <matrix>
+                    <Matrix tx="-55" ty="-52"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 21">
+                  <matrix>
+                    <Matrix tx="-70" ty="-58"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 22">
+                  <matrix>
+                    <Matrix tx="-72" ty="-57"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 23">
+                  <matrix>
+                    <Matrix tx="-86" ty="-63"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 24">
+                  <matrix>
+                    <Matrix tx="-92" ty="-49"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 25">
+                  <matrix>
+                    <Matrix tx="-84" ty="-51"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 26">
+                  <matrix>
+                    <Matrix tx="-88" ty="-30"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 27">
+                  <matrix>
+                    <Matrix tx="-85" ty="45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 28">
+                  <matrix>
+                    <Matrix tx="-85" ty="52"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

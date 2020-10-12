@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 14 copy 3" itemID="5a843990-00001ffd" lastModified="1518614928" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 14 copy 3" currentFrame="24">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol 15" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="12" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.5394"/>
+                  <Point x="0.45" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.25" ty="13.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.35" y="45.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="12" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.4726"/>
+                  <Point x="0.4618" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20" selected="true" symbolType="graphic" firstFrame="4" centerPoint3DX="30.75" centerPoint3DY="35.9" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.25" ty="6.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.35" y="45.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20" symbolType="graphic" firstFrame="3" centerPoint3DX="30.75" centerPoint3DY="42.3" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.25" ty="13.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.35" y="45.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol 16" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

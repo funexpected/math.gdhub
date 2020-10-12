@@ -1,0 +1,130 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/Symbol 16 copy 2_r4_red" itemID="5ede12e9-00003415" symbolType="graphic" lastModified="1591612168" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Symbol 16 copy 2_r4_red" currentFrame="41" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_5" color="#009999" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="72" duration="41" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="113" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/rockets" symbolType="graphic" firstFrame="11" centerPoint3DX="1354.4" centerPoint3DY="289.85" loop="single frame">
+                  <matrix>
+                    <Matrix tx="1055.9" ty="-8.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="298.5" y="380.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_6" color="#FF0000" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="113" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="заяц" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="8" name="ничего" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/dddd666" symbolType="graphic" centerPoint3DX="1394.25" centerPoint3DY="298.5" loop="single frame">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="1229.05" ty="414"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.5" y="189.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="18" name="дабл блинк" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/dddd666" symbolType="graphic" centerPoint3DX="1394.25" centerPoint3DY="298.5" loop="play once">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="1229.05" ty="414"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.5" y="189.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="17" name="ничего" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/dddd666" symbolType="graphic" centerPoint3DX="1394.25" centerPoint3DY="298.5" loop="single frame">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="1229.05" ty="414"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.5" y="189.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="29" name="ускорение" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/sss33" symbolType="graphic" centerPoint3DX="1394.25" centerPoint3DY="298.5" loop="play once">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="1229.05" ty="414"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.5" y="189.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="16" name="блинк" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/ffff44" symbolType="graphic" firstFrame="24" centerPoint3DX="1394.25" centerPoint3DY="298.5" loop="play once">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="1229.05" ty="414"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.5" y="189.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="25" name="ничего" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/dddd666" symbolType="graphic" centerPoint3DX="1394.25" centerPoint3DY="298.5" loop="single frame">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="1229.05" ty="414"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.5" y="189.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="113" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/rBitmap 7">
+                  <matrix>
+                    <Matrix tx="1200" ty="136"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

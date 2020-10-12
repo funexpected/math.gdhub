@@ -1,0 +1,21 @@
+[gd_resource type="LargeTexture" load_steps=16 format=2]
+
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-00x02.tex" type="Texture" id=1]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-01x01.tex" type="Texture" id=2]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-08x02.tex" type="Texture" id=3]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-00x01.tex" type="Texture" id=4]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-02x02.tex" type="Texture" id=5]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-03x01.tex" type="Texture" id=6]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-04x02.tex" type="Texture" id=7]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-07x01.tex" type="Texture" id=8]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-09x02.tex" type="Texture" id=9]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-01x02.tex" type="Texture" id=10]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-07x02.tex" type="Texture" id=11]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-08x01.tex" type="Texture" id=12]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-02x01.tex" type="Texture" id=13]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-03x02.tex" type="Texture" id=14]
+[ext_resource path="res://.import/background-6.png-58367d995c134c8d365429d2e4c3afa6.s3tc-09x01.tex" type="Texture" id=15]
+
+[resource]
+flags = 5
+_data = [ Vector2( 0, 512 ), ExtResource( 4 ), Vector2( 0, 1024 ), ExtResource( 1 ), Vector2( 512, 512 ), ExtResource( 2 ), Vector2( 512, 1024 ), ExtResource( 10 ), Vector2( 1024, 512 ), ExtResource( 13 ), Vector2( 1024, 1024 ), ExtResource( 5 ), Vector2( 1536, 512 ), ExtResource( 6 ), Vector2( 1536, 1024 ), ExtResource( 14 ), Vector2( 2048, 1024 ), ExtResource( 7 ), Vector2( 3584, 512 ), ExtResource( 8 ), Vector2( 3584, 1024 ), ExtResource( 11 ), Vector2( 4096, 512 ), ExtResource( 12 ), Vector2( 4096, 1024 ), ExtResource( 3 ), Vector2( 4608, 512 ), ExtResource( 15 ), Vector2( 4608, 1024 ), ExtResource( 9 ), Vector2( 10732, 1080 ) ]

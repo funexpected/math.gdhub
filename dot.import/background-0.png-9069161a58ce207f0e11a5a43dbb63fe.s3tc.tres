@@ -1,0 +1,10 @@
+[gd_resource type="LargeTexture" load_steps=5 format=2]
+
+[ext_resource path="res://.import/background-0.png-9069161a58ce207f0e11a5a43dbb63fe.s3tc-01x00.tex" type="Texture" id=1]
+[ext_resource path="res://.import/background-0.png-9069161a58ce207f0e11a5a43dbb63fe.s3tc-01x01.tex" type="Texture" id=2]
+[ext_resource path="res://.import/background-0.png-9069161a58ce207f0e11a5a43dbb63fe.s3tc-00x01.tex" type="Texture" id=3]
+[ext_resource path="res://.import/background-0.png-9069161a58ce207f0e11a5a43dbb63fe.s3tc-00x00.tex" type="Texture" id=4]
+
+[resource]
+flags = 5
+_data = [ Vector2( 0, 0 ), ExtResource( 4 ), Vector2( 0, 1024 ), ExtResource( 3 ), Vector2( 1024, 0 ), ExtResource( 1 ), Vector2( 1024, 1024 ), ExtResource( 2 ), Vector2( 2000, 1080 ) ]

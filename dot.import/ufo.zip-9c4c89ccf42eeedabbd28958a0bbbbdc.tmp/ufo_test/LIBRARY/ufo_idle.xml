@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ufo_idle" itemID="5f64820e-00000d9c" symbolType="graphic" lastModified="1601473507">
+  <timeline>
+    <DOMTimeline name="ufo_idle" currentFrame="49" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="49" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="all" name="My Ease 7">
+                  <Point/>
+                  <Point x="0.4995"/>
+                  <Point x="0.5918" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 32 copy 2_idle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="112.1" ty="165"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-14.4" y="-94.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="50" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="all" name="My Ease 7">
+                  <Point/>
+                  <Point x="0.4995"/>
+                  <Point x="0.5918" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 32 copy 2_idle" selected="true" symbolType="graphic" firstFrame="49" centerPoint3DX="111.45" centerPoint3DY="107.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="112.1" ty="189"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-14.4" y="-94.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 32 copy 2_idle" symbolType="graphic" firstFrame="99" centerPoint3DX="111.45" centerPoint3DY="83.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="112.1" ty="165"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-14.4" y="-94.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

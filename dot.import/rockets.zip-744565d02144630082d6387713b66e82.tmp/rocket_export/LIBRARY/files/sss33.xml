@@ -1,0 +1,131 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/sss33" itemID="5ed8af87-0000005b" symbolType="graphic" lastModified="1591259663" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="sss33" currentFrame="20" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_5" color="#009999" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 15">
+                  <matrix>
+                    <Matrix tx="78" ty="141"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 14">
+                  <matrix>
+                    <Matrix tx="76" ty="159"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 16">
+                  <matrix>
+                    <Matrix tx="71" ty="126"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="17" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 17">
+                  <matrix>
+                    <Matrix tx="70" ty="131"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 14">
+                  <matrix>
+                    <Matrix tx="76" ty="159"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="bitmap/Bitmap 15">
+                  <matrix>
+                    <Matrix tx="78" ty="141"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_6" color="#FF0000" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 4">
+                  <matrix>
+                    <Matrix tx="32" ty="42.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.65" y="112.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 13">
+                  <matrix>
+                    <Matrix tx="27" ty="56"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 4" centerPoint3DX="111.65" centerPoint3DY="141.95">
+                  <matrix>
+                    <Matrix a="0.942245483398438" d="1.07113647460938" tx="36.65" ty="21.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.75" y="112.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 3" centerPoint3DX="111.65" centerPoint3DY="154.95">
+                  <matrix>
+                    <Matrix tx="32" ty="42.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.65" y="192.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

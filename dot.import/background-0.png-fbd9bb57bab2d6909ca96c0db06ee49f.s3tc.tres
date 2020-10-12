@@ -1,0 +1,18 @@
+[gd_resource type="LargeTexture" load_steps=13 format=2]
+
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-05x00.tex" type="Texture" id=1]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-01x01.tex" type="Texture" id=2]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-05x01.tex" type="Texture" id=3]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-02x01.tex" type="Texture" id=4]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-04x01.tex" type="Texture" id=5]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-04x00.tex" type="Texture" id=6]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-03x01.tex" type="Texture" id=7]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-03x00.tex" type="Texture" id=8]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-01x00.tex" type="Texture" id=9]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-02x00.tex" type="Texture" id=10]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-00x01.tex" type="Texture" id=11]
+[ext_resource path="res://.import/background-0.png-fbd9bb57bab2d6909ca96c0db06ee49f.s3tc-00x00.tex" type="Texture" id=12]
+
+[resource]
+flags = 5
+_data = [ Vector2( 0, 0 ), ExtResource( 12 ), Vector2( 0, 512 ), ExtResource( 11 ), Vector2( 512, 0 ), ExtResource( 9 ), Vector2( 512, 512 ), ExtResource( 2 ), Vector2( 1024, 0 ), ExtResource( 10 ), Vector2( 1024, 512 ), ExtResource( 4 ), Vector2( 1536, 0 ), ExtResource( 8 ), Vector2( 1536, 512 ), ExtResource( 7 ), Vector2( 2048, 0 ), ExtResource( 6 ), Vector2( 2048, 512 ), ExtResource( 5 ), Vector2( 2560, 0 ), ExtResource( 1 ), Vector2( 2560, 512 ), ExtResource( 3 ), Vector2( 3000, 1080 ) ]

@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn" itemID="5efde383-00002ab8" symbolType="graphic" lastModified="1593697155">
+  <timeline>
+    <DOMTimeline name="btn" currentFrame="11" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.74859619140625" d="0.74859619140625" tx="751.05" ty="224.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="217.05" y="72.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17" symbolType="graphic" centerPoint3DX="913.55" centerPoint3DY="278.1" loop="loop">
+                  <matrix>
+                    <Matrix a="1.09025573730469" d="1.09025573730469" tx="676.9" ty="199.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="217.1" y="72"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17" symbolType="graphic" centerPoint3DX="913.55" centerPoint3DY="278.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="696.45" ty="206.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="217.1" y="72"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

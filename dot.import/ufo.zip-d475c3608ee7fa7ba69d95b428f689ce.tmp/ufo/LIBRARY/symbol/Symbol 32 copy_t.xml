@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="symbol/Symbol 32 copy_t" itemID="5f48e52f-0000053b" symbolType="graphic" lastModified="1598612783">
+  <timeline>
+    <DOMTimeline name="Symbol 32 copy_t" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="50" name="полет тормажение" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17 copy_ tt" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-112.1" ty="-58.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112" y="17.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17 copy_ tt" symbolType="graphic" firstFrame="11" centerPoint3DX="2.8" centerPoint3DY="-81.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.997604370117188" b="0.069091796875" c="-0.069091796875" d="0.997604370117188" tx="-110.55" ty="-66.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="111.95" y="17.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17 copy_ tt" selected="true" symbolType="graphic" firstFrame="24" centerPoint3DY="-81.2" loop="loop">
+                  <matrix>
+                    <Matrix tx="-112.1" ty="-58.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112" y="17.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17 copy_ tt" selected="true" symbolType="graphic" firstFrame="37" centerPoint3DX="-2.35" centerPoint3DY="-81.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.998291015625" b="-0.0579681396484375" c="0.0579681396484375" d="0.998291015625" tx="-112.9" ty="-51.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="111.95" y="17.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/Symbol 17 copy_ tt" symbolType="graphic" firstFrame="50" centerPoint3DY="-81.2" loop="loop">
+                  <matrix>
+                    <Matrix tx="-112.1" ty="-58.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112" y="17.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

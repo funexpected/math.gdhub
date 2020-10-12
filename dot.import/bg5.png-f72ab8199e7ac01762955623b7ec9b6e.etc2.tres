@@ -1,0 +1,4 @@
+[gd_resource type="LargeTexture" format=2]
+
+[resource]
+_data = [ Vector2( 5500, 1080 ) ]

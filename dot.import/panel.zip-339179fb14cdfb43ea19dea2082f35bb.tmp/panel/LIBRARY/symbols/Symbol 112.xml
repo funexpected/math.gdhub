@@ -1,0 +1,107 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="symbols/Symbol 112" itemID="5ebae0de-00002ad3" symbolType="graphic" lastModified="1591708064">
+  <timeline>
+    <DOMTimeline name="Symbol 112" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 114" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point y="16.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 114" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix tx="28.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="16.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 114" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix tx="56.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="16.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 114" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix tx="84.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="16.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 114" symbolType="graphic" firstFrame="4" loop="loop">
+                  <matrix>
+                    <Matrix tx="111.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="16.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="symbols/Symbol 114" symbolType="graphic" firstFrame="5" loop="loop">
+                  <matrix>
+                    <Matrix tx="140.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="16.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="bitmap/Bitmap 8">
+                      <matrix>
+                        <Matrix tx="110" ty="-2"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="bitmap/Bitmap 9">
+                      <matrix>
+                        <Matrix tx="138" ty="-2"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="26" ty="-2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 6">
+                  <matrix>
+                    <Matrix tx="54" ty="-2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="bitmap/Bitmap 7">
+                  <matrix>
+                    <Matrix tx="82" ty="-2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

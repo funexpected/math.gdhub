@@ -1,0 +1,299 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="symbol/place1" itemID="5efdb3e1-000014ad" symbolType="graphic" lastModified="1593684961">
+  <timeline>
+    <DOMTimeline name="place1" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" name="ship_yellow_1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="ship_yellow_2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="ship_yellow_3" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" name="ship_yellow_4" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" name="ship_yellow_5" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" name="ship_yellow_6" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" name="ship_blue_1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" name="ship_blue_2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" name="ship_blue_3" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" name="ship_blue_4" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" name="ship_blue_5" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" name="ship_blue_6" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" name="ship_red_1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" name="ship_red_2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" name="ship_red_3" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" name="ship_red_4" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" name="ship_red_5" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="17" name="ship_red_6" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="png/ship_yellow_1.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_yellow_2.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_yellow_3.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_yellow_4.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_yellow_5.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_yellow_6.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_red_1.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_red_2.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_red_3.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_red_4.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_red_5.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_red_6.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_blue_1.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_blue_2.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_blue_3.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_blue_4.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_blue_6.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/ship_blue_5.png">
+                  <matrix>
+                    <Matrix a="0.7039794921875" d="0.7039794921875" tx="-41" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.85" y="127.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

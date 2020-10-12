@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ufo_2" itemID="5f48e5b7-00000542" lastModified="1598613060">
+  <timeline>
+    <DOMTimeline name="ufo_2" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="132" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="symbol/ufo_2_" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-125.8" ty="-591.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-7.05" y="399.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

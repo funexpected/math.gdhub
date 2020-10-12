@@ -1,0 +1,129 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 14 copy 2" itemID="5a843936-00001eac" lastModified="1518614871" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 14 copy 2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol 15" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20 copy" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.25" ty="13.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20 copy" symbolType="graphic" firstFrame="1" centerPoint3DX="30.75" centerPoint3DY="44.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.25" ty="13.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20 copy" symbolType="graphic" firstFrame="2" centerPoint3DX="30.75" centerPoint3DY="44.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.25" ty="13.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20 copy" symbolType="graphic" firstFrame="3" centerPoint3DX="30.75" centerPoint3DY="44.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.25" ty="13.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20 copy" selected="true" symbolType="graphic" firstFrame="4" centerPoint3DX="30.75" centerPoint3DY="44.8" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-21.25" ty="13.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20 copy" symbolType="graphic" firstFrame="5" centerPoint3DX="30.75" centerPoint3DY="44.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.25" ty="13.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20 copy" symbolType="graphic" firstFrame="6" centerPoint3DX="30.75" centerPoint3DY="44.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.25" ty="13.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 20 copy" symbolType="graphic" firstFrame="7" centerPoint3DX="35.85" centerPoint3DY="41.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.972579956054688" b="0.232528686523438" c="-0.232528686523438" d="0.972579956054688" tx="-7.35" ty="-1.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.45" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol 16" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,151 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/Symbol 155" itemID="5ebb8e8c-000031b6" symbolType="graphic" lastModified="1591259663">
+  <timeline>
+    <DOMTimeline name="Symbol 155" currentFrame="13" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 32" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="0.61834716796875" c="-0.7991943359375" d="0" tx="871.4" ty="-345.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="130.25" y="412.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0.78125" blueMultiplier="0.78125" greenMultiplier="0.78125" redOffset="56" blueOffset="45" greenOffset="56"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 32" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="0.61834716796875" c="-0.7991943359375" d="0" tx="871.4" ty="-345.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="130.25" y="412.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1796875" redMultiplier="0.78125" blueMultiplier="0.78125" greenMultiplier="0.78125" redOffset="56" blueOffset="45" greenOffset="56"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 32" symbolType="graphic" firstFrame="13" centerPoint3DX="518.65" centerPoint3DY="-269.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="0.61834716796875" c="-0.7991943359375" d="0" tx="871.4" ty="-345.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="130.25" y="412.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.0703125" redMultiplier="0.78125" blueMultiplier="0.78125" greenMultiplier="0.78125" redOffset="56" blueOffset="45" greenOffset="56"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 32" selected="true" symbolType="graphic" firstFrame="18" centerPoint3DX="518.65" centerPoint3DY="-269.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="0.61834716796875" c="-0.7991943359375" d="0" tx="871.4" ty="-345.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="130.25" y="412.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0.78125" blueMultiplier="0.78125" greenMultiplier="0.78125" redOffset="56" blueOffset="45" greenOffset="56"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 32" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="0.857025146484375" c="-1.11883544921875" d="0" tx="1028.5" ty="-376.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="130.35" y="412.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0.78125" blueMultiplier="0.78125" greenMultiplier="0.78125" redOffset="56" blueOffset="45" greenOffset="56"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 32" symbolType="graphic" firstFrame="19" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="0.857025146484375" c="-1.11883544921875" d="0" tx="1028.5" ty="-376.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="130.35" y="412.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1796875" redMultiplier="0.78125" blueMultiplier="0.78125" greenMultiplier="0.78125" redOffset="56" blueOffset="45" greenOffset="56"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 32" symbolType="graphic" firstFrame="1" centerPoint3DX="534.7" centerPoint3DY="-271.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="0.857025146484375" c="-1.11883544921875" d="0" tx="1028.5" ty="-376.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="130.35" y="412.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1796875" redMultiplier="0.78125" blueMultiplier="0.78125" greenMultiplier="0.78125" redOffset="56" blueOffset="45" greenOffset="56"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/Symbol 32" selected="true" symbolType="graphic" firstFrame="6" centerPoint3DX="534.7" centerPoint3DY="-271.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="0.857025146484375" c="-1.11883544921875" d="0" tx="1028.5" ty="-376.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="130.35" y="412.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0.78125" blueMultiplier="0.78125" greenMultiplier="0.78125" redOffset="56" blueOffset="45" greenOffset="56"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

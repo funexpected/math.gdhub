@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 15" itemID="5a8197f3-00000d79" lastModified="1574088451" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Symbol 15">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-1125.35" ty="-125.75"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="3" joints="miter" miterLimit="10">
+                            <fill>
+                              <SolidColor color="#1C1C1C"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!23860 3085[23860 3135 23825 3170!23825 3170[23790 3205 23740 3205!23740 3205[23690 3205 23655 3170!23655 3170[23620 3135 23620 3085"/>
+                        <Edge cubics="!23860 3085(;23860,3151 23806,3205 23740,3205q23860 3085Q23860 3135q23825 3170Q23790 3205q23740 3205);"/>
+                        <Edge cubics="!23740 3205(;23673,3205 23620,3151 23620,3085q23740 3205Q23690 3205q23655 3170Q23620 3135q23620 3085);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-1125.35" ty="-125.75"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="3" joints="miter" miterLimit="10">
+                            <fill>
+                              <SolidColor color="#1C1C1C"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!23620 2848|23620 2909"/>
+                        <Edge cubics="!23620 2848(;23620,2848 23620,2909 23620,2909q23620 2848 23620 2909);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-1125.35" ty="-125.75"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="3" joints="miter" miterLimit="10">
+                            <fill>
+                              <SolidColor color="#1C1C1C"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!23860 2848|23860 2909"/>
+                        <Edge cubics="!23860 2848(;23860,2848 23860,2909 23860,2909q23860 2848 23860 2909);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="FlashAICB/Layer 7/&amp;#060Clip Group&amp;#062" centerPoint3DX="47.7" centerPoint3DY="23.8">
+                  <matrix>
+                    <Matrix ty="-10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.75" y="37.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F8E151"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1632 487[1632 715 1414 837!1414 837[1208 953 846 953!846 953[477 953 248 837!248 837[0 712 0 487!0 487[0 260 248 126!248 126[482 0 846 0!846 0[1203 0 1414 126!1414 126[1632 256 1632 487"/>
+                    <Edge cubics="!1632 487(;1632,800 1313,953 846,953q1632 487Q1632 715q1414 837Q1208 953q846 953);"/>
+                    <Edge cubics="!846 953(;379,953 0,800 0,487q846 953Q477 953q248 837Q0 712q0 487);"/>
+                    <Edge cubics="!0 487(;0,174 379,0 846,0q0 487Q0 260q248 126Q482 0q846 0);"/>
+                    <Edge cubics="!846 0(;1313,0 1632,174 1632,487q846 0Q1203 0q1414 126Q1632 256q1632 487);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

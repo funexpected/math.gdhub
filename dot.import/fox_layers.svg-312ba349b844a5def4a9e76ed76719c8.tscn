@@ -1,0 +1,490 @@
+[gd_scene format=2]
+
+[node name="" type="Node2D"]
+
+[node name="background_pass" type="Node2D" parent="."]
+
+[node name="background_pass" type="Polygon2D" parent="background_pass"]
+polygon = PoolVector2Array( 0.5, 0.5, 1240.5, 0.5, 1240.5, 1080.5, 0.5, 1080.5 )
+
+[node name="texture_5" type="Node2D" parent="."]
+
+[node name="quadrilateral" type="Node2D" parent="texture_5"]
+
+[node name="texture_5_quadrilateral" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 756.62, 840.57, 678.45, 797.49, 698.71, 835.31, 730.78, 867.29 )
+
+[node name="texture_5_quadrilateral2" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0.156863, 0.156863, 0.156863, 1 )
+polygon = PoolVector2Array( 730.78, 867.29, 692.48, 981.33, 739.98, 981.33, 756.62, 840.57 )
+
+[node name="texture_5_quadrilateral3" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0.807843, 0.254902, 0.160784, 1 )
+polygon = PoolVector2Array( 284.32, 693.12, 168.84, 667.06, 239.66, 735.88, 288.89, 710.94 )
+
+[node name="texture_5_quadrilateral4" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0.968627, 0.921569, 0.843137, 1 )
+polygon = PoolVector2Array( 240.56, 566.69, 267.5, 627.64, 333.43, 561.71, 284.32, 533.65 )
+
+[node name="texture_5_quadrilateral5" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0.988235, 0.972549, 0.941176, 1 )
+polygon = PoolVector2Array( 168.84, 667.06, 208.26, 591.08, 240.56, 566.69, 267.5, 627.64 )
+
+[node name="texture_5_quadrilateral6" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0.988235, 0.972549, 0.941176, 1 )
+polygon = PoolVector2Array( 302.56, 475.31, 295.58, 445.06, 312.9, 464.6, 308.49, 486.87 )
+
+[node name="texture_5_quadrilateral7" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0.988235, 0.972549, 0.941176, 1 )
+polygon = PoolVector2Array( 89.32, 461.04, 106.69, 573.29, 138.1, 508.29, 116.79, 458.81 )
+
+[node name="texture_5_quadrilateral8" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0.988235, 0.972549, 0.941176, 1 )
+polygon = PoolVector2Array( 574.87, 693.12, 530.32, 648.13, 552.6, 739.89, 591.8, 772.19 )
+
+[node name="texture_5_quadrilateral9" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 1, 0.521569, 0.2, 1 )
+polygon = PoolVector2Array( 245.68, 416.05, 243.04, 388.45, 271.65, 388.74, 277.45, 416.67 )
+
+[node name="texture_5_quadrilateral10" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 1, 0.521569, 0.2, 1 )
+polygon = PoolVector2Array( 225.65, 402.24, 208.26, 399.56, 229.64, 361.26, 243.04, 388.45 )
+
+[node name="texture_5_quadrilateral11" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 271.65, 307.67, 209.37, 312.63, 213.6, 328.74, 266.8, 329.01 )
+
+[node name="texture_5_quadrilateral12" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 346.8, 948.37, 315.44, 963.15, 354.81, 981.33, 361.59, 954.63 )
+
+[node name="texture_5_quadrilateral13" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0.988235, 0.972549, 0.941176, 1 )
+polygon = PoolVector2Array( 1133.03, 772.86, 1036.81, 795.57, 1133.03, 927.88, 1176.39, 832.48 )
+
+[node name="texture_5_quadrilateral14" type="Polygon2D" parent="texture_5/quadrilateral"]
+color = Color( 0.976471, 0.415686, 0.168627, 1 )
+polygon = PoolVector2Array( 711.31, 475.68, 760.18, 502.02, 738.8, 624.96, 692.48, 583.96 )
+
+[node name="pentagon" type="Node2D" parent="texture_5"]
+
+[node name="texture_5_pentagon" type="Polygon2D" parent="texture_5/pentagon"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 302.56, 475.31, 298.24, 458.81, 272.85, 458.81, 269.86, 474.7, 286.73, 484.32 )
+
+[node name="texture_5_pentagon2" type="Polygon2D" parent="texture_5/pentagon"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 685.25, 946.24, 654.61, 969.08, 657.83, 981.33, 692.48, 981.33, 702.57, 952.56 )
+
+[node name="texture_5_pentagon3" type="Polygon2D" parent="texture_5/pentagon"]
+color = Color( 0.937255, 0.870588, 0.780392, 1 )
+polygon = PoolVector2Array( 282.6, 491.49, 252.36, 494.45, 232.93, 488.24, 269.86, 474.7, 286.73, 484.32 )
+
+[node name="texture_5_pentagon4" type="Polygon2D" parent="texture_5/pentagon"]
+color = Color( 0.937255, 0.811765, 0.67451, 1 )
+polygon = PoolVector2Array( 329.25, 454.22, 334.86, 465.1, 318.48, 487.32, 308.49, 486.87, 312.9, 464.6 )
+
+[node name="texture_5_pentagon5" type="Polygon2D" parent="texture_5/pentagon"]
+color = Color( 1, 0.521569, 0.2, 1 )
+polygon = PoolVector2Array( 637.22, 720.51, 709.4, 686.44, 738.8, 624.96, 692.48, 583.96, 637.22, 639.22 )
+
+[node name="texture_5_pentagon6" type="Polygon2D" parent="texture_5/pentagon"]
+color = Color( 0.807843, 0.254902, 0.160784, 1 )
+polygon = PoolVector2Array( 285.34, 429.03, 284.32, 420.04, 298.24, 418.94, 312.9, 435.59, 295.58, 445.06 )
+
+[node name="triangle" type="Node2D" parent="texture_5"]
+
+[node name="texture_5_triangle" type="Polygon2D" parent="texture_5/triangle"]
+color = Color( 0.156863, 0.156863, 0.156863, 1 )
+polygon = PoolVector2Array( 145.4, 259.99, 152.8, 248.74, 205.17, 295.16 )
+
+[node name="texture_5_triangle2" type="Polygon2D" parent="texture_5/triangle"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 226.95, 421.54, 236.28, 421.39, 225.65, 402.24 )
+
+[node name="texture_5_triangle3" type="Polygon2D" parent="texture_5/triangle"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 303.81, 909.52, 253.69, 896.25, 239.66, 735.88 )
+
+[node name="texture_5_triangle4" type="Polygon2D" parent="texture_5/triangle"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 418.07, 910.95, 398.69, 691.78, 369.96, 921.64 )
+
+[node name="texture_5_triangle5" type="Polygon2D" parent="texture_5/triangle"]
+color = Color( 0.941176, 0.352941, 0.160784, 1 )
+polygon = PoolVector2Array( 709.4, 855.26, 674.65, 851.26, 637.22, 720.51 )
+
+[node name="texture_5_triangle6" type="Polygon2D" parent="texture_5/triangle"]
+color = Color( 0.858824, 0.286275, 0.156863, 1 )
+polygon = PoolVector2Array( 786.91, 788, 923.22, 855.26, 848.38, 754.59 )
+
+[node name="texture_5_triangle7" type="Polygon2D" parent="texture_5/triangle"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 277.45, 416.67, 282.65, 403.57, 271.65, 388.74 )
+
+[node name="texture_5_triangle8" type="Polygon2D" parent="texture_5/triangle"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 217.95, 421.69, 225.65, 402.24, 208.26, 399.56 )
+
+[node name="texture_5_triangle9" type="Polygon2D" parent="texture_5/triangle"]
+color = Color( 0.976471, 0.415686, 0.168627, 1 )
+polygon = PoolVector2Array( 296.67, 396.01, 318.15, 432.72, 318.15, 384.42 )
+
+[node name="texture_4" type="Node2D" parent="."]
+
+[node name="quadrilateral" type="Node2D" parent="texture_4"]
+
+[node name="texture_4_quadrilateral" type="Polygon2D" parent="texture_4/quadrilateral"]
+color = Color( 0.988235, 0.972549, 0.941176, 1 )
+polygon = PoolVector2Array( 113.43, 350.43, 127.78, 286.8, 174.69, 376.85, 125.4, 403.57 )
+
+[node name="texture_4_quadrilateral2" type="Polygon2D" parent="texture_4/quadrilateral"]
+color = Color( 0.156863, 0.156863, 0.156863, 1 )
+polygon = PoolVector2Array( 418.07, 910.95, 393.12, 981.33, 354.81, 981.33, 369.96, 921.64 )
+
+[node name="texture_4_quadrilateral3" type="Polygon2D" parent="texture_4/quadrilateral"]
+color = Color( 0.807843, 0.254902, 0.160784, 1 )
+polygon = PoolVector2Array( 674.65, 851.26, 623.8, 981.33, 637.22, 981.33, 709.4, 855.26 )
+
+[node name="texture_4_quadrilateral4" type="Polygon2D" parent="texture_4/quadrilateral"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 786.91, 835.31, 709.4, 774.64, 678.45, 797.49, 756.62, 840.57 )
+
+[node name="texture_4_quadrilateral5" type="Polygon2D" parent="texture_4/quadrilateral"]
+color = Color( 0.988235, 0.972549, 0.941176, 1 )
+polygon = PoolVector2Array( 276.96, 508.29, 256.57, 505.58, 252.36, 494.45, 277.45, 500.8 )
+
+[node name="texture_4_quadrilateral6" type="Polygon2D" parent="texture_4/quadrilateral"]
+color = Color( 0.937255, 0.870588, 0.780392, 1 )
+polygon = PoolVector2Array( 318.15, 432.72, 295.58, 445.06, 312.9, 464.6, 329.25, 454.22 )
+
+[node name="texture_4_quadrilateral7" type="Polygon2D" parent="texture_4/quadrilateral"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 243.04, 388.45, 245.68, 416.05, 236.28, 421.39, 225.65, 402.24 )
+
+[node name="texture_4_quadrilateral8" type="Polygon2D" parent="texture_4/quadrilateral"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 298.24, 418.94, 312.9, 435.59, 318.15, 432.72, 303.2, 407.17 )
+
+[node name="texture_4_quadrilateral9" type="Polygon2D" parent="texture_4/quadrilateral"]
+color = Color( 1, 0.521569, 0.2, 1 )
+polygon = PoolVector2Array( 295.58, 445.06, 264.11, 445.06, 272.85, 458.81, 298.24, 458.81 )
+
+[node name="texture_4_quadrilateral10" type="Polygon2D" parent="texture_4/quadrilateral"]
+color = Color( 0.941176, 0.352941, 0.160784, 1 )
+polygon = PoolVector2Array( 269.39, 360.9, 296.67, 396.01, 318.15, 384.42, 266.8, 329.01 )
+
+[node name="triangle" type="Node2D" parent="texture_4"]
+
+[node name="texture_4_triangle" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 321.25, 245.96, 277.14, 284.51, 332.9, 255.23 )
+
+[node name="texture_4_triangle2" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 134.5, 257.03, 152.8, 248.74, 127.78, 286.8 )
+
+[node name="texture_4_triangle3" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 208.93, 421.84, 190.88, 410.7, 208.26, 399.56 )
+
+[node name="texture_4_triangle4" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 284.32, 420.04, 277.45, 416.67, 282.65, 403.57 )
+
+[node name="texture_4_triangle5" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0.988235, 0.972549, 0.941176, 1 )
+polygon = PoolVector2Array( 232.93, 488.24, 190.88, 446.78, 230.98, 461.04 )
+
+[node name="texture_4_triangle6" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0.988235, 0.972549, 0.941176, 1 )
+polygon = PoolVector2Array( 333.43, 561.71, 284.32, 533.65, 334.86, 465.1 )
+
+[node name="texture_4_triangle7" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 285.34, 429.03, 277.45, 416.67, 284.32, 420.04 )
+
+[node name="texture_4_triangle8" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 1, 0.654902, 0.2, 1 )
+polygon = PoolVector2Array( 217.95, 421.69, 226.95, 421.54, 225.65, 402.24 )
+
+[node name="texture_4_triangle9" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 282.65, 403.57, 292.72, 419.38, 296.67, 396.01 )
+
+[node name="texture_4_triangle10" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 296.67, 396.01, 303.2, 407.17, 298.24, 418.94 )
+
+[node name="texture_4_triangle11" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0.858824, 0.286275, 0.156863, 1 )
+polygon = PoolVector2Array( 637.22, 528.71, 581.97, 583.96, 648.59, 441.88 )
+
+[node name="texture_4_triangle12" type="Polygon2D" parent="texture_4/triangle"]
+color = Color( 0.807843, 0.254902, 0.160784, 1 )
+polygon = PoolVector2Array( 637.22, 720.51, 666.22, 774.66, 709.4, 686.44 )
+
+[node name="texture_3" type="Node2D" parent="."]
+
+[node name="pentagon" type="Node2D" parent="texture_3"]
+
+[node name="texture_3_pentagon" type="Polygon2D" parent="texture_3/pentagon"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 244.24, 981.33, 195.53, 981.33, 196.9, 971.08, 225.3, 951.71, 247.01, 956.38 )
+
+[node name="texture_3_pentagon2" type="Polygon2D" parent="texture_3/pentagon"]
+color = Color( 0.156863, 0.156863, 0.156863, 1 )
+polygon = PoolVector2Array( 580.16, 946.37, 558.39, 962.62, 565.51, 981.33, 594.91, 981.33, 606.05, 952.85 )
+
+[node name="texture_3_pentagon3" type="Polygon2D" parent="texture_3/pentagon"]
+color = Color( 0.858824, 0.286275, 0.156863, 1 )
+polygon = PoolVector2Array( 333.43, 561.71, 428.09, 640.87, 500.9, 646.04, 488.22, 559.17, 359.25, 512.34 )
+
+[node name="texture_3_pentagon4" type="Polygon2D" parent="texture_3/pentagon"]
+color = Color( 0.968627, 0.921569, 0.843137, 1 )
+polygon = PoolVector2Array( 272.85, 458.81, 264.11, 445.06, 230.98, 461.04, 232.93, 488.24, 269.86, 474.7 )
+
+[node name="texture_3_pentagon5" type="Polygon2D" parent="texture_3/pentagon"]
+color = Color( 0.968627, 0.921569, 0.843137, 1 )
+polygon = PoolVector2Array( 308.49, 486.87, 296.94, 494.72, 282.6, 491.49, 286.73, 484.32, 302.56, 475.31 )
+
+[node name="quadrilateral" type="Node2D" parent="texture_3"]
+
+[node name="texture_3_quadrilateral" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 0.156863, 0.156863, 0.156863, 1 )
+polygon = PoolVector2Array( 315.18, 734.35, 303.81, 909.52, 239.66, 735.88, 288.89, 710.94 )
+
+[node name="texture_3_quadrilateral2" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 666.22, 774.66, 678.45, 797.49, 709.4, 774.64, 693.05, 719.85 )
+
+[node name="texture_3_quadrilateral3" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 0.976471, 0.415686, 0.168627, 1 )
+polygon = PoolVector2Array( 617.2, 508.83, 530.32, 424.74, 423.1, 433.01, 488.22, 559.17 )
+
+[node name="texture_3_quadrilateral4" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 0.858824, 0.286275, 0.156863, 1 )
+polygon = PoolVector2Array( 190.88, 446.78, 208.93, 421.84, 236.28, 421.39, 230.98, 461.04 )
+
+[node name="texture_3_quadrilateral5" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 0.976471, 0.415686, 0.168627, 1 )
+polygon = PoolVector2Array( 277.45, 416.67, 245.68, 416.05, 264.11, 445.06, 295.58, 445.06 )
+
+[node name="texture_3_quadrilateral6" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 1, 0.521569, 0.2, 1 )
+polygon = PoolVector2Array( 271.65, 388.74, 282.65, 403.57, 296.67, 396.01, 269.39, 360.9 )
+
+[node name="texture_3_quadrilateral7" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 0.858824, 0.286275, 0.156863, 1 )
+polygon = PoolVector2Array( 266.8, 329.01, 296.98, 361.57, 332.9, 255.23, 277.14, 284.51 )
+
+[node name="texture_3_quadrilateral8" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 1, 0.654902, 0.2, 1 )
+polygon = PoolVector2Array( 208.93, 421.84, 217.95, 421.69, 208.26, 399.56, 200.46, 404.56 )
+
+[node name="texture_3_quadrilateral9" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 282.6, 491.49, 296.94, 494.72, 277.45, 500.8, 252.36, 494.45 )
+
+[node name="texture_3_quadrilateral10" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 0.976471, 0.415686, 0.168627, 1 )
+polygon = PoolVector2Array( 848.38, 754.59, 947.21, 672.2, 1033.49, 690.97, 1036.81, 795.57 )
+
+[node name="texture_3_quadrilateral11" type="Polygon2D" parent="texture_3/quadrilateral"]
+color = Color( 0, 0, 0, 1 )
+polygon = PoolVector2Array( 674.65, 851.26, 623.8, 981.33, 594.91, 981.33, 647.59, 846.58 )
+
+[node name="square" type="Node2D" parent="texture_3"]
+
+[node name="texture_3_square" type="Polygon2D" parent="texture_3/square"]
+color = Color( 0.976471, 0.415686, 0.168627, 1 )
+polygon = PoolVector2Array( 581.964, 583.959, 637.218, 528.706, 692.471, 583.959, 637.218, 639.213 )
+
+[node name="triangle" type="Node2D" parent="texture_3"]
+
+[node name="texture_3_triangle" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 127.78, 286.8, 145.4, 259.99, 174.69, 376.85 )
+
+[node name="texture_3_triangle2" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 0.858824, 0.286275, 0.156863, 1 )
+polygon = PoolVector2Array( 335.77, 752.68, 369.96, 921.64, 398.69, 691.78 )
+
+[node name="texture_3_triangle3" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 0.968627, 0.921569, 0.843137, 1 )
+polygon = PoolVector2Array( 276.96, 508.29, 296.94, 494.72, 277.45, 500.8 )
+
+[node name="texture_3_triangle4" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 0.898039, 0.74902, 0.603922, 1 )
+polygon = PoolVector2Array( 267.5, 627.64, 168.84, 667.06, 284.32, 693.12 )
+
+[node name="texture_3_triangle5" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 0.941176, 0.352941, 0.160784, 1 )
+polygon = PoolVector2Array( 1036.81, 795.57, 1133.03, 772.86, 1033.49, 690.97 )
+
+[node name="texture_3_triangle6" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 0.988235, 0.972549, 0.941176, 1 )
+polygon = PoolVector2Array( 333.72, 362.8, 332.9, 255.23, 318.15, 384.42 )
+
+[node name="texture_3_triangle7" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 1, 0.654902, 0.2, 1 )
+polygon = PoolVector2Array( 284.32, 420.04, 292.72, 419.38, 282.65, 403.57 )
+
+[node name="texture_3_triangle8" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 1, 0.654902, 0.2, 1 )
+polygon = PoolVector2Array( 292.72, 419.38, 298.24, 418.94, 296.67, 396.01 )
+
+[node name="texture_3_triangle9" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 0.807843, 0.254902, 0.160784, 1 )
+polygon = PoolVector2Array( 581.97, 583.96, 500.9, 646.04, 530.32, 648.13 )
+
+[node name="texture_3_triangle10" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 0.807843, 0.254902, 0.160784, 1 )
+polygon = PoolVector2Array( 786.91, 835.31, 739.98, 981.33, 756.62, 840.57 )
+
+[node name="texture_3_triangle11" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 1, 0.521569, 0.2, 1 )
+polygon = PoolVector2Array( 648.59, 441.88, 530.32, 424.74, 617.2, 508.83 )
+
+[node name="texture_3_triangle12" type="Polygon2D" parent="texture_3/triangle"]
+color = Color( 0.156863, 0.156863, 0.156863, 1 )
+polygon = PoolVector2Array( 315.44, 963.15, 309.38, 981.33, 354.81, 981.33 )
+
+[node name="texture_2" type="Node2D" parent="."]
+
+[node name="triangle" type="Node2D" parent="texture_2"]
+
+[node name="texture_2_triangle" type="Polygon2D" parent="texture_2/triangle"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 398.69, 691.78, 428.09, 640.87, 333.43, 561.71 )
+
+[node name="texture_2_triangle2" type="Polygon2D" parent="texture_2/triangle"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 333.43, 561.71, 359.25, 512.34, 334.86, 465.1 )
+
+[node name="texture_2_triangle3" type="Polygon2D" parent="texture_2/triangle"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 318.15, 384.42, 332.9, 255.23, 296.98, 361.57 )
+
+[node name="pentagon" type="Node2D" parent="texture_2"]
+
+[node name="texture_2_pentagon" type="Polygon2D" parent="texture_2/pentagon"]
+color = Color( 0.976471, 0.415686, 0.168627, 1 )
+polygon = PoolVector2Array( 174.69, 376.85, 125.4, 403.57, 89.32, 461.04, 116.79, 458.81, 174.69, 421.08 )
+
+[node name="texture_2_pentagon2" type="Polygon2D" parent="texture_2/pentagon"]
+color = Color( 0.941176, 0.352941, 0.160784, 1 )
+polygon = PoolVector2Array( 363.72, 725.63, 288.89, 710.94, 267.5, 627.64, 333.43, 561.71, 398.69, 691.78 )
+
+[node name="quadrilateral" type="Node2D" parent="texture_2"]
+
+[node name="texture_2_quadrilateral" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.807843, 0.254902, 0.160784, 1 )
+polygon = PoolVector2Array( 500.9, 646.04, 428.09, 640.87, 398.69, 691.78, 470.85, 716.22 )
+
+[node name="texture_2_quadrilateral2" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 541.77, 695.31, 530.32, 648.13, 500.9, 646.04, 470.85, 716.22 )
+
+[node name="texture_2_quadrilateral3" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.941176, 0.352941, 0.160784, 1 )
+polygon = PoolVector2Array( 581.97, 583.96, 500.9, 646.04, 488.22, 559.17, 617.2, 508.83 )
+
+[node name="texture_2_quadrilateral4" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.858824, 0.286275, 0.156863, 1 )
+polygon = PoolVector2Array( 864.82, 573.4, 760.18, 502.02, 738.8, 624.96, 765.16, 656.15 )
+
+[node name="texture_2_quadrilateral5" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 923.22, 855.26, 1012.75, 869.07, 1036.81, 795.57, 848.38, 754.59 )
+
+[node name="texture_2_quadrilateral6" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.807843, 0.254902, 0.160784, 1 )
+polygon = PoolVector2Array( 713.17, 678.55, 738.8, 624.96, 848.38, 754.59, 786.91, 788 )
+
+[node name="texture_2_quadrilateral7" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.968627, 0.921569, 0.843137, 1 )
+polygon = PoolVector2Array( 168.84, 667.06, 106.69, 573.29, 138.1, 508.29, 208.26, 591.08 )
+
+[node name="texture_2_quadrilateral8" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 190.88, 446.78, 154.89, 433.98, 190.88, 410.7, 208.93, 421.84 )
+
+[node name="texture_2_quadrilateral9" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.807843, 0.254902, 0.160784, 1 )
+polygon = PoolVector2Array( 264.11, 445.06, 230.98, 461.04, 236.28, 421.39, 245.68, 416.05 )
+
+[node name="texture_2_quadrilateral10" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.858824, 0.286275, 0.156863, 1 )
+polygon = PoolVector2Array( 174.69, 376.85, 145.4, 259.99, 205.17, 295.16, 213.6, 328.74 )
+
+[node name="texture_2_quadrilateral11" type="Polygon2D" parent="texture_2/quadrilateral"]
+color = Color( 0.937255, 0.870588, 0.780392, 1 )
+polygon = PoolVector2Array( 1036.81, 795.57, 1133.03, 927.88, 1044.44, 912.65, 1012.75, 869.07 )
+
+[node name="texture_1" type="Node2D" parent="."]
+
+[node name="quadrilateral" type="Node2D" parent="texture_1"]
+
+[node name="texture_1_quadrilateral" type="Polygon2D" parent="texture_1/quadrilateral"]
+color = Color( 0.976471, 0.415686, 0.168627, 1 )
+polygon = PoolVector2Array( 243.04, 388.45, 213.6, 328.74, 266.8, 329.01, 271.65, 388.74 )
+
+[node name="texture_1_quadrilateral2" type="Polygon2D" parent="texture_1/quadrilateral"]
+color = Color( 0.937255, 0.870588, 0.780392, 1 )
+polygon = PoolVector2Array( 276.96, 508.29, 308.49, 486.87, 318.48, 487.32, 284.32, 533.65 )
+
+[node name="texture_1_quadrilateral3" type="Polygon2D" parent="texture_1/quadrilateral"]
+color = Color( 0.941176, 0.352941, 0.160784, 1 )
+polygon = PoolVector2Array( 637.22, 528.71, 692.48, 583.96, 711.31, 475.68, 648.59, 441.88 )
+
+[node name="texture_1_quadrilateral4" type="Polygon2D" parent="texture_1/quadrilateral"]
+color = Color( 0.156863, 0.156863, 0.156863, 1 )
+polygon = PoolVector2Array( 303.81, 909.52, 276.41, 981.33, 244.24, 981.33, 253.69, 896.25 )
+
+[node name="texture_1_quadrilateral5" type="Polygon2D" parent="texture_1/quadrilateral"]
+color = Color( 0.937255, 0.870588, 0.780392, 1 )
+polygon = PoolVector2Array( 208.26, 591.08, 138.1, 508.29, 200.46, 495.1, 226.31, 525.4 )
+
+[node name="texture_1_quadrilateral6" type="Polygon2D" parent="texture_1/quadrilateral"]
+color = Color( 0.941176, 0.352941, 0.160784, 1 )
+polygon = PoolVector2Array( 359.25, 512.34, 318.15, 432.72, 423.1, 433.01, 488.22, 559.17 )
+
+[node name="triangle" type="Node2D" parent="texture_1"]
+
+[node name="texture_1_triangle" type="Polygon2D" parent="texture_1/triangle"]
+color = Color( 0.807843, 0.254902, 0.160784, 1 )
+polygon = PoolVector2Array( 363.72, 725.63, 288.89, 710.94, 335.77, 752.68 )
+
+[node name="pentagon" type="Node2D" parent="texture_1"]
+
+[node name="texture_1_pentagon" type="Polygon2D" parent="texture_1/pentagon"]
+color = Color( 0.968627, 0.921569, 0.843137, 1 )
+polygon = PoolVector2Array( 190.88, 446.78, 154.89, 433.98, 116.79, 458.81, 138.1, 508.29, 232.93, 488.24 )
+
+[node name="texture_1_pentagon2" type="Polygon2D" parent="texture_1/pentagon"]
+color = Color( 0.937255, 0.811765, 0.67451, 1 )
+polygon = PoolVector2Array( 284.32, 533.65, 208.26, 591.08, 226.31, 525.4, 256.57, 505.58, 276.96, 508.29 )
+
+[node name="texture_1_pentagon3" type="Polygon2D" parent="texture_1/pentagon"]
+color = Color( 0.898039, 0.74902, 0.603922, 1 )
+polygon = PoolVector2Array( 252.36, 494.45, 232.93, 488.24, 200.46, 495.1, 226.31, 525.4, 256.57, 505.58 )
+
+[node name="texture_1_pentagon4" type="Polygon2D" parent="texture_1/pentagon"]
+color = Color( 0.941176, 0.352941, 0.160784, 1 )
+polygon = PoolVector2Array( 581.97, 583.96, 530.32, 648.13, 574.87, 693.12, 637.22, 720.51, 637.22, 639.22 )
+
+[node name="texture_1_pentagon5" type="Polygon2D" parent="texture_1/pentagon"]
+color = Color( 0.941176, 0.352941, 0.160784, 1 )
+polygon = PoolVector2Array( 174.69, 376.85, 213.6, 328.74, 229.64, 361.26, 208.26, 399.56, 174.69, 421.08 )
+
+[node name="texture_1_pentagon6" type="Polygon2D" parent="texture_1/pentagon"]
+color = Color( 0.717647, 0.219608, 0.152941, 1 )
+polygon = PoolVector2Array( 647.59, 846.58, 591.8, 772.19, 574.87, 693.12, 637.22, 720.51, 674.65, 851.26 )
+
+[node name="square" type="Node2D" parent="texture_1"]
+
+[node name="texture_1_square" type="Polygon2D" parent="texture_1/square"]
+color = Color( 0.941176, 0.352941, 0.160784, 1 )
+polygon = PoolVector2Array( 947.21, 672.2, 864.82, 573.4, 765.16, 656.15, 848.38, 754.59 )

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="files/galaxy_symbol/Symbol 11" itemID="5f2b8a29-00000764" symbolType="graphic" lastModified="1599141583">
+  <timeline>
+    <DOMTimeline name="Symbol 11" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="files/galaxy_symbol/Symbol 75" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="317.55" ty="224.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="628.5" y="628.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
